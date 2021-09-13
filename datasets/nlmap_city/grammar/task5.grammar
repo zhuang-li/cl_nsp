@@ -1,0 +1,325 @@
+$LOC	'Marseille'	Marseille
+$LOC	'Morningside'	Morningside
+$LOC	'United_Kingdom'	United Kingdom
+$LOC	'8e_Arrondissement'	8e Arrondissement
+$LOC	'Newington'	Newington
+$LOC	'Lille'	Lille
+$LOC	'Paris'	Paris
+$LOC	'2e_Arrondissement'	2e Arrondissement
+$LOC	'10e_Arrondissement'	10e Arrondissement
+$LOC	'Eppelheim'	Eppelheim
+$POI	'Espace_Copies'	Espace Copies
+$POI	'Traverse_de_la_Planche'	Traverse de la Planche
+$POI	'Batiment_C'	Batiment C
+$POI	'Rue_Raspail'	Rue Raspail
+$POI	'Rue_Godefroy_Cavaignac'	Rue Godefroy Cavaignac
+$POI	'Boulevard_des_Marguerites'	Boulevard des Marguerites
+$POI	'Avenue_Jean-Paul_Sartre'	Avenue Jean-Paul Sartre
+$POI	'Lycée_professionnel_privé_Marie_Gasquet'	Lycée professionnel privé Marie Gasquet
+$POI	'Rue_du_Molinel'	Rue du Molinel
+$POI	'Boulevard_Vincent_Delpuech'	Boulevard Vincent Delpuech
+$POI	'Rue_de_Foucault'	Rue de Foucault
+$POI	'Pizzeria_Venezia'	Pizzeria Venezia
+$POI	'La_Nerthe_Mistral'	La Nerthe Mistral
+$POI	'Fives'	Fives
+$POI	'Autoroute_vers_la_mer'	Autoroute vers la mer
+$POI	'Georges_Bataille'	Georges Bataille
+$POI	'Rue_Louis_Astruc'	Rue Louis Astruc
+$POI	'Institut_de_la_Construction'	Institut de la Construction
+$POI	'Cour_Mignot'	Cour Mignot
+$POI	'Impasse_Chazel'	Impasse Chazel
+$POI	'Avenue_de_Dunkerque'	Avenue de Dunkerque
+$POI	'Rue_Léon_Blum'	Rue Léon Blum
+$POI	'Boucherie_Lille_Viande'	Boucherie Lille Viande
+$POI	'La_Voix_du_Nord'	La Voix du Nord
+$POI	'Livres_anciens_et_modernes'	Livres anciens et modernes
+$POI	'Rue_Auguste_Lamy'	Rue Auguste Lamy
+$POI	'Église_du_Marais'	Église du Marais
+$POI	'Rue_Armand_Carrel'	Rue Armand Carrel
+$POI	'Rue_Halévy'	Rue Halévy
+$POI	'La_Fauvière'	La Fauvière
+$POI	'JouéClub'	JouéClub
+$POI	'La_Fraternelle'	La Fraternelle
+$POI	'Crêperie_Beaurepaire'	Crêperie Beaurepaire
+$POI	'Brueghel'	Brueghel
+$POI	'Estaque_Mistral'	Estaque Mistral
+$POI	'Avenue_du_Castellas'	Avenue du Castellas
+$POI	'Rue_Madeleine_Reberioux'	Rue Madeleine Reberioux
+$POI	'Hard_Rock_Café'	Hard Rock Café
+$POI	'Mairie_de_Lille'	Mairie de Lille
+$POI	'Boulevard_Rabatau'	Boulevard Rabatau
+$POI	'Mazargues_Barral'	Mazargues Barral
+$POI	'Rabelais_Picaron'	Rabelais Picaron
+$POI	'Cour_Mouton_Blanc'	Cour Mouton Blanc
+$POI	'École_maternelle_Privée_Saint-Calixte'	École maternelle Privée Saint-Calixte
+$POI	'Starbucks'	Starbucks
+$POI	'Rue_Renée_Lambert'	Rue Renée Lambert
+$POI	'Eydoux_Pelouque'	Eydoux Pelouque
+$POI	'Rue_Gustave_Joncquet'	Rue Gustave Joncquet
+$POI	'Cité_d'Iéna'	Cité d'Iéna
+$POI	'Cour_Druez'	Cour Druez
+$POI	'Aux_Fines_Saveurs'	Aux Fines Saveurs
+$POI	'Chez_Jenny'	Chez Jenny
+$POI	'Hôpital_Saint-Vincent_de_Paul'	Hôpital Saint-Vincent de Paul
+$POI	'Cité_Lievrauw'	Cité Lievrauw
+$POI	'Bastille'	Bastille
+$POI	'Clot_Bey_Daumier'	Clot Bey Daumier
+$POI	'Rue_Gilbert_Rossy'	Rue Gilbert Rossy
+$POI	'Delices_Wok'	Delices Wok
+$POI	'Jack's_TV'	Jack's TV
+$POI	'Rue_Fourcroy'	Rue Fourcroy
+$POI	'Avenue_des_Platanes'	Avenue des Platanes
+$POI	'Avenue_de_l'Hippodrome'	Avenue de l'Hippodrome
+$POI	'Théâtre_Massenet'	Théâtre Massenet
+$POI	'Vallon_de_l'Oriol'	Vallon de l'Oriol
+$POI	'Rue_Détournée'	Rue Détournée
+$POI	'Traverse_Favant'	Traverse Favant
+$POI	'Stade_Alexis_Caujolle'	Stade Alexis Caujolle
+$POI	'Hôpital_Marmottan'	Hôpital Marmottan
+$POI	'Lotissement_Les_Terrasses_du_Cavaou'	Lotissement Les Terrasses du Cavaou
+$POI	'Rue_André_Wallaert'	Rue André Wallaert
+$POI	'Métro_Bougainville'	Métro Bougainville
+$POI	'Saint-Menet'	Saint-Menet
+$POI	'Cour_Boquillon'	Cour Boquillon
+$POI	'Flammarion_Grobet'	Flammarion Grobet
+$POI	'Rue_du_Docteur_Huart'	Rue du Docteur Huart
+$POI	'Cité_Verbiest'	Cité Verbiest
+$POI	'Dugommier_Canebière'	Dugommier Canebière
+$POI	'Rue_de_la_Guirlande'	Rue de la Guirlande
+$POI	'Rue_du_Bazinghien'	Rue du Bazinghien
+$POI	'Bus_86_:_Gare_Lille_Flandres'	Bus 86 : Gare Lille Flandres
+$POI	'Rue_du_Marché'	Rue du Marché
+$POI	'Merlan_Sainte-Marthe'	Merlan Sainte-Marthe
+$POI	'Rue_Louis_Loucheur'	Rue Louis Loucheur
+$POI	'Avenue_de_la_Pointe_Rouge'	Avenue de la Pointe Rouge
+$POI	'Avenue_des_Ternes'	Avenue des Ternes
+$POI	'Les_Rives_Blanches'	Les Rives Blanches
+$POI	'Buvette'	Buvette
+$POI	'Garage_Franceschini'	Garage Franceschini
+$POI	'Mérimée_Corot'	Mérimée Corot
+$POI	'Escalier_de_la_Tête_Noire'	Escalier de la Tête Noire
+$POI	'Bibliothèque_de_Lille_Sud'	Bibliothèque de Lille Sud
+$POI	'Summerhall_Place'	Summerhall Place
+$POI	'Cour_Beauvan'	Cour Beauvan
+$POI	'Centre_de_formation_des_Aygalades'	Centre de formation des Aygalades
+$POI	'Bus_41:_Métro_Rond_Point_du_Prado_=>_Canebière_Bourse'	Bus 41: Métro Rond Point du Prado => Canebière Bourse
+$POI	'Boulevard_Michelet'	Boulevard Michelet
+$POI	'Chapelle_Saint-Bernard'	Chapelle Saint-Bernard
+$POI	'Rue_Véronese'	Rue Véronese
+$POI	'Librairie_Galignani'	Librairie Galignani
+$POI	'Boulevard_Sainte-Germaine'	Boulevard Sainte-Germaine
+$POI	'Chemin_du_Merlan_à_La_Rose'	Chemin du Merlan à La Rose
+$POI	'Square_Picardie'	Square Picardie
+$POI	'Rue_Lauriston'	Rue Lauriston
+$POI	'Maria_Luisa'	Maria Luisa
+$POI	'Rue_Bernard'	Rue Bernard
+$POI	'De_Geyter'	De Geyter
+$POI	'Pasteur_-_Lycée_Buffon'	Pasteur - Lycée Buffon
+$POI	'Quai_de_Béthune'	Quai de Béthune
+$POI	'Chez_Didier_&_Brigitte'	Chez Didier & Brigitte
+$POI	'Résidence_Breteuil_(Bâtiment_B)'	Résidence Breteuil (Bâtiment B)
+$POI	'Avenue_Rachet'	Avenue Rachet
+$POI	'Banque_Populaire'	Banque Populaire
+$POI	'Domino's_Pizza'	Domino's Pizza
+$POI	'Quai_26'	Quai 26
+$POI	'BNP_Paribas_-_Lille_-_Hellemmes'	BNP Paribas - Lille - Hellemmes
+$POI	'LotissementLes_Bastides_d'Athena'	LotissementLes Bastides d'Athena
+$POI	'Rue_de_Marathon'	Rue de Marathon
+$POI	'Boulevard_Henri_Barnier'	Boulevard Henri Barnier
+$POI	'Avenue_du_43ème_RI'	Avenue du 43ème RI
+$POI	'Arc_de_Triomphe'	Arc de Triomphe
+$POI	'Rue_Guy_Môquet'	Rue Guy Môquet
+$POI	'Cour_Pottier'	Cour Pottier
+$POI	'Cour_Kinckmans'	Cour Kinckmans
+$POI	'Marché_U'	Marché U
+$POI	'Rue_Mirès'	Rue Mirès
+$POI	'5e_Rue'	5e Rue
+$POI	'O.S.M.L._Football'	O.S.M.L. Football
+$POI	'Bis2Fly'	Bis2Fly
+$POI	'Rue_Demazières'	Rue Demazières
+$POI	'Place_Engalière'	Place Engalière
+$POI	'Rue_du_Général_Cartaux'	Rue du Général Cartaux
+$POI	'Avenue_des_Trois_Lucs'	Avenue des Trois Lucs
+$POI	'Central_téléphonique'	Central téléphonique
+$POI	'Rue_Volta'	Rue Volta
+$POI	'Rue_Christophe_Colomb'	Rue Christophe Colomb
+$POI	'Ristorante_Pellicano'	Ristorante Pellicano
+$POI	'Crèche_Montolivet'	Crèche Montolivet
+$POI	'L'Atinoir'	L'Atinoir
+$POI	'Boulevard_de_la_Barasse'	Boulevard de la Barasse
+$POI	'Rue_Fragonard'	Rue Fragonard
+$POI	'Saint-Loup_Rose_Bruny'	Saint-Loup Rose Bruny
+$POI	'Allée_de_la_Grande_Bastide_Cazaulx'	Allée de la Grande Bastide Cazaulx
+$POI	'Rue_du_Château_d'Isenghien'	Rue du Château d'Isenghien
+$POI	'Place_Simon_Vollant'	Place Simon Vollant
+$POI	'Monument_des_Mobiles'	Monument des Mobiles
+$POI	'Rue_Mattéotti'	Rue Mattéotti
+$POI	'Chapelle_Sainte-Marie'	Chapelle Sainte-Marie
+$POI	'Basilique_du_Sacré-Cœur'	Basilique du Sacré-Cœur
+$POI	'Rue_de_la_Gendarmerie'	Rue de la Gendarmerie
+$POI	'Voie_Rapide_Urbaine_(VRU)'	Voie Rapide Urbaine (VRU)
+$POI	'L'Inca'	L'Inca
+$POI	'Parc_Jean_Mermoz'	Parc Jean Mermoz
+$POI	'Maisons'	Maisons
+$POI	'Rue_Vercingétorix'	Rue Vercingétorix
+$POI	'Carré_3bis'	Carré 3bis
+$POI	'Rue_Henri_Kolb'	Rue Henri Kolb
+$POI	'Rue_des_Déportés'	Rue des Déportés
+$POI	'Traverse_de_la_Salette'	Traverse de la Salette
+$POI	'Boulevard_du_Professeur_Leclerc'	Boulevard du Professeur Leclerc
+$POI	'Rue_de_la_Halloterie'	Rue de la Halloterie
+$POI	'Place_de_Bois_Luzy'	Place de Bois Luzy
+$POI	'Gare_Lille_Flandres'	Gare Lille Flandres
+$POI	'Sortie_Peuple_Belge'	Sortie Peuple Belge
+$POI	'Cour_Lecocq'	Cour Lecocq
+$POI	'École_secondaire_Gan_Mordekhaï'	École secondaire Gan Mordekhaï
+$POI	'Impasse_Jean-Jacques_Charley'	Impasse Jean-Jacques Charley
+$POI	'Cormontaigne'	Cormontaigne
+$POI	'Rue_Saint-Albin'	Rue Saint-Albin
+$POI	'Rue_de_Baignerie'	Rue de Baignerie
+$POI	'Hôpital_des_Enfants_Malades'	Hôpital des Enfants Malades
+$POI	'Cinq_Avenues'	Cinq Avenues
+$POI	'Rue_du_Panorama'	Rue du Panorama
+$POI	'Le_Panier'	Le Panier
+$POI	'Philippe_le_Bon'	Philippe le Bon
+$POI	'Cardiac_Pub'	Cardiac Pub
+$POI	'Avenue_du_Peuple_Belge'	Avenue du Peuple Belge
+$POI	'Avenue_René_Coty'	Avenue René Coty
+$POI	'Le_Cabanon'	Le Cabanon
+$POI	'centre_de_loisirs'	centre de loisirs
+$POI	'Musée_du_Louvre'	Musée du Louvre
+$POI	'Collège_Vallon_des_Pins'	Collège Vallon des Pins
+$POI	'École_primaire_privée_Saint-Vincent_de_Paul'	École primaire privée Saint-Vincent de Paul
+$POI	'Avenue_de_la_Rotonde'	Avenue de la Rotonde
+$POI	'La_Residence_du_Vieux_Port'	La Residence du Vieux Port
+$POI	'Marseille_1er_Arrondissement'	Marseille 1er Arrondissement
+$POI	'Franprix'	Franprix
+$POI	'Cité_Masquelier'	Cité Masquelier
+$POI	'Vitaneuf'	Vitaneuf
+$POI	'Ballon'	Ballon
+$POI	'Rue_Henri_Regnault'	Rue Henri Regnault
+$POI	'École_primaire_Desbordes_Valmore'	École primaire Desbordes Valmore
+$POI	'Rue_de_la_Boucle'	Rue de la Boucle
+$POI	'Comtesse_Rampal'	Comtesse Rampal
+$POI	'Les_Olives_Comtesse'	Les Olives Comtesse
+$POI	'Malus'	Malus
+$POI	'Parc_Bocquet'	Parc Bocquet
+$POI	'Rue_des_Montagnards'	Rue des Montagnards
+$POI	'Le_Robinet_d'Or'	Le Robinet d'Or
+$POI	'Boulevard_du_Docteur_David_Olmer'	Boulevard du Docteur David Olmer
+$POI	'Boulevard_Louis_Pasteur'	Boulevard Louis Pasteur
+$POI	'Roussin_Picaron'	Roussin Picaron
+$POI	'GTM'	GTM
+$POI	'Chemin_de_Saint-Antoine_à_Saint-Joseph'	Chemin de Saint-Antoine à Saint-Joseph
+$POI	'Louvière'	Louvière
+$POI	'La_Granière'	La Granière
+$POI	'Avenue_de_Ségur'	Avenue de Ségur
+$POI	'Rue_Maurice_Korsec'	Rue Maurice Korsec
+$POI	'Avenue_Bernard_Lecache'	Avenue Bernard Lecache
+$POI	'La_Boudinière'	La Boudinière
+$POI	'École_maternelle_Marius_Thomas'	École maternelle Marius Thomas
+$POI	'Boulevard_de_la_Valbarelle'	Boulevard de la Valbarelle
+$POI	'Burger_King'	Burger King
+$POI	'Rue_des_Cloys'	Rue des Cloys
+$POI	'Cour_Descamps'	Cour Descamps
+$POI	'Métro_La_Rose'	Métro La Rose
+$POI	'Michelet_Luce'	Michelet Luce
+$POI	'Rue_de_la_Prévoyance'	Rue de la Prévoyance
+$POI	'Avenue_Salomon'	Avenue Salomon
+$POI	'Mairie_du_XV'	Mairie du XV
+$POI	'La_Halle_aux_Sucres'	La Halle aux Sucres
+$POI	'Cour_Tessely'	Cour Tessely
+$POI	'La_Flûte_de_Pan'	La Flûte de Pan
+$POI	'Hôtel_Victoria_Châtelet'	Hôtel Victoria Châtelet
+$POI	'Corniche_du_Président_John_Fitzgerald_Kennedy'	Corniche du Président John Fitzgerald Kennedy
+$POI	'Ligne_de_Marseille_à_Vintimille'	Ligne de Marseille à Vintimille
+$POI	'Le_Redon'	Le Redon
+$POI	'Cinéma_Chaplin'	Cinéma Chaplin
+$POI	'Hôtel_Le_Floréal'	Hôtel Le Floréal
+$POI	'Rue_Meslay'	Rue Meslay
+$POI	'Place_Maréchal_Fayolle'	Place Maréchal Fayolle
+$POI	'La_Gaye_Hôpital_Saint-Marguerite'	La Gaye Hôpital Saint-Marguerite
+$POI	'Boulevard_Barral_prolongé'	Boulevard Barral prolongé
+$POI	'Cour_Gossart'	Cour Gossart
+$POI	'Allée_George_Sand'	Allée George Sand
+$POI	'Boulevard_Poméon'	Boulevard Poméon
+$POI	'École_élémentaire_Cabanis'	École élémentaire Cabanis
+$POI	'Optical_Center'	Optical Center
+$POI	'L'Encrier'	L'Encrier
+$POI	'Parc_Barberousse'	Parc Barberousse
+$POI	'Magenta-Fombelle'	Magenta-Fombelle
+$POI	'Oh_Gourmandines'	Oh Gourmandines
+$POI	'Gare_du_Nord'	Gare du Nord
+$POI	'Ligne_2'	Ligne 2
+$POI	'Lille_Grand_Palais'	Lille Grand Palais
+$POI	'Jardin_Sévigné'	Jardin Sévigné
+$POI	'Boulevard_de_Sébastopol'	Boulevard de Sébastopol
+$POI	'Rénovation'	Rénovation
+$POI	'Vieille_bourse_du_commerce'	Vieille bourse du commerce
+$POI	'Le_Comptoir_Irlandais'	Le Comptoir Irlandais
+$POI	'Résidence_Valvert'	Résidence Valvert
+$POI	'Courbet'	Courbet
+$POI	'Cathédrale_Notre-Dame_de_Paris'	Cathédrale Notre-Dame de Paris
+$POI	'Boulevard_Aristide_Barthe'	Boulevard Aristide Barthe
+$POI	'Rue_Doudin'	Rue Doudin
+$POI	'La_Mongrane'	La Mongrane
+$POI	'Pont_Supérieur'	Pont Supérieur
+$POI	'Concorde_Obélisque'	Concorde Obélisque
+$POI	'Argentine'	Argentine
+$POI	'Rue_des_Archers'	Rue des Archers
+$POI	'Palais_de_l’Élysée'	Palais de l’Élysée
+$POI	'Tour_Eiffel'	Tour Eiffel
+$POI	'Pavillon_Sainte-Pauline'	Pavillon Sainte-Pauline
+$POI	'Navette_Pointe_Rouge'	Navette Pointe Rouge
+$POI	'Rue_Caumartin'	Rue Caumartin
+$POI	'Esso_Automatique'	Esso Automatique
+$POI	'Allée_de_la_Tortue'	Allée de la Tortue
+$POI	'Parking_Grand_Place'	Parking Grand Place
+$POI	'Rue_de_Cicé'	Rue de Cicé
+$POI	'Place_des_Pilotes'	Place des Pilotes
+$POI	'Pharmacie_Levasseur'	Pharmacie Levasseur
+$POI	'Capitainerie'	Capitainerie
+$POI	'Impasse_de_la_Margelle'	Impasse de la Margelle
+$POI	'TER_:_Rouen_-_Amiens_-_Lille'	TER : Rouen - Amiens - Lille
+$POI	'Cave_de_récoltants'	Cave de récoltants
+$POI	'Le_chat_qui_fume'	Le chat qui fume
+$POI	'Rue_Bruant_des_Roseaux'	Rue Bruant des Roseaux
+$POI	'Léon_de_Bruxelles'	Léon de Bruxelles
+$POI	'Arago'	Arago
+$POI	'Rue_de_l'École_Saint-Louis'	Rue de l'École Saint-Louis
+$POI	'Avenue_Anne-Marie'	Avenue Anne-Marie
+$POI	'Monoprix'	Monoprix
+$POI	'Avenue_Philippe_Matheron'	Avenue Philippe Matheron
+$POI	'CHR_B._Calmette'	CHR B. Calmette
+$POI	'Le_Cinaxe'	Le Cinaxe
+$POI	'Place_J._Etienne'	Place J. Etienne
+$POI	'Rue_de_Bruxelles'	Rue de Bruxelles
+$POI	'Pont_Cardinet'	Pont Cardinet
+$POI	'Place_de_l'Archange'	Place de l'Archange
+$POI	'CIC'	CIC
+$POI	'Square_Daubenton'	Square Daubenton
+$POI	'Rue_de_la_Bruyère'	Rue de la Bruyère
+$POI	'Gare_Lille_Europe'	Gare Lille Europe
+$POI	'Profil_+_Lille_DK_Pneus'	Profil + Lille DK Pneus
+$POI	'Fifi_Turin_Capelette'	Fifi Turin Capelette
+$POI	'Boulevard_Francois_Coppee'	Boulevard Francois Coppee
+$POI	'Rue_Ernest_Wallaert'	Rue Ernest Wallaert
+$POI	'Bâtiment_2C'	Bâtiment 2C
+$POI	'Rue_Lydie_Dereuse_Behague'	Rue Lydie Dereuse Behague
+$POI	'Square_des_Mères'	Square des Mères
+$POI	'Boulevard_Émile_Dubuisson'	Boulevard Émile Dubuisson
+$POI	'Rue_Jules_Guesde'	Rue Jules Guesde
+$POI	'Endoume_Tellène'	Endoume Tellène
+$POI	'Traverse_du_Génie'	Traverse du Génie
+$POI	'Traverse_de_Notre-Dame-de-Consolation'	Traverse de Notre-Dame-de-Consolation
+$POI	'École_élementaire_Privee_Internationale_de_Marseille'	École élementaire Privee Internationale de Marseille
+$POI	'Cour_du_Vacher'	Cour du Vacher
+$POI	'Boulevard_du_Jardin_Zoologique'	Boulevard du Jardin Zoologique
+$POI	'Impasse_Julien'	Impasse Julien
+$POI	'Whitehouse_Loan'	Whitehouse Loan
+$POI	'Rue_de_l'Amiral_Courbet'	Rue de l'Amiral Courbet
+$POI	'École_maternelle_La_Bruyère'	École maternelle La Bruyère
+$POI	'Jardin_public_Proudhon'	Jardin public Proudhon
+$POI	'Marks_&_Spencer_Food'	Marks & Spencer Food
+$POI	'Living_Arts'	Living Arts
+$POI	'Résidence_Cap_Veyre'	Résidence Cap Veyre

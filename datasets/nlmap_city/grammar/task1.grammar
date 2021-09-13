@@ -1,0 +1,344 @@
+$LOC	'Eure-et-Loir'	Eure-et-Loir
+$LOC	'Deutschland'	Deutschland
+$LOC	'Bayern'	Bayern
+$LOC	'Hohenlohekreis'	Hohenlohekreis
+$LOC	'Osnabrück'	Osnabrück
+$LOC	'Heidelberg'	Heidelberg
+$LOC	'Leith'	Leith
+$LOC	'Schriesheim'	Schriesheim
+$LOC	'Köln'	Köln
+$LOC	'Liverpool'	Liverpool
+$POI	'Nemeterstraße'	Nemeterstraße
+$POI	'Postamt_Wahn'	Postamt Wahn
+$POI	'Druids_Park'	Druids Park
+$POI	'Genossenschaftsverband_Rheinland_E.v.'	Genossenschaftsverband Rheinland E.v.
+$POI	'Saint_Nicholas_Place'	Saint Nicholas Place
+$POI	'Caffè_Nero_Express'	Caffè Nero Express
+$POI	'Hopper_Hotel_St._Antonius'	Hopper Hotel St. Antonius
+$POI	'Aigburth_Drive'	Aigburth Drive
+$POI	'Sultan's'	Sultan's
+$POI	'Canterbury_Park'	Canterbury Park
+$POI	'Andernacher_Straße'	Andernacher Straße
+$POI	'QUEEN_SQUARE_BUS_STATION'	QUEEN SQUARE BUS STATION
+$POI	'Parkhauseingang_8.03'	Parkhauseingang 8.03
+$POI	'Port_of_Liverpool_Building'	Port of Liverpool Building
+$POI	'Ölstraße'	Ölstraße
+$POI	'Sume-Brunnen'	Sume-Brunnen
+$POI	'Ständige_Vertretung'	Ständige Vertretung
+$POI	'Duke_Street'	Duke Street
+$POI	'Besford_Road'	Besford Road
+$POI	'The_Dispensary'	The Dispensary
+$POI	'Grovedale_Road'	Grovedale Road
+$POI	'Abbey_Avenue'	Abbey Avenue
+$POI	'Clifton_Road_East'	Clifton Road East
+$POI	'Trowbridge_Street'	Trowbridge Street
+$POI	'Pfarrer-Krautwig-Straße'	Pfarrer-Krautwig-Straße
+$POI	'Schönstattkapelle'	Schönstattkapelle
+$POI	'Angelweg'	Angelweg
+$POI	'Mercatorstraße'	Mercatorstraße
+$POI	'Alban-Berg-Weg'	Alban-Berg-Weg
+$POI	'Polizeiwache_Ehrenfeld'	Polizeiwache Ehrenfeld
+$POI	'Merheimer_Straße'	Merheimer Straße
+$POI	'Vor_St.Martin'	Vor St.Martin
+$POI	'Königstuhl'	Königstuhl
+$POI	'Blaubach'	Blaubach
+$POI	'Richard-Strauss-Straße'	Richard-Strauss-Straße
+$POI	'Liebfrauenhaus'	Liebfrauenhaus
+$POI	'CityClass_Hotel_Caprice_am_Dom'	CityClass Hotel Caprice am Dom
+$POI	'GAINSBOROUGH_ROAD/SMITHDOWN_ROAD'	GAINSBOROUGH ROAD SMITHDOWN ROAD
+$POI	'Hansaring'	Hansaring
+$POI	'Alexandra_Road'	Alexandra Road
+$POI	'Heinrich-Böll-Platz'	Heinrich-Böll-Platz
+$POI	'All_Souls_Springwood'	All Souls Springwood
+$POI	'Da_Mario'	Da Mario
+$POI	'Droste-Hülshoff-Straße'	Droste-Hülshoff-Straße
+$POI	'Heidelberg-Altstadt'	Heidelberg-Altstadt
+$POI	'Archive_Studies'	Archive Studies
+$POI	'Vincenz-Apotheke'	Vincenz-Apotheke
+$POI	'Richard-Wagner-Straße'	Richard-Wagner-Straße
+$POI	'Evergreen_Close'	Evergreen Close
+$POI	'Freiwillige_Feuerwehr_Köln_Löschgruppe_Merkenich'	Freiwillige Feuerwehr Köln Löschgruppe Merkenich
+$POI	'Oak_Leigh'	Oak Leigh
+$POI	'LONGMOOR_LANE/LONGMOOR_LIBRARY'	LONGMOOR LANE LONGMOOR LIBRARY
+$POI	'CENTRAL_WAY/LITTLEHEATH_ROAD'	CENTRAL WAY LITTLEHEATH ROAD
+$POI	'Tunisstraße'	Tunisstraße
+$POI	'Franz-Kremer-Allee'	Franz-Kremer-Allee
+$POI	'GROVE_STREET/MYRTLE_STREET'	GROVE STREET MYRTLE STREET
+$POI	'Jericho_Close'	Jericho Close
+$POI	'Kaimaks'	Kaimaks
+$POI	'Neusser_Straße'	Neusser Straße
+$POI	'Longmoor_Community_Primary_School'	Longmoor Community Primary School
+$POI	'Roseman's'	Roseman's
+$POI	'Michaelstraße'	Michaelstraße
+$POI	'Heidelberger_Schloss'	Heidelberger Schloss
+$POI	'Institut_für_Psychotherapeutische_Forschung'	Institut für Psychotherapeutische Forschung
+$POI	'Garden_Lodge_Grove'	Garden Lodge Grove
+$POI	'Steinbruchsweg'	Steinbruchsweg
+$POI	'North_Hill_Street'	North Hill Street
+$POI	'Hohenzollernbrücke'	Hohenzollernbrücke
+$POI	'Edeka_center_Engels'	Edeka center Engels
+$POI	'Gordon_Place'	Gordon Place
+$POI	'Neptunstraße'	Neptunstraße
+$POI	'Gernsheimer_Straße'	Gernsheimer Straße
+$POI	'WARBRECK_AVENUE'	WARBRECK AVENUE
+$POI	'Acorn_Court'	Acorn Court
+$POI	'Sozialpsychiatrisches_Zentrum_-_Köln_Innenstadt'	Sozialpsychiatrisches Zentrum - Köln Innenstadt
+$POI	'Toni-Welter-Straße'	Toni-Welter-Straße
+$POI	'The_Caledonian'	The Caledonian
+$POI	'Neusser_Landstraße'	Neusser Landstraße
+$POI	'COMMERCIAL_ROAD/SANDHILLS_LANE'	COMMERCIAL ROAD SANDHILLS LANE
+$POI	'Colonia-Allee'	Colonia-Allee
+$POI	'MYRTLE_STREET/HOPE_STREET'	MYRTLE STREET HOPE STREET
+$POI	'La_galoche'	La galoche
+$POI	'Kölner_Bank'	Kölner Bank
+$POI	'Erich-Hübner-Platz'	Erich-Hübner-Platz
+$POI	'Küstriner_Weg'	Küstriner Weg
+$POI	'VRS_143'	VRS 143
+$POI	'Cesarino'	Cesarino
+$POI	'Bismarckplatz'	Bismarckplatz
+$POI	'Ernsting's_family'	Ernsting's family
+$POI	'Porzer_Weg'	Porzer Weg
+$POI	'Clemenshof'	Clemenshof
+$POI	'Totilastraße'	Totilastraße
+$POI	'Fahrradständer_am_U-Bahnhof_Köln-Mülheim'	Fahrradständer am U-Bahnhof Köln-Mülheim
+$POI	'Heribert-Klar-Platz'	Heribert-Klar-Platz
+$POI	'Hale_Road'	Hale Road
+$POI	'Merseyrail_Northern_Line_(Up_Southport)'	Merseyrail Northern Line (Up Southport)
+$POI	'Mannheimer_Straße'	Mannheimer Straße
+$POI	'Peet_Street'	Peet Street
+$POI	'Laptop_Power_UK'	Laptop Power UK
+$POI	'Greenacre_Close'	Greenacre Close
+$POI	'Rishton_Close'	Rishton Close
+$POI	'Kinkelstraße'	Kinkelstraße
+$POI	'Merzenich'	Merzenich
+$POI	'Long_Stay_1'	Long Stay 1
+$POI	'31_Dumbress'	31 Dumbress
+$POI	'Reichenspergerplatz'	Reichenspergerplatz
+$POI	'Heumarkt'	Heumarkt
+$POI	'Saltergate_Road'	Saltergate Road
+$POI	'Innere_Kanalstraße'	Innere Kanalstraße
+$POI	'Inwood_Road'	Inwood Road
+$POI	'Pimhill_Close'	Pimhill Close
+$POI	'Clever_Straße'	Clever Straße
+$POI	'Fraser_Street'	Fraser Street
+$POI	'Heumarer_Mauspfad'	Heumarer Mauspfad
+$POI	'Lenauplatz'	Lenauplatz
+$POI	'Delmenhorster_Straße'	Delmenhorster Straße
+$POI	'Medea_Close'	Medea Close
+$POI	'Roisdorfer_Straße'	Roisdorfer Straße
+$POI	'Artilleriestraße'	Artilleriestraße
+$POI	'Cockshead_Road'	Cockshead Road
+$POI	'Kurpfalzkrankenhaus'	Kurpfalzkrankenhaus
+$POI	'Childwall_Crescent'	Childwall Crescent
+$POI	'Florastraße'	Florastraße
+$POI	'Fernsehturm_Heidelberg'	Fernsehturm Heidelberg
+$POI	'Lower_Lane/longmoor_Close'	Lower Lane longmoor Close
+$POI	'Eiler_Straße'	Eiler Straße
+$POI	'Terrabyte_-_Computerwelt'	Terrabyte - Computerwelt
+$POI	'Bodmin_Road'	Bodmin Road
+$POI	'Mansion_Drive'	Mansion Drive
+$POI	'MENLOVE_AVE/ADDINGHAM_RD'	MENLOVE AVE ADDINGHAM RD
+$POI	'HALE_ROAD/WESTERN_AVE'	HALE ROAD WESTERN AVE
+$POI	'QUEENS_DRIVE/CURTIS_ROAD'	QUEENS DRIVE CURTIS ROAD
+$POI	'Haus_Reimer'	Haus Reimer
+$POI	'ACREFIELD_ROAD/HILLSIDE_DRIVE'	ACREFIELD ROAD HILLSIDE DRIVE
+$POI	'South_Barcombe_Road'	South Barcombe Road
+$POI	'Sudley_Junior_School'	Sudley Junior School
+$POI	'Gorsewood_Road'	Gorsewood Road
+$POI	'Bier'	Bier
+$POI	'Franz-Stock-Weg'	Franz-Stock-Weg
+$POI	'Landmark'	Landmark
+$POI	'Belvederestraße'	Belvederestraße
+$POI	'Rainbow'	Rainbow
+$POI	'Husarenstraße'	Husarenstraße
+$POI	'Churchdown_Road'	Churchdown Road
+$POI	'The_Goree'	The Goree
+$POI	'Militärringstraße'	Militärringstraße
+$POI	'110_kV_Bahnstrom_Köln_-_Sindorf'	110 kV Bahnstrom Köln - Sindorf
+$POI	'Swisttalstraße'	Swisttalstraße
+$POI	'Hayman's_Close'	Hayman's Close
+$POI	'Wurstteufel'	Wurstteufel
+$POI	'Zum_Seppl'	Zum Seppl
+$POI	'Balloni_1'	Balloni 1
+$POI	'The_Copse'	The Copse
+$POI	'Eifelwall'	Eifelwall
+$POI	'Walton_Breck_Road'	Walton Breck Road
+$POI	'Roderick_Road'	Roderick Road
+$POI	'Gottesweg'	Gottesweg
+$POI	'Andersons'	Andersons
+$POI	'Breckfield_Road_North'	Breckfield Road North
+$POI	'Auguste-Kowalski-Straße'	Auguste-Kowalski-Straße
+$POI	'Keystone_Close'	Keystone Close
+$POI	'Central_Krankenversicherung_AG'	Central Krankenversicherung AG
+$POI	'Linnet_Lane'	Linnet Lane
+$POI	'Crossledge_Way'	Crossledge Way
+$POI	'Merheim'	Merheim
+$POI	'Pützlachstraße'	Pützlachstraße
+$POI	'Heidelberg_Hbf'	Heidelberg Hbf
+$POI	'Jin_De_China_Supermarket'	Jin De China Supermarket
+$POI	'Rosalie_Sander_geb._Marx'	Rosalie Sander geb. Marx
+$POI	'Curtis_Road'	Curtis Road
+$POI	'Schenkendorfstraße'	Schenkendorfstraße
+$POI	'Taj_Mahal'	Taj Mahal
+$POI	'Brunnengasse'	Brunnengasse
+$POI	'Verkaufsstelle_Deutsche_Bahn'	Verkaufsstelle Deutsche Bahn
+$POI	'Springbourne_Road'	Springbourne Road
+$POI	'Slabystraße'	Slabystraße
+$POI	'Darby_Grove'	Darby Grove
+$POI	'Römergasse'	Römergasse
+$POI	'Ebernburgweg'	Ebernburgweg
+$POI	'Dr._Julius_Simons'	Dr. Julius Simons
+$POI	'Fischergasse'	Fischergasse
+$POI	'St._Elisabeth_Kapelle'	St. Elisabeth Kapelle
+$POI	'Emilie_Regine_Oppenheimer'	Emilie Regine Oppenheimer
+$POI	'Middlefield_Road'	Middlefield Road
+$POI	'Buchheim_Herler_Straße'	Buchheim Herler Straße
+$POI	'FIR_TREE_DRIVE_SOUTH'	FIR TREE DRIVE SOUTH
+$POI	'John_Moores_Close'	John Moores Close
+$POI	'High-Light'	High-Light
+$POI	'Thalia'	Thalia
+$POI	'The_Greyhound'	The Greyhound
+$POI	'Fox_Street'	Fox Street
+$POI	'Dransdorfer_Straße'	Dransdorfer Straße
+$POI	'Otto-Bayer-Straße'	Otto-Bayer-Straße
+$POI	'Williamson_Square'	Williamson Square
+$POI	'Viktor_Sternlicht'	Viktor Sternlicht
+$POI	'Schmitz_&_Nittenwilm'	Schmitz & Nittenwilm
+$POI	'Fahrrad-Leikeb'	Fahrrad-Leikeb
+$POI	'Wildpark'	Wildpark
+$POI	'Henderson_Street'	Henderson Street
+$POI	'Kirche_Jesu_Christi'	Kirche Jesu Christi
+$POI	'Köln_Hbf'	Köln Hbf
+$POI	'Elm_Close'	Elm Close
+$POI	'Vesuvian_Drive'	Vesuvian Drive
+$POI	'Agar_Road'	Agar Road
+$POI	'Junkersdorfer_Straße'	Junkersdorfer Straße
+$POI	'Thomas_Drive'	Thomas Drive
+$POI	'Walton_Lane'	Walton Lane
+$POI	'Ineos_Tor_19'	Ineos Tor 19
+$POI	'Käthe_Meier'	Käthe Meier
+$POI	'Mathel_Moses'	Mathel Moses
+$POI	'William_Hill'	William Hill
+$POI	'Norbertstraße'	Norbertstraße
+$POI	'Östliche_Zubringerstraße'	Östliche Zubringerstraße
+$POI	'Roseto'	Roseto
+$POI	'BRECK_ROAD/BRECKFIELD_ROAD_NORTH'	BRECK ROAD BRECKFIELD ROAD NORTH
+$POI	'St._Laurentius'	St. Laurentius
+$POI	'Schwarzer_Adler'	Schwarzer Adler
+$POI	'Buchheimer_Ring'	Buchheimer Ring
+$POI	'Chandlers'	Chandlers
+$POI	'Athol_Street'	Athol Street
+$POI	'Hohestraße'	Hohestraße
+$POI	'Helmholtzstraße'	Helmholtzstraße
+$POI	'Marldon_Road'	Marldon Road
+$POI	'Auf_dem_Hügel'	Auf dem Hügel
+$POI	'RB38:_Düsseldorf=>Köln'	RB38: Düsseldorf=>Köln
+$POI	'VICTORIA_ST/STOP_FC'	VICTORIA ST STOP FC
+$POI	'Townsend_Avenue'	Townsend Avenue
+$POI	'Church_St_Cycle_Parking'	Church St Cycle Parking
+$POI	'KENSINGTON/HOLT_RD'	KENSINGTON HOLT RD
+$POI	'Kölsche_Bierstuben'	Kölsche Bierstuben
+$POI	'Maaßstraße'	Maaßstraße
+$POI	'Komödienstraße'	Komödienstraße
+$POI	'Photo_Lucas'	Photo Lucas
+$POI	'An_der_Neckarspitze'	An der Neckarspitze
+$POI	'Miltzstraße'	Miltzstraße
+$POI	'Feldbergstraße'	Feldbergstraße
+$POI	'Drachmenweg'	Drachmenweg
+$POI	'Am_Schildchen'	Am Schildchen
+$POI	'178_Princess'	178 Princess
+$POI	'Monksdown_Road'	Monksdown Road
+$POI	'Park_Road/toxteth_Tabernacle'	Park Road toxteth Tabernacle
+$POI	'Im_Weingarten'	Im Weingarten
+$POI	'Hans-Schulten-Straße'	Hans-Schulten-Straße
+$POI	'QUEENS_DRIVE/THE_ROCKET_PUB'	QUEENS DRIVE THE ROCKET PUB
+$POI	'Pembroke_Street'	Pembroke Street
+$POI	'Vogelsanger_Straße'	Vogelsanger Straße
+$POI	'Johanniterstraße'	Johanniterstraße
+$POI	'Yorckstraße'	Yorckstraße
+$POI	'Ashton_Drive'	Ashton Drive
+$POI	'Radstock_Road'	Radstock Road
+$POI	'Pfälzer_Straße'	Pfälzer Straße
+$POI	'Storchenweg'	Storchenweg
+$POI	'Burnley_Close'	Burnley Close
+$POI	'Senfweg'	Senfweg
+$POI	'Half_Crown_Street'	Half Crown Street
+$POI	'EAST_PRESCOT_ROAD/EATON_ROAD_STAND_A'	EAST PRESCOT ROAD EATON ROAD STAND A
+$POI	'Simon_Hochherrr'	Simon Hochherrr
+$POI	'Sankt_Martinus'	Sankt Martinus
+$POI	'Gudrunstraße'	Gudrunstraße
+$POI	'Deutz_Technische_Hochschule'	Deutz Technische Hochschule
+$POI	'Langel'	Langel
+$POI	'city_bike_-_Silvester_Street'	city bike - Silvester Street
+$POI	'Sommer_Avenue'	Sommer Avenue
+$POI	'LOWER_BRECK_ROAD/TOWNSEND_LANE'	LOWER BRECK ROAD TOWNSEND LANE
+$POI	'Am_Damm'	Am Damm
+$POI	'Siebachstraße'	Siebachstraße
+$POI	'Eiscafe_Bistro_Marano'	Eiscafe Bistro Marano
+$POI	'Pet_Cemetery'	Pet Cemetery
+$POI	'Ranworth_Close'	Ranworth Close
+$POI	'Saint_George's_Hill'	Saint George's Hill
+$POI	'CarTec_Kfz-Technik'	CarTec Kfz-Technik
+$POI	'Swan_Street'	Swan Street
+$POI	'Blackburne_Street'	Blackburne Street
+$POI	'Siegstraße'	Siegstraße
+$POI	'Back_Canning_Street'	Back Canning Street
+$POI	'Tenby_Street'	Tenby Street
+$POI	'The_Spellow'	The Spellow
+$POI	'Bramhope_Park'	Bramhope Park
+$POI	'Allerton_Road'	Allerton Road
+$POI	'Ahornweg'	Ahornweg
+$POI	'Lilly_Klein'	Lilly Klein
+$POI	'Denford_Road'	Denford Road
+$POI	'Hans-Kalscheuer-Straße'	Hans-Kalscheuer-Straße
+$POI	'Quorn_Street'	Quorn Street
+$POI	'Stafford_Street'	Stafford Street
+$POI	'MANOR_ROAD/SPEKE_ROAD'	MANOR ROAD SPEKE ROAD
+$POI	'Hard_Rock_Cafe'	Hard Rock Cafe
+$POI	'Alfred_Street'	Alfred Street
+$POI	'Saint_Mary's_Road'	Saint Mary's Road
+$POI	'Martinusstraße'	Martinusstraße
+$POI	'Neckarsonne_Ausflugsschiff'	Neckarsonne Ausflugsschiff
+$POI	'Olpener_Straße'	Olpener Straße
+$POI	'Czernyring'	Czernyring
+$POI	'Haus_Bex'	Haus Bex
+$POI	'Galeria_Kaufhof'	Galeria Kaufhof
+$POI	'Rydal_Street'	Rydal Street
+$POI	'Bremerhavener_Straße'	Bremerhavener Straße
+$POI	'Im_Zollhafen'	Im Zollhafen
+$POI	'Naturfreundehaus_Köln-Höhenhaus'	Naturfreundehaus Köln-Höhenhaus
+$POI	'REWE_City'	REWE City
+$POI	'Willowdale_Road'	Willowdale Road
+$POI	'Tanzzentrum_Crea_Dance'	Tanzzentrum Crea Dance
+$POI	'Virgin_Money'	Virgin Money
+$POI	'Hotel_Schönberger_Hof'	Hotel Schönberger Hof
+$POI	'Hansestraße'	Hansestraße
+$POI	'St_Domingo_Road'	St Domingo Road
+$POI	'Heidelberg_Marriott_Hotel'	Heidelberg Marriott Hotel
+$POI	'David_Street'	David Street
+$POI	'Mühlenhofsweg'	Mühlenhofsweg
+$POI	'Peterskirche'	Peterskirche
+$POI	'Paley_Close'	Paley Close
+$POI	'Poststraße'	Poststraße
+$POI	'Soho_Street'	Soho Street
+$POI	'Fallgatterweg'	Fallgatterweg
+$POI	'Förster-Schreibweis-Kanzel'	Förster-Schreibweis-Kanzel
+$POI	'INF_325'	INF 325
+$POI	'Probsteigasse'	Probsteigasse
+$POI	'Queens_Drive_West_Derby'	Queens Drive West Derby
+$POI	'AIGBURTH_VALE'	AIGBURTH VALE
+$POI	'Die_Kamera'	Die Kamera
+$POI	'Rennweg'	Rennweg
+$POI	'Windbourne_Road'	Windbourne Road
+$POI	'Kalker_Hauptstraße'	Kalker Hauptstraße
+$POI	'Kingsdale_Road'	Kingsdale Road
+$POI	'Courtfields_Close'	Courtfields Close
+$POI	'Halewood_Road'	Halewood Road
+$POI	'Pilotenunterkunft'	Pilotenunterkunft
+$POI	'Alliance/Moss'	Alliance Moss
+$POI	'Wahn_S-Bahn'	Wahn S-Bahn
+$POI	'Calthorpe_Street'	Calthorpe Street
+$POI	'Queens_Drive'	Queens Drive
+$POI	'Premier_Street'	Premier Street
+$POI	'Don_Robert'	Don Robert
+$POI	'Rosthwaite_Road'	Rosthwaite Road

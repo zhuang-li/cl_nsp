@@ -1,0 +1,27 @@
+$TypeNP	en.restaurant	restaurant
+$EntityNP1	en.restaurant.thai_cafe	thai cafe
+$EntityNP2	en.restaurant.pizzeria_juno	pizzeria juno	pizzeria
+$RelNP	( string star_rating )	star rating
+$EntityNP1	( number 3 en.star )	3 stars	three stars
+$EntityNP2	( number 5 en.star )	5 stars	five stars
+$RelNP	( string price_rating )	price rating
+$EntityNP1	( number 2 en.dollar_sign )	2 dollar signs	two dollar signs
+$EntityNP2	( number 3 en.dollar_sign )	3 dollar signs	three dollar signs
+$RelNP	( string reviews )	number of reviews
+$EntityNP1	( number 30 en.review )	30 reviews	30
+$EntityNP2	( number 40 en.review )	40 reviews	40
+$TypeNP	en.cuisine	cuisine
+$EntityNP1	en.cuisine.thai	thai
+$EntityNP2	en.cuisine.italian	italian
+$VP	( string meals )	serves
+$TypeNP	en.food	meal
+$EntityNP1	en.food.lunch	lunch
+$EntityNP2	en.food.dinner	dinner
+$VP	( string reserve )	takes reservations
+$VP	( string credit )	takes credit cards
+$VP	( string outdoor )	has outdoor seating
+$VP	( string takeout )	has take-out
+$VP	( string delivery )	has delivery
+$VP	( string waiter )	has waiter service
+$VP	( string kids )	is good for kids
+$VP	( string groups )	is good for groups

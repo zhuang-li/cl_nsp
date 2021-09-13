@@ -1,0 +1,41 @@
+$TypeNP	en.player	player
+$EntityNP1	en.player.kobe_bryant	kobe bryant	kobe	kobe bryan	kobe bryants
+$EntityNP2	en.player.lebron_james	lebron james
+$TypeNP	en.team	team
+$EntityNP1	en.team.lakers	los angeles lakers	la laker	la lakers	lakers	laker
+$EntityNP2	en.team.cavaliers	cleveland cavaliers	cavaliers
+$TypeNP	en.position	position
+$EntityNP1	en.position.point_guard	point guard	point guards
+$EntityNP2	en.position.forward	forward	forwards
+$EntityNP1	( number 3 point )	3 point
+$EntityNP2	( number 6 point )	6 point
+$EntityNP1	( number 3 assist )	3 assist
+$EntityNP2	( number 6 assist )	6 assist
+$EntityNP1	( number 3 steal )	3 steal
+$EntityNP2	( number 6 steal )	6 steal
+$EntityNP1	( number 3 turnover )	3 turnover
+$EntityNP2	( number 6 turnover )	6 turnover
+$EntityNP1	( number 3 rebound )	3 rebound
+$EntityNP2	( number 6 rebound )	6 rebound
+$EntityNP1	( number 3 block )	3 block
+$EntityNP2	( number 6 block )	6 block
+$EntityNP1	( number 3 foul )	3 foul
+$EntityNP2	( number 6 foul )	6 foul
+$EntityNP1	( number 3 game )	3 game
+$EntityNP2	( number 6 game )	6 game
+$EntityNP1	( number 3 fg )	3 fg
+$EntityNP2	( number 6 fg )	6 fg
+$EntityNP1	( number 3 ft )	3 ft
+$EntityNP2	( number 6 ft )	6 ft
+$Rel0NP	( string player )	player
+$RelNP	( string position )	position
+$RelNP	( string team )	team
+$RelNP	( string season )	season
+$RelNP	( string num_points )	number of points
+$RelNP	( string num_assists )	number of assists
+$RelNP	( string num_steals )	number of steals
+$RelNP	( string num_turnovers )	number of turnovers
+$RelNP	( string num_rebounds )	number of rebounds
+$RelNP	( string num_blocks )	number of blocks
+$RelNP	( string num_fouls )	number of fouls
+$RelNP	( string num_games_played )	number of played games

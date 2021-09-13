@@ -1,0 +1,17 @@
+$TypeNP	en.meeting	meeting
+$EntityNP1	en.meeting.weekly_standup	weekly standup	weekly stand up	weekly roundup	weekly startup	week startup
+$EntityNP2	en.meeting.annual_review	annual review
+$RelNP	( string date )	date
+$EntityNP2	( date 2015 1 3 )	jan 2
+$RelNP	( string start_time )	start time
+$RelNP	( string end_time )	end time
+$EntityNP1	( time 10 0 )	10am
+$EntityNP2	(time 15 0)	3pm
+$EntityNP1	( number 3 en.hour )	three hours
+$EntityNP2	( number 1 en.hour )	one hour
+$RelNP	( string attendee )	attendee
+$RelNP	( string location )	location
+$TypeNP	en.location	location
+$EntityNP1	en.location.greenberg_cafe	greenberg cafe
+$EntityNP2	en.location.central_office	central office
+$VP	( string is_important )	is important

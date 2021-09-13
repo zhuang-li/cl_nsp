@@ -1,0 +1,39 @@
+$VP	( string friend )	is friends with
+$RelNP	( string birthdate )	birthdate
+$RelNP	( string gender )	gender
+$TypeNP	en.gender	gender
+$EntityNP1	en.gender.male	male	males
+$EntityNP2	en.gender.female	female	females
+$RelNP	( string relationship_status )	relationship status
+$TypeNP	en.relationship_status	relationship status
+$EntityNP1	en.relationship_status.single	single	singlestatus	singles
+$EntityNP2	en.relationship_status.married	married
+$RelNP	( string birthplace )	birthplace
+$TypeNP	en.city	city
+$EntityNP1	en.city.new_york	new york	new yorks	newyork
+$EntityNP2	en.city.bejing	beijing
+$EntityNP1	( number 180 en.cm )	180 cm	180cm
+$EntityNP2	( number 200 en.cm )	200 cm	200cm
+$Rel0NP	( string student )	student
+$RelNP	( string university )	university
+$TypeNP	en.university	university
+$EntityNP1	en.university.brown	brown university
+$EntityNP2	en.university.ucla	ucla	ucla university
+$RelNP	( string field_of_study )	field of study
+$TypeNP	en.field	field
+$EntityNP1	en.field.computer_science	computer science
+$EntityNP2	en.field.history	history
+$RelNP	( string education_start_date )	education start date
+$RelNP	( string education_end_date )	education end date
+$Rel0NP	( string employee )	employee
+$RelNP	( string employer )	employer
+$TypeNP	en.company	company
+$EntityNP1	en.company.mckinsey	mckinsey	mckinseys
+$EntityNP2	en.company.google	google
+$RelNP	( string job_title )	job title
+$TypeNP	en.job_title	job title
+$EntityNP1	en.job_title.software_engineer	software engineer	software engineers
+$EntityNP2	en.job_title.program_manager	program manager	program managers
+$RelNP	( string employment_start_date )	employment start date
+$RelNP	( string employment_end_date )	employment end date
+$VP	( string logged_in )	is logged in

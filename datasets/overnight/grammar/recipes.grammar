@@ -1,0 +1,16 @@
+$TypeNP	en.recipe	recipe
+$EntityNP1	en.recipe.rice_pudding	rice pudding	rice puddings
+$EntityNP2	en.recipe.quiche	quiche	quice
+$RelNP	( string preparation_time )	preparation time
+$RelNP	( string cooking_time )	cooking time
+$TypeNP	fb:en.cuisine	cuisine
+$EntityNP1	( string chinese )	chinese
+$EntityNP2	( string french )	french
+$VP	( string requires )	requires
+$TypeNP	en.ingredient	ingredient
+$EntityNP1	en.ingredient.milk	milk
+$EntityNP2	en.ingredient.spinach	spinach
+$VP	( string meal )	is for
+$TypeNP	en.meal	meal
+$EntityNP1	en.meal.lunch	lunch
+$EntityNP2	en.meal.dinner	dinner	supper

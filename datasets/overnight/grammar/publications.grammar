@@ -1,0 +1,12 @@
+$TypeNP	en.article	article
+$EntityNP1	en.article.multivariate_data_analysis	multivariate data analysis
+$RelNP	( string author )	author
+$EntityNP1	en.person.efron	efron	efrons
+$EntityNP2	en.person.lakoff	lakoff
+$RelNP	( string venue )	venue
+$TypeNP	en.venue	venue
+$EntityNP1	en.venue.annals_of_statistics	annals of statistics
+$EntityNP2	en.venue.computational_linguistics	computational linguistics
+$RelNP	( string publication_date )	publication date
+$VP	( string cites )	cites
+$VP	( string won_award )	won an award

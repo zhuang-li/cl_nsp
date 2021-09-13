@@ -1,0 +1,613 @@
+$LOC	'Lampertheim'	Lampertheim
+$LOC	'14e_Arrondissement'	14e Arrondissement
+$LOC	'Handschuhsheim'	Handschuhsheim
+$LOC	'Berlin'	Berlin
+$LOC	'Brietlingen'	Brietlingen
+$LOC	'München'	München
+$LOC	'5e_Arrondissement'	5e Arrondissement
+$LOC	'Bradford'	Bradford
+$LOC	'Hummelsbüttel'	Hummelsbüttel
+$LOC	'London'	London
+$POI	'Brook_Street'	Brook Street
+$POI	'Beltran_Road'	Beltran Road
+$POI	'Senior_Way'	Senior Way
+$POI	'Hudderfield_Road'	Hudderfield Road
+$POI	'Botschaft_der_Demokratischen_Volksrepublik_Korea'	Botschaft der Demokratischen Volksrepublik Korea
+$POI	'Hallcliffe'	Hallcliffe
+$POI	'Ellen-Epstein-Straße'	Ellen-Epstein-Straße
+$POI	'Siebenkorn'	Siebenkorn
+$POI	'La_Lampara'	La Lampara
+$POI	'Zingster_Straße'	Zingster Straße
+$POI	'Barnwood_Close'	Barnwood Close
+$POI	'Hartmannshofer_Straße'	Hartmannshofer Straße
+$POI	'Butter_Lindner'	Butter Lindner
+$POI	'North_London_line'	North London line
+$POI	'Education_Centre'	Education Centre
+$POI	'Middlesex_County_Cricket_Club_Academy'	Middlesex County Cricket Club Academy
+$POI	'Situlistraße'	Situlistraße
+$POI	'Märchenweg'	Märchenweg
+$POI	'Moor_Park_Drive'	Moor Park Drive
+$POI	'Devon_Waye'	Devon Waye
+$POI	'Skipton_Road_East_Avenue'	Skipton Road East Avenue
+$POI	'-Tiefgarage'	-Tiefgarage
+$POI	'Braithwaite_Village'	Braithwaite Village
+$POI	'ARTiS_Fashion'	ARTiS Fashion
+$POI	'Bärliner_Pension'	Bärliner Pension
+$POI	'HS8'	HS8
+$POI	'Flämingstraße'	Flämingstraße
+$POI	'SMH'	SMH
+$POI	'West_Bank_Close'	West Bank Close
+$POI	'Bertelestraße'	Bertelestraße
+$POI	'Thornton_Road_near_Leaventhorpe_Lane'	Thornton Road near Leaventhorpe Lane
+$POI	'Wansford_Close'	Wansford Close
+$POI	'Helmsley_Street'	Helmsley Street
+$POI	'Ravenscourt_Residential'	Ravenscourt Residential
+$POI	'Edmund_Halley_Way'	Edmund Halley Way
+$POI	'Guard_House_Grove'	Guard House Grove
+$POI	'Knollys_Road'	Knollys Road
+$POI	'Hird_Avenue'	Hird Avenue
+$POI	'Hill_Close'	Hill Close
+$POI	'Vernon_Street'	Vernon Street
+$POI	'Grayswood_Crescent'	Grayswood Crescent
+$POI	'Piusplatz'	Piusplatz
+$POI	'Suffolk_Road'	Suffolk Road
+$POI	'Bridge_Street'	Bridge Street
+$POI	'The_Ridings'	The Ridings
+$POI	'Das_Zentrum_für_Holocaust-Studien_am_Institut_für_Zeitgeschichte'	Das Zentrum für Holocaust-Studien am Institut für Zeitgeschichte
+$POI	'Jubilee_Way'	Jubilee Way
+$POI	'Lily-Braun-Straße'	Lily-Braun-Straße
+$POI	'Killinghall_Drive'	Killinghall Drive
+$POI	'Gabriele_Wenzel'	Gabriele Wenzel
+$POI	'Kirche_des_Nazareners'	Kirche des Nazareners
+$POI	'München_Ost_-_Aufkirchen'	München Ost - Aufkirchen
+$POI	'Zenith_Building'	Zenith Building
+$POI	'Commercial_Road'	Commercial Road
+$POI	'Gatesway'	Gatesway
+$POI	'Silvesterweg'	Silvesterweg
+$POI	'Krokusweg'	Krokusweg
+$POI	'Goulbourne_Street_South_Street'	Goulbourne Street South Street
+$POI	'Cornwall_Road'	Cornwall Road
+$POI	'Bramley_Street'	Bramley Street
+$POI	'Thwaites_Brow_Road_near_Bank_Top_Way'	Thwaites Brow Road near Bank Top Way
+$POI	'James_Avenue'	James Avenue
+$POI	'St._Joseph's_RC_Primary_School'	St. Joseph's RC Primary School
+$POI	'Ludwig-Maximilians-Universität'	Ludwig-Maximilians-Universität
+$POI	'Dao's_Thaimassage'	Dao's Thaimassage
+$POI	'Holyoake_Walk'	Holyoake Walk
+$POI	'Ernst-Curtius-Weg'	Ernst-Curtius-Weg
+$POI	'Bischoffstraße'	Bischoffstraße
+$POI	'Kurt-Haertel-Passage'	Kurt-Haertel-Passage
+$POI	'New_Devonshire_House'	New Devonshire House
+$POI	'Rodelberg'	Rodelberg
+$POI	'Orsay'	Orsay
+$POI	'Stadtquartier_Friesenstrasse'	Stadtquartier Friesenstrasse
+$POI	'München_Hauptbahnhof'	München Hauptbahnhof
+$POI	'Petrie_Road'	Petrie Road
+$POI	'Adersleber_Weg'	Adersleber Weg
+$POI	'Neuherbergstraße'	Neuherbergstraße
+$POI	'Müchner_Geschenke_Stuben'	Müchner Geschenke Stuben
+$POI	'Sun_Side_Farm'	Sun Side Farm
+$POI	'Throxenby_Way'	Throxenby Way
+$POI	'Rathenauplatz'	Rathenauplatz
+$POI	'Mansell_Street'	Mansell Street
+$POI	'Café_Madelene'	Café Madelene
+$POI	'Welsestraße'	Welsestraße
+$POI	'Augusta_Technologie_AG'	Augusta Technologie AG
+$POI	'Killinghall_Road_near_Leeds_Road'	Killinghall Road near Leeds Road
+$POI	'Weidenweg'	Weidenweg
+$POI	'Alt-Mariendorf'	Alt-Mariendorf
+$POI	'Magdalenenhof'	Magdalenenhof
+$POI	'Bundesautobahn_114'	Bundesautobahn 114
+$POI	'Simmsteig'	Simmsteig
+$POI	'Lupinenweg'	Lupinenweg
+$POI	'Lepsiusstraße'	Lepsiusstraße
+$POI	'Rackl's_Backstub'n'	Rackl's Backstub'n
+$POI	'Park_Drive'	Park Drive
+$POI	'Dörferweg'	Dörferweg
+$POI	'Philpot_Street'	Philpot Street
+$POI	'Potsdamer_Straße'	Potsdamer Straße
+$POI	'Denkmal_für_den_ehemaligen_Hubschrauberlandeplatz_der_Exklave_Steinstücken'	Denkmal für den ehemaligen Hubschrauberlandeplatz der Exklave Steinstücken
+$POI	'Auckland_Rise'	Auckland Rise
+$POI	'Werner-Heisenberg-Allee'	Werner-Heisenberg-Allee
+$POI	'Morland_Close'	Morland Close
+$POI	'Bilfinger_Industrial_Services_GmbH'	Bilfinger Industrial Services GmbH
+$POI	'Fifth_Avenue_Ainsworth_House'	Fifth Avenue Ainsworth House
+$POI	'4'	4
+$POI	'Jason_Walk'	Jason Walk
+$POI	'Nürnberger_Straße'	Nürnberger Straße
+$POI	'Otley_Road_Welham_Walk'	Otley Road Welham Walk
+$POI	'Xxenia'	Xxenia
+$POI	'Amselgasse'	Amselgasse
+$POI	'U_Wittenau'	U Wittenau
+$POI	'Victoria_Drive'	Victoria Drive
+$POI	'Fehrbelliner_Platz'	Fehrbelliner Platz
+$POI	'Am_Hirschwechsel'	Am Hirschwechsel
+$POI	'Blumenstraße'	Blumenstraße
+$POI	'Bramble_Court'	Bramble Court
+$POI	'Leopoldstraße'	Leopoldstraße
+$POI	'WERK3'	WERK3
+$POI	'Berlin_Hauptbahnhof'	Berlin Hauptbahnhof
+$POI	'Lillemor's_Frauenbuchladen'	Lillemor's Frauenbuchladen
+$POI	'Heritage_Way'	Heritage Way
+$POI	'U_Märkisches_Museum/Inselstraße'	U Märkisches Museum Inselstraße
+$POI	'Alt-Lankwitz'	Alt-Lankwitz
+$POI	'Lund_Street'	Lund Street
+$POI	'Yoyo'	Yoyo
+$POI	'Holzbaracke'	Holzbaracke
+$POI	'Airevalley_Road'	Airevalley Road
+$POI	'Berliner_Außenring'	Berliner Außenring
+$POI	'Shepperton_Line'	Shepperton Line
+$POI	'Kaiser's'	Kaiser's
+$POI	'South_Eastern_Main_Line'	South Eastern Main Line
+$POI	'KIPA'	KIPA
+$POI	'Silberdistelstraße'	Silberdistelstraße
+$POI	'REWE'	REWE
+$POI	'Ceku_Yali_Kebab'	Ceku Yali Kebab
+$POI	'Central_Line'	Central Line
+$POI	'Aral'	Aral
+$POI	'Orleansstraße'	Orleansstraße
+$POI	'Krumbadstraße'	Krumbadstraße
+$POI	'Sportpark_Werdenfelsstraße'	Sportpark Werdenfelsstraße
+$POI	'Sowden_Street'	Sowden Street
+$POI	'United_Footwear'	United Footwear
+$POI	'208'	208
+$POI	'München_Ost'	München Ost
+$POI	'Richard-Strauss-Tunnel'	Richard-Strauss-Tunnel
+$POI	'Bergmann_Köfte'	Bergmann Köfte
+$POI	'Flori_Caffe_&_Panini_Bar'	Flori Caffe & Panini Bar
+$POI	'Dreieck_München-Allach'	Dreieck München-Allach
+$POI	'Truderinger_Straße'	Truderinger Straße
+$POI	'Westwick_Gardens'	Westwick Gardens
+$POI	'Argos'	Argos
+$POI	'Filandastraße'	Filandastraße
+$POI	'Finsbury_Park_Skate_Park'	Finsbury Park Skate Park
+$POI	'Dreieck_Neukölln'	Dreieck Neukölln
+$POI	'Schulstraße'	Schulstraße
+$POI	'Nightingale_Avenue'	Nightingale Avenue
+$POI	'Idle_Road_Myers_Lane'	Idle Road Myers Lane
+$POI	'Clement_Street'	Clement Street
+$POI	'Thwaites_Brow_Road'	Thwaites Brow Road
+$POI	'Café_Dupont'	Café Dupont
+$POI	'Haverfield_Gardens'	Haverfield Gardens
+$POI	'Kitson_Hall'	Kitson Hall
+$POI	'Thomas-Dehler-Straße'	Thomas-Dehler-Straße
+$POI	'Terofalstraße'	Terofalstraße
+$POI	'Rochstraße'	Rochstraße
+$POI	'Marne_Crescent'	Marne Crescent
+$POI	'Sankt-Quirin-Platz'	Sankt-Quirin-Platz
+$POI	'Hollingwood_Lane'	Hollingwood Lane
+$POI	'Eboli_Ristorante'	Eboli Ristorante
+$POI	'Peel_Park_View'	Peel Park View
+$POI	'Carta_Pura'	Carta Pura
+$POI	'Hornchurch_Road'	Hornchurch Road
+$POI	'Tegernseer_Landstraße'	Tegernseer Landstraße
+$POI	'Withycombe_Road'	Withycombe Road
+$POI	'Post_Filiale'	Post Filiale
+$POI	'Starenweg'	Starenweg
+$POI	'Schmorellplatz'	Schmorellplatz
+$POI	'Thomas-Mann-Straße'	Thomas-Mann-Straße
+$POI	'Mansfield_Road'	Mansfield Road
+$POI	'An_der_Schloßmauer'	An der Schloßmauer
+$POI	'Joseph_Street'	Joseph Street
+$POI	'New_Holme_Road'	New Holme Road
+$POI	'Treptower_Straße'	Treptower Straße
+$POI	'internet_cafe'	internet cafe
+$POI	'Morrisons_Supermarket_Norman_Lane'	Morrisons Supermarket Norman Lane
+$POI	'Blücher'	Blücher
+$POI	'Untersbergstraße'	Untersbergstraße
+$POI	'Tottenham_Court_Road'	Tottenham Court Road
+$POI	'Dale_Street'	Dale Street
+$POI	'Seydlitzstraße'	Seydlitzstraße
+$POI	'The_Drive'	The Drive
+$POI	'Südtiroler_Straße'	Südtiroler Straße
+$POI	'Steeton_Beck'	Steeton Beck
+$POI	'Gradestraße'	Gradestraße
+$POI	'Fielding_Avenue'	Fielding Avenue
+$POI	'4freelance'	4freelance
+$POI	'Wimbledon_Almshouses'	Wimbledon Almshouses
+$POI	'Chapel_House_Road'	Chapel House Road
+$POI	'Gartenweg'	Gartenweg
+$POI	'Bienen_Apotheke'	Bienen Apotheke
+$POI	'Stonehouse_Drive'	Stonehouse Drive
+$POI	'High_Mead'	High Mead
+$POI	'Lonsdale_Avenue'	Lonsdale Avenue
+$POI	'Höglwörther_Straße'	Höglwörther Straße
+$POI	'Mauerdenkmal'	Mauerdenkmal
+$POI	'Wilhelm-Dörpfeld-Weg'	Wilhelm-Dörpfeld-Weg
+$POI	'Frauenkirche'	Frauenkirche
+$POI	'25_Severnake_Close'	25 Severnake Close
+$POI	'450_16805'	450 16805
+$POI	'Avenue_du_Général_Lemonnier'	Avenue du Général Lemonnier
+$POI	'Bishopsbourne'	Bishopsbourne
+$POI	'Brandenburger_Tor'	Brandenburger Tor
+$POI	'Amarin_Thai-Massage'	Amarin Thai-Massage
+$POI	'Silberhornstraße'	Silberhornstraße
+$POI	'Schön_Klinik_München_Schwabing'	Schön Klinik München Schwabing
+$POI	'Hachinger-Bach-Straße'	Hachinger-Bach-Straße
+$POI	'Jebensstraße'	Jebensstraße
+$POI	'Zwickauer_Damm'	Zwickauer Damm
+$POI	'Beta_Place'	Beta Place
+$POI	'Old_National_Gallery'	Old National Gallery
+$POI	'Ferncliffe_Drive'	Ferncliffe Drive
+$POI	'Prune_Park_Lane_near_Rosedale_Avenue'	Prune Park Lane near Rosedale Avenue
+$POI	'Lowertown'	Lowertown
+$POI	'Lipschitzallee/Fritz-Erler-Allee'	Lipschitzallee Fritz-Erler-Allee
+$POI	'Schorerstraße'	Schorerstraße
+$POI	'Kuglerstraße'	Kuglerstraße
+$POI	'Vestry_Road'	Vestry Road
+$POI	'Alt-Kaulsdorf'	Alt-Kaulsdorf
+$POI	'Olympic_Cafe'	Olympic Cafe
+$POI	'Broadlands_at_The_Hallows'	Broadlands at The Hallows
+$POI	'Cem's_Diner_Burgerhouse'	Cem's Diner Burgerhouse
+$POI	'Chapel_Road'	Chapel Road
+$POI	'The_Falcon'	The Falcon
+$POI	'Trenholme_Close'	Trenholme Close
+$POI	'Am_Lilienberg'	Am Lilienberg
+$POI	'Brocklebank_Road'	Brocklebank Road
+$POI	'Halifax_Road_/_Cross_Roads'	Halifax Road   Cross Roads
+$POI	'26'	26
+$POI	'CALIQUA-BORMANN_GmbH&Co._KG'	CALIQUA-BORMANN GmbH&Co. KG
+$POI	'Lane_side_near_Whimsical_Farm'	Lane side near Whimsical Farm
+$POI	'Albatros-Schule'	Albatros-Schule
+$POI	'Sutton_Drive'	Sutton Drive
+$POI	'Westendstraße'	Westendstraße
+$POI	'Hirschauer_Straße'	Hirschauer Straße
+$POI	'Cannon_Lane'	Cannon Lane
+$POI	'Chiswick_Area_Library'	Chiswick Area Library
+$POI	'Garfield_Avenue'	Garfield Avenue
+$POI	'Long_Street'	Long Street
+$POI	'Redwood_Crescent'	Redwood Crescent
+$POI	'Colin_Appleyard_Cards'	Colin Appleyard Cards
+$POI	'Zum_Kosta'	Zum Kosta
+$POI	'Aventuras'	Aventuras
+$POI	'450_24046'	450 24046
+$POI	'Canonbury_Road'	Canonbury Road
+$POI	'Otto-Hahn-Ring'	Otto-Hahn-Ring
+$POI	'Litfaßsäule'	Litfaßsäule
+$POI	'Weston_Vale_Road'	Weston Vale Road
+$POI	'Bakers_Gardens'	Bakers Gardens
+$POI	'Liebergesellstraße'	Liebergesellstraße
+$POI	'Clarendon_Rise'	Clarendon Rise
+$POI	'Falkenseer_Chaussee'	Falkenseer Chaussee
+$POI	'Pembroke_Close'	Pembroke Close
+$POI	'Dental_Surgery'	Dental Surgery
+$POI	'Drakefell_Road'	Drakefell Road
+$POI	'Buxton_Avenue'	Buxton Avenue
+$POI	'WannseeFORUM'	WannseeFORUM
+$POI	'Tillingham_Way'	Tillingham Way
+$POI	'Picard'	Picard
+$POI	'Fritz-Meyer-Weg'	Fritz-Meyer-Weg
+$POI	'Carr_Bottom_Road'	Carr Bottom Road
+$POI	'RABE_Fahrradhandel_GmbH'	RABE Fahrradhandel GmbH
+$POI	'Platform_A'	Platform A
+$POI	'Alma_Street'	Alma Street
+$POI	'Harrogate_Road_Hazlecroft'	Harrogate Road Hazlecroft
+$POI	'Forum'	Forum
+$POI	'Michl-Ehbauer-Weg'	Michl-Ehbauer-Weg
+$POI	'Haslam_Grove'	Haslam Grove
+$POI	'Lehrerparkplatz'	Lehrerparkplatz
+$POI	'High_Bank_Lane'	High Bank Lane
+$POI	'Sparda_Café'	Sparda Café
+$POI	'Blackmore_Way'	Blackmore Way
+$POI	'Honda_Händler'	Honda Händler
+$POI	'Queens_Road'	Queens Road
+$POI	'Oscar-Tietz-Schule'	Oscar-Tietz-Schule
+$POI	'Schleißheimer_Straße'	Schleißheimer Straße
+$POI	'Wiede-Fabrik'	Wiede-Fabrik
+$POI	'Lady_Well'	Lady Well
+$POI	'Barclays'	Barclays
+$POI	'Hoxton_Street_Studios'	Hoxton Street Studios
+$POI	'Keighley'	Keighley
+$POI	'Sendestation_Telekom'	Sendestation Telekom
+$POI	'Cowgill_Surgery'	Cowgill Surgery
+$POI	'Werinherstraße'	Werinherstraße
+$POI	'Fallsbrook_Road'	Fallsbrook Road
+$POI	'Allen_Road'	Allen Road
+$POI	'Lingua_Nova'	Lingua Nova
+$POI	'Verbraucher_Service_Bayern_im_KDFB_e.V.'	Verbraucher Service Bayern im KDFB e.V.
+$POI	'Tölzer_Straße'	Tölzer Straße
+$POI	'Neville_Road'	Neville Road
+$POI	'Keston_Park_Close'	Keston Park Close
+$POI	'Ettenhoferstraße'	Ettenhoferstraße
+$POI	'Hauptstraße'	Hauptstraße
+$POI	'Renshaw_Street'	Renshaw Street
+$POI	'Maßliebchenstraße'	Maßliebchenstraße
+$POI	'Highbury_Grove'	Highbury Grove
+$POI	'Karl-Ziegler-Straße'	Karl-Ziegler-Straße
+$POI	'Moorbottom_Lane'	Moorbottom Lane
+$POI	'Poplar_Avenue'	Poplar Avenue
+$POI	'Viva_la_Vida'	Viva la Vida
+$POI	'Virchow-Klinikum'	Virchow-Klinikum
+$POI	'Am_Himbeerschlag'	Am Himbeerschlag
+$POI	'Ingrebourne_Way'	Ingrebourne Way
+$POI	'Wenworth_Close'	Wenworth Close
+$POI	'Neuperlach_Zentrum'	Neuperlach Zentrum
+$POI	'Netto'	Netto
+$POI	'Mimestraße'	Mimestraße
+$POI	'St._Emmeram'	St. Emmeram
+$POI	'Dorsey_Street_at_Dorset_Close'	Dorsey Street at Dorset Close
+$POI	'Weg_3'	Weg 3
+$POI	'Astallerstraße'	Astallerstraße
+$POI	'Stadtbibliothek_Allach-Untermenzing'	Stadtbibliothek Allach-Untermenzing
+$POI	'Sansibarstraße'	Sansibarstraße
+$POI	'West_lane_near_Lustre_Street'	West lane near Lustre Street
+$POI	'Sedanstraße'	Sedanstraße
+$POI	'Rimswell_Holt_Redcar_Road'	Rimswell Holt Redcar Road
+$POI	'Well_Close'	Well Close
+$POI	'Coulsdon_Area_Farm'	Coulsdon Area Farm
+$POI	'Neukladower_Allee'	Neukladower Allee
+$POI	'Otto_Weidt'	Otto Weidt
+$POI	'Schänke'	Schänke
+$POI	'Margarethe-Danzi-Straße'	Margarethe-Danzi-Straße
+$POI	'Wayside_Crescent'	Wayside Crescent
+$POI	'Städt._Kita_Paster-Behrens-Straße_81'	Städt. Kita Paster-Behrens-Straße 81
+$POI	'MEATliquor'	MEATliquor
+$POI	'Kirkfields_Fennel_Road'	Kirkfields Fennel Road
+$POI	'Amsel'	Amsel
+$POI	'Auer_Mühlbach'	Auer Mühlbach
+$POI	'S_Ostkreuz'	S Ostkreuz
+$POI	'Chevin_Inn'	Chevin Inn
+$POI	'Thoben'	Thoben
+$POI	'Hofmannstraße'	Hofmannstraße
+$POI	'Kernhofer_Straße'	Kernhofer Straße
+$POI	'Aireworth_Road_Aireworth_Grove'	Aireworth Road Aireworth Grove
+$POI	'Bradmore_Park_Road'	Bradmore Park Road
+$POI	'Hotel_Ambiente'	Hotel Ambiente
+$POI	'Habib_Bank_AG_Zurich'	Habib Bank AG Zurich
+$POI	'Wentworth_Arms'	Wentworth Arms
+$POI	'Orchard_Gardens'	Orchard Gardens
+$POI	'Satay_Malaysia'	Satay Malaysia
+$POI	'Stadtteilzentrum_Halemweg'	Stadtteilzentrum Halemweg
+$POI	'Worth_House'	Worth House
+$POI	'Pullan_Street'	Pullan Street
+$POI	'Heimatverein_Biesenthal_e.V.'	Heimatverein Biesenthal e.V.
+$POI	'Fennpfuhlpark'	Fennpfuhlpark
+$POI	'Umkleide_Damen'	Umkleide Damen
+$POI	'Kreuzburger'	Kreuzburger
+$POI	'Salmon_and_Ball'	Salmon and Ball
+$POI	'Vincent_Avenue'	Vincent Avenue
+$POI	'West_India_Avenue'	West India Avenue
+$POI	'Douglas_Road'	Douglas Road
+$POI	'Malteserstraße'	Malteserstraße
+$POI	'MFI'	MFI
+$POI	'Buckower_Weg'	Buckower Weg
+$POI	'Mile_End_Road'	Mile End Road
+$POI	'Feldmochinger_Straße'	Feldmochinger Straße
+$POI	'Old_Wood_Farm'	Old Wood Farm
+$POI	'Rue_d'Amboise'	Rue d'Amboise
+$POI	'Bedford_Street'	Bedford Street
+$POI	'Abzweig_Ostkreuz_Nord'	Abzweig Ostkreuz Nord
+$POI	'Firth_Road'	Firth Road
+$POI	'Cuckoo_Nest_Wood'	Cuckoo Nest Wood
+$POI	'Bäckerei_1001_Korn'	Bäckerei 1001 Korn
+$POI	'Fernbank_Drive'	Fernbank Drive
+$POI	'Telestation'	Telestation
+$POI	'Turmstraße/Waldstraße'	Turmstraße Waldstraße
+$POI	'Skarbinastraße'	Skarbinastraße
+$POI	'Bäcker_Taudien'	Bäcker Taudien
+$POI	'Pret_A_Manger'	Pret A Manger
+$POI	'North_London_Line'	North London Line
+$POI	'Allegra'	Allegra
+$POI	'Idle_Road'	Idle Road
+$POI	'Travel_Viva_AG'	Travel Viva AG
+$POI	'Ernsbergerstraße'	Ernsbergerstraße
+$POI	'Fenwick_Drive'	Fenwick Drive
+$POI	'Frankaustraße'	Frankaustraße
+$POI	'Pestalozzi_Platz'	Pestalozzi Platz
+$POI	'Waidachanger'	Waidachanger
+$POI	'Hansastraße'	Hansastraße
+$POI	'Suphatra_Thai-Massage'	Suphatra Thai-Massage
+$POI	'Titchborne_Row'	Titchborne Row
+$POI	'Franziskanerstraße'	Franziskanerstraße
+$POI	'Papierstraße'	Papierstraße
+$POI	'Nordsee'	Nordsee
+$POI	'Ruth-Beutler-Straße'	Ruth-Beutler-Straße
+$POI	'Wrose_Road_Willow_Grove'	Wrose Road Willow Grove
+$POI	'Listerhills_Road_St_Andrews_Place'	Listerhills Road St Andrews Place
+$POI	'Wongyai_Nuad_Thai'	Wongyai Nuad Thai
+$POI	'Georg-Knorr-Straße'	Georg-Knorr-Straße
+$POI	'Trattoria_Ossena'	Trattoria Ossena
+$POI	'River_Aire'	River Aire
+$POI	'Glengall_Food_Store'	Glengall Food Store
+$POI	'Siegenburger_Straße'	Siegenburger Straße
+$POI	'The_Chinaman'	The Chinaman
+$POI	'Himalaya'	Himalaya
+$POI	'Säbener_Straße'	Säbener Straße
+$POI	'CutUweAndy'	CutUweAndy
+$POI	'Bogey_Lane'	Bogey Lane
+$POI	'Holborn_Circus'	Holborn Circus
+$POI	'Winninger_Straße'	Winninger Straße
+$POI	'Taxisstraße'	Taxisstraße
+$POI	'Züricher_Straße'	Züricher Straße
+$POI	'Mafeking_Terrace'	Mafeking Terrace
+$POI	'Manor_House_Road'	Manor House Road
+$POI	'Sparrow_Farm_Drive_Carlton_Avenue'	Sparrow Farm Drive Carlton Avenue
+$POI	'Keighley_Bus_Station'	Keighley Bus Station
+$POI	'Prellerweg'	Prellerweg
+$POI	'Montessoi-_Kinderhaus'	Montessoi- Kinderhaus
+$POI	'Wettersternweg'	Wettersternweg
+$POI	'Bilsby_Grove'	Bilsby Grove
+$POI	'Helmontstraße'	Helmontstraße
+$POI	'Sticker_Lane_Heshbon_Street'	Sticker Lane Heshbon Street
+$POI	'Main_Street_Crooke_Lane'	Main Street Crooke Lane
+$POI	'Keighley_and_Worth_Valley_Railway'	Keighley and Worth Valley Railway
+$POI	'Ritchie_Road'	Ritchie Road
+$POI	'Ship_Street'	Ship Street
+$POI	'Odsal_Road'	Odsal Road
+$POI	'Airedale_and_Wharfedale_lines'	Airedale and Wharfedale lines
+$POI	'Pitahaya'	Pitahaya
+$POI	'The_Sutton_Arms'	The Sutton Arms
+$POI	'yunna'	yunna
+$POI	'Merlinweg'	Merlinweg
+$POI	'Morleys'	Morleys
+$POI	'Brett_Road'	Brett Road
+$POI	'Cable_Corner'	Cable Corner
+$POI	'Lion's_Fried_Chicken'	Lion's Fried Chicken
+$POI	'Helix'	Helix
+$POI	'Zoe's'	Zoe's
+$POI	'Chesson_Road'	Chesson Road
+$POI	'Southlands_Grove'	Southlands Grove
+$POI	'Cafe_in_to_the_Opera'	Cafe in to the Opera
+$POI	'Ashlone_Road'	Ashlone Road
+$POI	'Gladstone_Street'	Gladstone Street
+$POI	'Morden_Road'	Morden Road
+$POI	'Callshop'	Callshop
+$POI	'Low_Wood'	Low Wood
+$POI	'Innsbrucker_Ring'	Innsbrucker Ring
+$POI	'High_Poplars'	High Poplars
+$POI	'Bad-Nauheimer-Weg'	Bad-Nauheimer-Weg
+$POI	'Guildford_Way'	Guildford Way
+$POI	'Holzapfelstraße'	Holzapfelstraße
+$POI	'Tizianstraße'	Tizianstraße
+$POI	'Flauchersteg'	Flauchersteg
+$POI	'Boxhagener_Straße/Holteistraße'	Boxhagener Straße Holteistraße
+$POI	'Lauchstädter_Straße'	Lauchstädter Straße
+$POI	'Waitrose'	Waitrose
+$POI	'Mühlenstraße'	Mühlenstraße
+$POI	'Teekanne'	Teekanne
+$POI	'Städtische_Kindertageseinrichtung'	Städtische Kindertageseinrichtung
+$POI	'Frooteria_Juice_&_Bagels'	Frooteria Juice & Bagels
+$POI	'Chausseestraße'	Chausseestraße
+$POI	'Syringa_Avenue'	Syringa Avenue
+$POI	'The_Green'	The Green
+$POI	'Knights_Fold'	Knights Fold
+$POI	'Hanover_Yard'	Hanover Yard
+$POI	'Wolfratshauser_Straße'	Wolfratshauser Straße
+$POI	'Stierblut'	Stierblut
+$POI	'The_Crescent'	The Crescent
+$POI	'Cuxhavener_Straße'	Cuxhavener Straße
+$POI	'Franklin_Way'	Franklin Way
+$POI	'Texaco'	Texaco
+$POI	'Fußpflegedienst'	Fußpflegedienst
+$POI	'Peppi_Burg'	Peppi Burg
+$POI	'Bradford_Road'	Bradford Road
+$POI	'Melcombe_Walk'	Melcombe Walk
+$POI	'Lesetraum'	Lesetraum
+$POI	'Am_Kiesteich'	Am Kiesteich
+$POI	'Sant'Angelo'	Sant'Angelo
+$POI	'Spenerstraße'	Spenerstraße
+$POI	'kjhv'	kjhv
+$POI	'Leonrodplatz'	Leonrodplatz
+$POI	'Capital_Industrial_Estate'	Capital Industrial Estate
+$POI	'Hildegardstraße'	Hildegardstraße
+$POI	'Spacehall'	Spacehall
+$POI	'Prioress_Road'	Prioress Road
+$POI	'Carl-Steffeck-Straße'	Carl-Steffeck-Straße
+$POI	'Welcome_Sun'	Welcome Sun
+$POI	'Am_Carlsgarten'	Am Carlsgarten
+$POI	'Colne_Road_Godley_Church_Street'	Colne Road Godley Church Street
+$POI	'Andreas-Sengl-Weg'	Andreas-Sengl-Weg
+$POI	'Neuaubing_Bahnhof'	Neuaubing Bahnhof
+$POI	'Ahornallee'	Ahornallee
+$POI	'Shay_Close'	Shay Close
+$POI	'Schöneberger_Ufer'	Schöneberger Ufer
+$POI	'The_Grove_Centre'	The Grove Centre
+$POI	'Fulham_Town_Hall'	Fulham Town Hall
+$POI	'Hainworth_Crag_Road'	Hainworth Crag Road
+$POI	'Mariahilfplatz'	Mariahilfplatz
+$POI	'West_London_Line'	West London Line
+$POI	'Am_Gemeindewald'	Am Gemeindewald
+$POI	'Fürstenwalder_Damm'	Fürstenwalder Damm
+$POI	'Weddingplatz'	Weddingplatz
+$POI	'Newbury_Court'	Newbury Court
+$POI	'Kaiser'	Kaiser
+$POI	'Polnische_Spezialitäten'	Polnische Spezialitäten
+$POI	'Southlands_Avenue'	Southlands Avenue
+$POI	'Buchbacher_Straße'	Buchbacher Straße
+$POI	'Newham_Way'	Newham Way
+$POI	'North_End_Road'	North End Road
+$POI	'Pulverturmstraße'	Pulverturmstraße
+$POI	'Getränke_Hoffmann'	Getränke Hoffmann
+$POI	'Commerzbank'	Commerzbank
+$POI	'Vallis_Way'	Vallis Way
+$POI	'Riddlesden'	Riddlesden
+$POI	'Belvedere_Road'	Belvedere Road
+$POI	'L'	L
+$POI	'Killick_Street'	Killick Street
+$POI	'Pomoja_Lane'	Pomoja Lane
+$POI	'Infanteriestraße_Süd'	Infanteriestraße Süd
+$POI	'Waldwiesenstraße'	Waldwiesenstraße
+$POI	'Fletcher_Road'	Fletcher Road
+$POI	'Endor_Grove'	Endor Grove
+$POI	'Friedenauer_Mini_Markt'	Friedenauer Mini Markt
+$POI	'Station_Road_at_Mill_Hey'	Station Road at Mill Hey
+$POI	'Nicolas'	Nicolas
+$POI	'Scarborough_Grove'	Scarborough Grove
+$POI	'1'	1
+$POI	'Rievaulx_Avenue'	Rievaulx Avenue
+$POI	'Karneidstraße'	Karneidstraße
+$POI	'Pond_Cottage_Lane'	Pond Cottage Lane
+$POI	'Kingston_Grove'	Kingston Grove
+$POI	'Caledonia_Road'	Caledonia Road
+$POI	'The_Birches'	The Birches
+$POI	'H'Otello'	H'Otello
+$POI	'Dales_News'	Dales News
+$POI	'Behrpark'	Behrpark
+$POI	'Hoe_Street'	Hoe Street
+$POI	'Johannes_der_Täufer'	Johannes der Täufer
+$POI	'An_den_Treptowers'	An den Treptowers
+$POI	'Bowling_Hall_Road_Burras_Road'	Bowling Hall Road Burras Road
+$POI	'Kaufingertor-Passage'	Kaufingertor-Passage
+$POI	'Konditoreninnung_München'	Konditoreninnung München
+$POI	'Olympiapark_West'	Olympiapark West
+$POI	'Foreign_Office'	Foreign Office
+$POI	'Elverson_Road'	Elverson Road
+$POI	'Falkenseer_Platz'	Falkenseer Platz
+$POI	'LIDL'	LIDL
+$POI	'Ippenbergerstraße'	Ippenbergerstraße
+$POI	'Old_Lane'	Old Lane
+$POI	'Sida'	Sida
+$POI	'Eversbuschstraße'	Eversbuschstraße
+$POI	'Amundsen_Court'	Amundsen Court
+$POI	'Alte_Mühle'	Alte Mühle
+$POI	'Obst&Gemüse'	Obst&Gemüse
+$POI	'Bolton_Road_Pickard_Lane'	Bolton Road Pickard Lane
+$POI	'Theatinerstraße'	Theatinerstraße
+$POI	'North_Circular_Road'	North Circular Road
+$POI	'Joseph-Holzer-Weg'	Joseph-Holzer-Weg
+$POI	'Mürwiker_Straße'	Mürwiker Straße
+$POI	'Ilkley_Road_Leather_Bank'	Ilkley Road Leather Bank
+$POI	'Torstraße'	Torstraße
+$POI	'Gosset_Street'	Gosset Street
+$POI	'Sunrise_Court'	Sunrise Court
+$POI	'Gietlstraße'	Gietlstraße
+$POI	'Long_Lee_surgery'	Long Lee surgery
+$POI	'Strandvögel'	Strandvögel
+$POI	'Escape'	Escape
+$POI	'Legrams_Lane_Cemetery_Road'	Legrams Lane Cemetery Road
+$POI	'Avondale_Crescent'	Avondale Crescent
+$POI	'Puma'	Puma
+$POI	'Neuschwabing'	Neuschwabing
+$POI	'Wall_Street'	Wall Street
+$POI	'Sondermeierstraße'	Sondermeierstraße
+$POI	'The_Ring_O_Bells_(Closed)'	The Ring O Bells (Closed)
+$POI	'Michaels-Kirche'	Michaels-Kirche
+$POI	'Telscombe_Drive'	Telscombe Drive
+$POI	'St_John's_Wood_Road'	St John's Wood Road
+$POI	'Trattoria_Peretti'	Trattoria Peretti
+$POI	'Halifax_Road_Beck_Hill'	Halifax Road Beck Hill
+$POI	'Old_Maidstone_Road'	Old Maidstone Road
+$POI	'Ewer_Street'	Ewer Street
+$POI	'Trendhair'	Trendhair
+$POI	'Bernhard-Bästlein-Straße'	Bernhard-Bästlein-Straße
+$POI	'NiL'	NiL
+$POI	'Natwest'	Natwest
+$POI	'Queen's_Road'	Queen's Road
+$POI	'St_Chad's_Street'	St Chad's Street
+$POI	'Queenstown_Road'	Queenstown Road
+$POI	'Fishers_Pharmacy'	Fishers Pharmacy
+$POI	'Hanks'	Hanks
+$POI	'Rue_Poliveau'	Rue Poliveau
+$POI	'Großgörschenstraße'	Großgörschenstraße
+$POI	'Moorhall_Road'	Moorhall Road
+$POI	'Deutscher_Bundestag'	Deutscher Bundestag
+$POI	'Deutsches_Hyperhidrosezentrum_DHHZ'	Deutsches Hyperhidrosezentrum DHHZ
+$POI	'Grenzallee'	Grenzallee
+$POI	'Caviar_House_and_Prunier'	Caviar House and Prunier
+$POI	'Klinikum_Harlaching'	Klinikum Harlaching
+$POI	'Keighley_Road_/_Ogden_Lane'	Keighley Road   Ogden Lane
+$POI	'Anhalter_Platz'	Anhalter Platz
+$POI	'Mozartstraße'	Mozartstraße
+$POI	'The_Royal_Standard'	The Royal Standard
+$POI	'Warren_Lane_Stone_Hill'	Warren Lane Stone Hill
+$POI	'Mango'	Mango

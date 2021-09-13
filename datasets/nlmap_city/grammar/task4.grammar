@@ -1,0 +1,622 @@
+$LOC	'Stuttgart'	Stuttgart
+$LOC	'Baden-Württemberg'	Baden-Württemberg
+$LOC	'Île-de-France'	Île-de-France
+$LOC	'Ludwigshafen_am_Rhein'	Ludwigshafen am Rhein
+$LOC	'Nantes'	Nantes
+$LOC	'York'	York
+$LOC	'Bonn'	Bonn
+$LOC	'Birmingham'	Birmingham
+$LOC	'Dortmund'	Dortmund
+$LOC	'Osterode'	Osterode
+$POI	'Olgastraße'	Olgastraße
+$POI	'Sea_Garden_Chinese_and_Cantonese_Cuisine'	Sea Garden Chinese and Cantonese Cuisine
+$POI	'Frampton_Close'	Frampton Close
+$POI	'M'	M
+$POI	'Contrie4'	Contrie4
+$POI	'Stuttgart_Nürnberger_Straße'	Stuttgart Nürnberger Straße
+$POI	'Notweg'	Notweg
+$POI	'Dalman_&_Narborough_Ltd'	Dalman & Narborough Ltd
+$POI	'Distelkamp'	Distelkamp
+$POI	'Boulevard_Louis_Barthou'	Boulevard Louis Barthou
+$POI	'Now_or_Never_Tattoos'	Now or Never Tattoos
+$POI	'Chester_Road'	Chester Road
+$POI	'Kinder-_und_Jugendbibliothek'	Kinder- und Jugendbibliothek
+$POI	'Boulevard_du_Petit_Port'	Boulevard du Petit Port
+$POI	'Pont_de_Pirmil'	Pont de Pirmil
+$POI	'Rue_du_Doubs'	Rue du Doubs
+$POI	'lodge_to_no_35'	lodge to no 35
+$POI	'Heitkampstraße'	Heitkampstraße
+$POI	'Gustave_Roch'	Gustave Roch
+$POI	'Rue_du_Pont_de_l'Arche_de_Mauves'	Rue du Pont de l'Arche de Mauves
+$POI	'Seelbergstraße'	Seelbergstraße
+$POI	'Tor_1'	Tor 1
+$POI	'Shefferville_Café'	Shefferville Café
+$POI	'Erdbeerweg'	Erdbeerweg
+$POI	'Vaihinger_Steinbrecher'	Vaihinger Steinbrecher
+$POI	'Moseley_Road_Methodist_Church'	Moseley Road Methodist Church
+$POI	'Selcombe_Way'	Selcombe Way
+$POI	'Lucas_Circus'	Lucas Circus
+$POI	'VERSATEL'	VERSATEL
+$POI	'Am_Hedreisch'	Am Hedreisch
+$POI	'Miedtank'	Miedtank
+$POI	'Liederhalle'	Liederhalle
+$POI	'Ärztehaus'	Ärztehaus
+$POI	'The_Co-operative_Food'	The Co-operative Food
+$POI	'Blakenhale_Road'	Blakenhale Road
+$POI	'Shakespear_Crescent'	Shakespear Crescent
+$POI	'Kruckel_-_Gevelsberg'	Kruckel - Gevelsberg
+$POI	'FE_Elektro-Service'	FE Elektro-Service
+$POI	'Position_2'	Position 2
+$POI	'Parkplatz_Froschloch'	Parkplatz Froschloch
+$POI	'Funkeschule'	Funkeschule
+$POI	'Pfarrstraße'	Pfarrstraße
+$POI	'Yardley_Grange_Nursing_Home'	Yardley Grange Nursing Home
+$POI	'Daimler-Benz-Stadion'	Daimler-Benz-Stadion
+$POI	'Fachhochschule_Dortmund'	Fachhochschule Dortmund
+$POI	'Rue_Georges_Meynieu'	Rue Georges Meynieu
+$POI	'Quai_de_la_Jonelière'	Quai de la Jonelière
+$POI	'Huckarde_Bushof'	Huckarde Bushof
+$POI	'Dachsweg'	Dachsweg
+$POI	'Schlosserstraße'	Schlosserstraße
+$POI	'Westerfilde'	Westerfilde
+$POI	'Evinger_Straße'	Evinger Straße
+$POI	'Medi_-Center_Kirchhörde'	Medi -Center Kirchhörde
+$POI	'Boulevard_de_Sarrebruck'	Boulevard de Sarrebruck
+$POI	'Byron_Court'	Byron Court
+$POI	'Melanchthonstraße'	Melanchthonstraße
+$POI	'Trapphofstraße'	Trapphofstraße
+$POI	'Rue_Marguerite_Yourcenar'	Rue Marguerite Yourcenar
+$POI	'Vahleweg'	Vahleweg
+$POI	'Stock's_Wood'	Stock's Wood
+$POI	'Pritchatts_Road'	Pritchatts Road
+$POI	'Trinity_Place'	Trinity Place
+$POI	'Hasenohrweg'	Hasenohrweg
+$POI	'Im_Weißen_Feld'	Im Weißen Feld
+$POI	'Ladywood_Circus'	Ladywood Circus
+$POI	'Dornhalde'	Dornhalde
+$POI	'Monkswell_Close'	Monkswell Close
+$POI	'Rue_Paul_Painlevé'	Rue Paul Painlevé
+$POI	'Evangelischer_Kindergarten_Rilkeweg'	Evangelischer Kindergarten Rilkeweg
+$POI	'Bus_369:_Bochum_Sportplatz_Papenholz_=>_Dortmund_Lütgendortmund'	Bus 369: Bochum Sportplatz Papenholz => Dortmund Lütgendortmund
+$POI	'Rue_Tivoli'	Rue Tivoli
+$POI	'Impasse_du_Maillé_Brézé'	Impasse du Maillé Brézé
+$POI	'Boulevard_du_Général_de_Gaulle'	Boulevard du Général de Gaulle
+$POI	'Tablites'	Tablites
+$POI	'Avenue_Gaston_Bonnier'	Avenue Gaston Bonnier
+$POI	'Crèche_Manufacture'	Crèche Manufacture
+$POI	'Boulevard_Robert_Schuman'	Boulevard Robert Schuman
+$POI	'Reaside_Croft'	Reaside Croft
+$POI	'Reiherweg'	Reiherweg
+$POI	'Ladywood_Middleway'	Ladywood Middleway
+$POI	'Tymannstraße'	Tymannstraße
+$POI	'Peter-Florenz-Weddigen-Straße'	Peter-Florenz-Weddigen-Straße
+$POI	'Design-Agentur_ARNE'	Design-Agentur ARNE
+$POI	'Hortensienweg'	Hortensienweg
+$POI	'Evangelische_Kirche_Brackel'	Evangelische Kirche Brackel
+$POI	'Adams_Hill'	Adams Hill
+$POI	'Rue_Jules_Noël'	Rue Jules Noël
+$POI	'Sigmundtstraße'	Sigmundtstraße
+$POI	'Boulevard_Auguste_Péneau'	Boulevard Auguste Péneau
+$POI	'Hollie_Lucas_Road'	Hollie Lucas Road
+$POI	'Paul_Bert'	Paul Bert
+$POI	'Great_Charles_Street_Queensway'	Great Charles Street Queensway
+$POI	'Chemin_du_Moulin_des_Marais'	Chemin du Moulin des Marais
+$POI	'Coral'	Coral
+$POI	'Frederick_Road'	Frederick Road
+$POI	'Carters_Lane'	Carters Lane
+$POI	'Dewsbury_Grove'	Dewsbury Grove
+$POI	'Mitchells_&_Butlers'	Mitchells & Butlers
+$POI	'Beaulieu'	Beaulieu
+$POI	'Schmölterweg'	Schmölterweg
+$POI	'City_Arcade'	City Arcade
+$POI	'Prêt_à_Partir'	Prêt à Partir
+$POI	'Rue_Sarrazin'	Rue Sarrazin
+$POI	'Maison_des_Parents'	Maison des Parents
+$POI	'Thorner_Straße'	Thorner Straße
+$POI	'Pierre_Jean-François_Donon'	Pierre Jean-François Donon
+$POI	'Rue_Docteur_Grimaud'	Rue Docteur Grimaud
+$POI	'Neuffenstraße'	Neuffenstraße
+$POI	'Florianstraße'	Florianstraße
+$POI	'Rue_Henri_IV'	Rue Henri IV
+$POI	'Cafe_Cardak'	Cafe Cardak
+$POI	'NXWM_Bus_Route_902'	NXWM Bus Route 902
+$POI	'Dolphin_Lane'	Dolphin Lane
+$POI	'Volcom'	Volcom
+$POI	'Kurl_Krankenhaus'	Kurl Krankenhaus
+$POI	'Dr._med._Margarethe_Wolf'	Dr. med. Margarethe Wolf
+$POI	'Stratford_Road'	Stratford Road
+$POI	'Place_Sophie_Trébuchet'	Place Sophie Trébuchet
+$POI	'Gutenbergstraße'	Gutenbergstraße
+$POI	'GFT_Technologies_SE'	GFT Technologies SE
+$POI	'Rührbrunnen'	Rührbrunnen
+$POI	'Le_Petit_Prince'	Le Petit Prince
+$POI	'Sécurité_sociale'	Sécurité sociale
+$POI	'Filton_Croft'	Filton Croft
+$POI	'Noodle_to_go'	Noodle to go
+$POI	'Palmenhof'	Palmenhof
+$POI	'Rue_Paul_Ramadier'	Rue Paul Ramadier
+$POI	'Heumaden'	Heumaden
+$POI	'Kath._Kirche_Heilige_Familie'	Kath. Kirche Heilige Familie
+$POI	'Auckland_Road'	Auckland Road
+$POI	'binder_optik'	binder optik
+$POI	'Potacker'	Potacker
+$POI	'Bishop_Street'	Bishop Street
+$POI	'Cole_Bank_Rd_/_Southam_Rd'	Cole Bank Rd   Southam Rd
+$POI	'Woodview_Drive'	Woodview Drive
+$POI	'Schüruferstraße'	Schüruferstraße
+$POI	'Boulevard_Guy_Mollet'	Boulevard Guy Mollet
+$POI	'Volkshochschule'	Volkshochschule
+$POI	'130'	130
+$POI	'Yorkshire_Building_Society'	Yorkshire Building Society
+$POI	'Echterdinger_Straße'	Echterdinger Straße
+$POI	'Kirchderner_Graben'	Kirchderner Graben
+$POI	'Toyota_Weber'	Toyota Weber
+$POI	'Kingstanding'	Kingstanding
+$POI	'Place_Général_Mellinet'	Place Général Mellinet
+$POI	'Rue_de_la_Pépinière'	Rue de la Pépinière
+$POI	'Greengate_Properties'	Greengate Properties
+$POI	'Hohenheimer_Straße'	Hohenheimer Straße
+$POI	'Heino-Brauckhoff-Weg'	Heino-Brauckhoff-Weg
+$POI	'Rue_des_Chalâtres'	Rue des Chalâtres
+$POI	'Neckarsteg'	Neckarsteg
+$POI	'Jean_Moulin'	Jean Moulin
+$POI	'Sparkasse'	Sparkasse
+$POI	'Kindergarten_St._Michael'	Kindergarten St. Michael
+$POI	'Rue_du_Bois_Hardy'	Rue du Bois Hardy
+$POI	'Grundschule_Birkach'	Grundschule Birkach
+$POI	'Königsbergstraße'	Königsbergstraße
+$POI	'Hirschpavillon'	Hirschpavillon
+$POI	'Place_de_Grillaud'	Place de Grillaud
+$POI	'Boulangerie_Josselin'	Boulangerie Josselin
+$POI	'Kornbrennerei'	Kornbrennerei
+$POI	'Bertram_Children's_Centre'	Bertram Children's Centre
+$POI	'Field_Marshall_Sir_Claude_Auchinleck'	Field Marshall Sir Claude Auchinleck
+$POI	'C&A'	C&A
+$POI	'agiles_Süd_GmbH'	agiles Süd GmbH
+$POI	'Protegohaube_Zeche_Borussia_Süd'	Protegohaube Zeche Borussia Süd
+$POI	'Boulevard_des_Poilus'	Boulevard des Poilus
+$POI	'Les_Rives_de_Loire'	Les Rives de Loire
+$POI	'Livery_Street'	Livery Street
+$POI	'Dogpool_Lane'	Dogpool Lane
+$POI	'The_Priory_Queensway'	The Priory Queensway
+$POI	'Avenue_des_3_Frères'	Avenue des 3 Frères
+$POI	'Wengestraße'	Wengestraße
+$POI	'Rue_Crucy'	Rue Crucy
+$POI	'Helene-Meiser-Weg'	Helene-Meiser-Weg
+$POI	'Ihländer_Bach'	Ihländer Bach
+$POI	'Rembrandtstraße'	Rembrandtstraße
+$POI	'Heilbrunnenstraße'	Heilbrunnenstraße
+$POI	'Hafenbahnstraße'	Hafenbahnstraße
+$POI	'Buat'	Buat
+$POI	'Am_Liegenden'	Am Liegenden
+$POI	'Rue_des_Grenouilles'	Rue des Grenouilles
+$POI	'Ruhrschnellweg'	Ruhrschnellweg
+$POI	'Central_Form'	Central Form
+$POI	'Hôtel_Mercure'	Hôtel Mercure
+$POI	'l'embellie'	l'embellie
+$POI	'Boulevard_de_Stalingrad'	Boulevard de Stalingrad
+$POI	'Islamisches_Kulturzentrum_"Bedr"_e.V._Dortmund'	Islamisches Kulturzentrum "Bedr" e.V. Dortmund
+$POI	'Rue_Marie_Lebel'	Rue Marie Lebel
+$POI	'Rue_Général_De_Torquat'	Rue Général De Torquat
+$POI	'C&A_Dortmund'	C&A Dortmund
+$POI	'Rue_Pierre_Yvernogeau'	Rue Pierre Yvernogeau
+$POI	'Dellwiger_Straße'	Dellwiger Straße
+$POI	'Place_du_Repos_de_Chasse'	Place du Repos de Chasse
+$POI	'Mel_de_margo'	Mel de margo
+$POI	'Birches_Green_Junior_&_Infant_Schools'	Birches Green Junior & Infant Schools
+$POI	'Backinsel'	Backinsel
+$POI	'Schneckenhaus'	Schneckenhaus
+$POI	'Löschzug_18_Oespel/Kley'	Löschzug 18 Oespel Kley
+$POI	'North_Warwick_Street'	North Warwick Street
+$POI	'Glover_Close'	Glover Close
+$POI	'Chaps'	Chaps
+$POI	'Dionis'	Dionis
+$POI	'Gréneraie'	Gréneraie
+$POI	'Picton_Grove'	Picton Grove
+$POI	'Haus_10'	Haus 10
+$POI	'Bank_House'	Bank House
+$POI	'St_Bernard's_Catholic_Primary_School'	St Bernard's Catholic Primary School
+$POI	'Rue_d'Houat'	Rue d'Houat
+$POI	'Körschwiesen'	Körschwiesen
+$POI	'Lobby'	Lobby
+$POI	'Charlottenstraße'	Charlottenstraße
+$POI	'Wielandshöhe'	Wielandshöhe
+$POI	'Cannstatter_Rain'	Cannstatter Rain
+$POI	'Aston_Church_Road'	Aston Church Road
+$POI	'Sölder_Bruch'	Sölder Bruch
+$POI	'Rosalie_Meyer'	Rosalie Meyer
+$POI	'Chung_Shing'	Chung Shing
+$POI	'Vanina'	Vanina
+$POI	'Park_Lane'	Park Lane
+$POI	'Ligne_2;3'	Ligne 2;3
+$POI	'Collins_Close'	Collins Close
+$POI	'Stockfield_Road'	Stockfield Road
+$POI	'Bus_422E_Brackel_Kirche_-_Europaschule'	Bus 422E Brackel Kirche - Europaschule
+$POI	'Paul-Henri-Spaak-Straße'	Paul-Henri-Spaak-Straße
+$POI	'Stahlwerkstraße'	Stahlwerkstraße
+$POI	'Elmwood_United__Reformed_Church'	Elmwood United  Reformed Church
+$POI	'Rue_Joyau'	Rue Joyau
+$POI	'Venelle_Élisée_Reclus'	Venelle Élisée Reclus
+$POI	'Lührmannstraße'	Lührmannstraße
+$POI	'Oakridge_Road'	Oakridge Road
+$POI	'Rue_André_Gabriel'	Rue André Gabriel
+$POI	'Place_des_Savonniers'	Place des Savonniers
+$POI	'Elektro_Grauer'	Elektro Grauer
+$POI	'Gäuseland'	Gäuseland
+$POI	'Lloyds_TSB'	Lloyds TSB
+$POI	'Ev._Kindergarten_Ursula_Pfäfflin'	Ev. Kindergarten Ursula Pfäfflin
+$POI	'Strauss'	Strauss
+$POI	'Allée_Penthièvre'	Allée Penthièvre
+$POI	'Place_Jean_V'	Place Jean V
+$POI	'Handwerkstraße'	Handwerkstraße
+$POI	'Avenue_Chanzy'	Avenue Chanzy
+$POI	'Da_Luigi'	Da Luigi
+$POI	'Silverfield_Close'	Silverfield Close
+$POI	'Okapis'	Okapis
+$POI	'Avenue_des_Lacs'	Avenue des Lacs
+$POI	'Talstraße'	Talstraße
+$POI	'The_Ridgeway'	The Ridgeway
+$POI	'Springthorpe_Road'	Springthorpe Road
+$POI	'Burley_Way'	Burley Way
+$POI	'Wörthstraße'	Wörthstraße
+$POI	'Olpketalstraße'	Olpketalstraße
+$POI	'Römerstraße'	Römerstraße
+$POI	'Emscher'	Emscher
+$POI	'Eissportzentrum_(Westfalenhallen)'	Eissportzentrum (Westfalenhallen)
+$POI	'Wambeler_Hellweg'	Wambeler Hellweg
+$POI	'Robin_Hood_Convenience_Store'	Robin Hood Convenience Store
+$POI	'Brüderweg'	Brüderweg
+$POI	'Classic'	Classic
+$POI	'Bergstaffelstraße'	Bergstaffelstraße
+$POI	'Bar_brasserie_Le_Tertre'	Bar brasserie Le Tertre
+$POI	'Vorsteherstraße'	Vorsteherstraße
+$POI	'Moreton_Close'	Moreton Close
+$POI	'Rue_René_Viviani'	Rue René Viviani
+$POI	'Schmidener_Straße'	Schmidener Straße
+$POI	'Shirley_Road'	Shirley Road
+$POI	'König-Karl-Straße'	König-Karl-Straße
+$POI	'ALDI'	ALDI
+$POI	'Riewepläßken'	Riewepläßken
+$POI	'Spechtweg'	Spechtweg
+$POI	'Kopfarbeit'	Kopfarbeit
+$POI	'Northfield'	Northfield
+$POI	'Löttringhauser_Straße'	Löttringhauser Straße
+$POI	'Statue_de_la_Vierge_à_l'Enfant'	Statue de la Vierge à l'Enfant
+$POI	'Rubensstraße'	Rubensstraße
+$POI	'Blottereau'	Blottereau
+$POI	'Ernestineweg'	Ernestineweg
+$POI	'United_Carpets_&_Tiles'	United Carpets & Tiles
+$POI	'Marrakech_Intérieur'	Marrakech Intérieur
+$POI	'Impasse_du_Stade'	Impasse du Stade
+$POI	'Flachter_Straße'	Flachter Straße
+$POI	'Star'	Star
+$POI	'Section_EE'	Section EE
+$POI	'Ehmann-Brunnen'	Ehmann-Brunnen
+$POI	'Rue_Duvoisin'	Rue Duvoisin
+$POI	's'Hoefle'	s'Hoefle
+$POI	'Au_Chien_Stupide'	Au Chien Stupide
+$POI	'Benninghofer_Mark'	Benninghofer Mark
+$POI	'Boulevard_de_la_Prairie_de_Mauves'	Boulevard de la Prairie de Mauves
+$POI	'sapin_noel'	sapin noel
+$POI	'Pollard_Road'	Pollard Road
+$POI	'Dahmsfeldstraße'	Dahmsfeldstraße
+$POI	'Stone_Hall_Adult_Education_Centre'	Stone Hall Adult Education Centre
+$POI	'173'	173
+$POI	'Lohheide'	Lohheide
+$POI	'Henriettenweg'	Henriettenweg
+$POI	'Kommunaler_Versorgungsverband_Baden-Württemberg'	Kommunaler Versorgungsverband Baden-Württemberg
+$POI	'Basenachstraße'	Basenachstraße
+$POI	'Birmingham_to_Stratford_Line'	Birmingham to Stratford Line
+$POI	'Ruhrallee'	Ruhrallee
+$POI	'Impasse_Aliez'	Impasse Aliez
+$POI	'Untere_Pekingstraße'	Untere Pekingstraße
+$POI	'Heilbronner_Straße'	Heilbronner Straße
+$POI	'Silverline_Cars'	Silverline Cars
+$POI	'Rue_Jean-Baptiste_Legeay'	Rue Jean-Baptiste Legeay
+$POI	'Maydene_Croft'	Maydene Croft
+$POI	'Wasserkaskaden'	Wasserkaskaden
+$POI	'Platanes'	Platanes
+$POI	'Water_Orton_Lane'	Water Orton Lane
+$POI	'Lodge_Road'	Lodge Road
+$POI	'Hedwigstraße'	Hedwigstraße
+$POI	'Märker_Grund'	Märker Grund
+$POI	'Wernhaldeweg'	Wernhaldeweg
+$POI	'Lünen_-_Hagen'	Lünen - Hagen
+$POI	'Blausielweg'	Blausielweg
+$POI	'La_Scène_Michelet'	La Scène Michelet
+$POI	'Obere_Weinsteige'	Obere Weinsteige
+$POI	'V_and_B'	V and B
+$POI	'Löschke'	Löschke
+$POI	'Midas_Floors'	Midas Floors
+$POI	'Place_Sainte-Élisabeth'	Place Sainte-Élisabeth
+$POI	'Saint-Mihiel'	Saint-Mihiel
+$POI	'Hôtel_Vauloup'	Hôtel Vauloup
+$POI	'Mease_Croft'	Mease Croft
+$POI	'Piscine_du_Petit_Port'	Piscine du Petit Port
+$POI	'Barop_Parkhaus'	Barop Parkhaus
+$POI	'Marienplatz'	Marienplatz
+$POI	'Apotheke_am_Sonnenberg'	Apotheke am Sonnenberg
+$POI	'Hallenbad_Vaihingen'	Hallenbad Vaihingen
+$POI	'Haselwäldlesweg'	Haselwäldlesweg
+$POI	'Gerstenstraße'	Gerstenstraße
+$POI	'Weoley_Castle_Road'	Weoley Castle Road
+$POI	'Springmorgen'	Springmorgen
+$POI	'Kings_Heath_High_Street_Electric_Charge_Point'	Kings Heath High Street Electric Charge Point
+$POI	'Brechtener_Straße'	Brechtener Straße
+$POI	'Erweiterung_Mineral-Bad_Berg'	Erweiterung Mineral-Bad Berg
+$POI	'Zeppelinstraße'	Zeppelinstraße
+$POI	'Auf_der_Heide'	Auf der Heide
+$POI	'CopyTec'	CopyTec
+$POI	'BW_101_Rosensteinbunker'	BW 101 Rosensteinbunker
+$POI	'Rue_Auguste_Brizeux'	Rue Auguste Brizeux
+$POI	'Walmley_Ash_Road'	Walmley Ash Road
+$POI	'Möwenweg'	Möwenweg
+$POI	'Machin_Road_Car_Park'	Machin Road Car Park
+$POI	'Besenwirtschaft_Rauscher'	Besenwirtschaft Rauscher
+$POI	'NeckarPark_(Stadion)'	NeckarPark (Stadion)
+$POI	'Section_d'enseignement_professionnel_du_Lycée_polyvalent_privé_Sacré-Coeur'	Section d'enseignement professionnel du Lycée polyvalent privé Sacré-Coeur
+$POI	'Piazza_d'Italia'	Piazza d'Italia
+$POI	'Longbridge_Methodist_Church'	Longbridge Methodist Church
+$POI	'Schwanenwall'	Schwanenwall
+$POI	'Esquina_Central'	Esquina Central
+$POI	'Winson_Green_Road'	Winson Green Road
+$POI	'Huckarder_Straße'	Huckarder Straße
+$POI	'CO-OP_Funerals'	CO-OP Funerals
+$POI	'Mendès-France'	Mendès-France
+$POI	'In_der_Liethe'	In der Liethe
+$POI	'Cour_aux_Chais'	Cour aux Chais
+$POI	'L'Erdre'	L'Erdre
+$POI	'Upper_Bull_Street'	Upper Bull Street
+$POI	'Richterstraße'	Richterstraße
+$POI	'Schloss_Bodelschwingh'	Schloss Bodelschwingh
+$POI	'Willey_Grove'	Willey Grove
+$POI	'Quarry_House_Close'	Quarry House Close
+$POI	'Gerlinger_Straße'	Gerlinger Straße
+$POI	'Mühlhausen_Schloss'	Mühlhausen Schloss
+$POI	'Posten_Klett-Passage'	Posten Klett-Passage
+$POI	'Treibstraße'	Treibstraße
+$POI	'Allée_Commandant_Charcot'	Allée Commandant Charcot
+$POI	'Derner_Straße'	Derner Straße
+$POI	'NatWest'	NatWest
+$POI	'All_Saints'_Street'	All Saints' Street
+$POI	'Oxley_Grove'	Oxley Grove
+$POI	'Ludwig_Weil'	Ludwig Weil
+$POI	'Gartenverein_Pferdebachtal_e.V.'	Gartenverein Pferdebachtal e.V.
+$POI	'Jonquil_Close'	Jonquil Close
+$POI	'Saltley_Business_Park'	Saltley Business Park
+$POI	'Brentford_Road'	Brentford Road
+$POI	'Café_Thessaloniki'	Café Thessaloniki
+$POI	'Chemin_des_Salles'	Chemin des Salles
+$POI	'Rue_des_Piballiers'	Rue des Piballiers
+$POI	'car2go'	car2go
+$POI	'Multiabrasive_Ltd'	Multiabrasive Ltd
+$POI	'Pâtisserie_Lambert'	Pâtisserie Lambert
+$POI	'Dortmund_Stadthaus'	Dortmund Stadthaus
+$POI	'Leierwiesen'	Leierwiesen
+$POI	'Centresoft_/_PDQ_Distribution_Limited'	Centresoft   PDQ Distribution Limited
+$POI	'Kirchhörde_Bf'	Kirchhörde Bf
+$POI	'Slade_Road'	Slade Road
+$POI	'Stuttgart-Wangen'	Stuttgart-Wangen
+$POI	'Weitacker'	Weitacker
+$POI	'FitPol'	FitPol
+$POI	'Haslindestraße'	Haslindestraße
+$POI	'Alter_Hellweg'	Alter Hellweg
+$POI	'Bettelweg'	Bettelweg
+$POI	'Zum_Busbahnhof'	Zum Busbahnhof
+$POI	'Robl'	Robl
+$POI	'Kipperweg'	Kipperweg
+$POI	'Nachklärbecken'	Nachklärbecken
+$POI	'Weissacher_Straße'	Weissacher Straße
+$POI	'Bordesley_Middleway'	Bordesley Middleway
+$POI	'Pickwick_Grove'	Pickwick Grove
+$POI	'Sölder_Straße'	Sölder Straße
+$POI	'Air'	Air
+$POI	'St_John's_Church_of_England_Primary_School'	St John's Church of England Primary School
+$POI	'Coach_322:_Birmingham_=>_Swansea'	Coach 322: Birmingham => Swansea
+$POI	'Le_Patio'nnément'	Le Patio'nnément
+$POI	'Herschelstraße'	Herschelstraße
+$POI	'Brüggenfeld'	Brüggenfeld
+$POI	'Alpenrosenstraße'	Alpenrosenstraße
+$POI	'Dortmunder_Schrebergartenverein_1906_e.V.'	Dortmunder Schrebergartenverein 1906 e.V.
+$POI	'Sperkelweg'	Sperkelweg
+$POI	'Rednal_Mill_Drive'	Rednal Mill Drive
+$POI	'Gartenanlage_Ardeyblick'	Gartenanlage Ardeyblick
+$POI	'Artful_Expression'	Artful Expression
+$POI	'Rue_du_Pressoir'	Rue du Pressoir
+$POI	'Rue_Claude_Lorrain'	Rue Claude Lorrain
+$POI	'Kingsleigh_Croft'	Kingsleigh Croft
+$POI	'Aston_Villa'	Aston Villa
+$POI	'Ringelohstraße'	Ringelohstraße
+$POI	'Haart_Ea'	Haart Ea
+$POI	'Boulevard_des_Batignolles'	Boulevard des Batignolles
+$POI	'Abstellanlage_(Dortmund-Hbf-Dhf)'	Abstellanlage (Dortmund-Hbf-Dhf)
+$POI	'Kreuzstraße'	Kreuzstraße
+$POI	'Explore_Learning'	Explore Learning
+$POI	'Saltley_School_and_Specialist_Science_College'	Saltley School and Specialist Science College
+$POI	'Amtsstraße'	Amtsstraße
+$POI	'KB'	KB
+$POI	'Rue_des_Bons_Français'	Rue des Bons Français
+$POI	'Grand_Union_Canal'	Grand Union Canal
+$POI	'Guts-Muths-Weg'	Guts-Muths-Weg
+$POI	'Merritts_Brook'	Merritts Brook
+$POI	'Widderstein-Apotheke'	Widderstein-Apotheke
+$POI	'Jaffray_Building'	Jaffray Building
+$POI	'Watan_Travel'	Watan Travel
+$POI	'Cubewano'	Cubewano
+$POI	'Gemini'	Gemini
+$POI	'Chris's_Café'	Chris's Café
+$POI	'Route_de_Paris'	Route de Paris
+$POI	'Le_13_et_3'	Le 13 et 3
+$POI	'Krinkelbach'	Krinkelbach
+$POI	'Gartenstraße'	Gartenstraße
+$POI	'Rue_des_Sables_d'Olonne'	Rue des Sables d'Olonne
+$POI	'Landvan_Self-storage'	Landvan Self-storage
+$POI	'Holy_Trinity_Pre_School'	Holy Trinity Pre School
+$POI	'Allée_Claude_Cahun'	Allée Claude Cahun
+$POI	'R.J._Smith_Ltd'	R.J. Smith Ltd
+$POI	'Tunnel_de_Chantenay'	Tunnel de Chantenay
+$POI	'Gewerbegebiet_Minister_Achenbach_I/II'	Gewerbegebiet Minister Achenbach I II
+$POI	'Le_Ferry'	Le Ferry
+$POI	'Auerbachstraße'	Auerbachstraße
+$POI	'Middlemore_Business_Park'	Middlemore Business Park
+$POI	'Auf_der_Kluse'	Auf der Kluse
+$POI	'Kräherwald'	Kräherwald
+$POI	'Scholars_Close'	Scholars Close
+$POI	'Bute_Close'	Bute Close
+$POI	'Marsh_Hill'	Marsh Hill
+$POI	'University_CHP'	University CHP
+$POI	'Stanville_Primary_School'	Stanville Primary School
+$POI	'Rue_des_Bosselles'	Rue des Bosselles
+$POI	'Oskar-Kokoschka-Weg'	Oskar-Kokoschka-Weg
+$POI	'Avenue_de_Tahiti'	Avenue de Tahiti
+$POI	'Stratstone_Harley-Davidson'	Stratstone Harley-Davidson
+$POI	'Bourdonnais'	Bourdonnais
+$POI	'Rue_Yves_du_Manoir'	Rue Yves du Manoir
+$POI	'Heimanngraben'	Heimanngraben
+$POI	'Colonial_Road'	Colonial Road
+$POI	'2-Rad_Engels'	2-Rad Engels
+$POI	'Rue_Docteur_Heurteaux'	Rue Docteur Heurteaux
+$POI	'Parkar'	Parkar
+$POI	'Doldenweg'	Doldenweg
+$POI	'Rue_du_Pen_Duick_II'	Rue du Pen Duick II
+$POI	'Église_Sainte-Croix'	Église Sainte-Croix
+$POI	'Chemin_du_Pressoir_Chênaie'	Chemin du Pressoir Chênaie
+$POI	'Talwiesenweg'	Talwiesenweg
+$POI	'Am_Kriegsbergturm'	Am Kriegsbergturm
+$POI	'Residents_Parking'	Residents Parking
+$POI	'1_Jamet_→_Ranzay'	1 Jamet → Ranzay
+$POI	'Erdmannstraße'	Erdmannstraße
+$POI	'Croissant'	Croissant
+$POI	'Haldenrainstraße'	Haldenrainstraße
+$POI	'Birkacher_Feld'	Birkacher Feld
+$POI	'L'Opercule'	L'Opercule
+$POI	'Henry_Schweizer_Raumgestaltung'	Henry Schweizer Raumgestaltung
+$POI	'Allée_Flesselles'	Allée Flesselles
+$POI	'Rue_Lesage'	Rue Lesage
+$POI	'Rue_Paul_Verlaine'	Rue Paul Verlaine
+$POI	'Eberhardstraße'	Eberhardstraße
+$POI	'Ristorante_da_Giuseppe'	Ristorante da Giuseppe
+$POI	'Hearing_&_Mobility_Centre'	Hearing & Mobility Centre
+$POI	'Route_de_Vannes_(Saint-Herblain)'	Route de Vannes (Saint-Herblain)
+$POI	'Krähenbruch'	Krähenbruch
+$POI	'Wullestaffel'	Wullestaffel
+$POI	'Multi-accueil_Les_5_continents_-_Antenne_Bourderies'	Multi-accueil Les 5 continents - Antenne Bourderies
+$POI	'Tay_Road'	Tay Road
+$POI	'Stratford_Street_North'	Stratford Street North
+$POI	'Augsburger_Straße'	Augsburger Straße
+$POI	'Rue_d'Auvours'	Rue d'Auvours
+$POI	'Qasim'	Qasim
+$POI	'Materialprüfungsamt'	Materialprüfungsamt
+$POI	'Charminster_Avenue'	Charminster Avenue
+$POI	'Hainallee'	Hainallee
+$POI	'Schönaichstraße'	Schönaichstraße
+$POI	'Leostraße'	Leostraße
+$POI	'Wittener_Straße'	Wittener Straße
+$POI	'Nachbarschaftshaus_Fürst_Hardenberg'	Nachbarschaftshaus Fürst Hardenberg
+$POI	'Rue_Roger_Glotin'	Rue Roger Glotin
+$POI	'Rue_de_la_Bourgeonnière'	Rue de la Bourgeonnière
+$POI	'Nouveau_Bêle'	Nouveau Bêle
+$POI	'Hansmannstraße'	Hansmannstraße
+$POI	'Kleeweg'	Kleeweg
+$POI	'In_der_Falterau'	In der Falterau
+$POI	'Day_&_Night_Pizza'	Day & Night Pizza
+$POI	'École_maternelle_Louis_Guiotton'	École maternelle Louis Guiotton
+$POI	'Union_Place'	Union Place
+$POI	'Rudolf_Caravaning_Service'	Rudolf Caravaning Service
+$POI	'Springorumstraße'	Springorumstraße
+$POI	'Kühnstraße'	Kühnstraße
+$POI	'Kornwestheim_-_Seewiesen_;_Anlage_9374'	Kornwestheim - Seewiesen ; Anlage 9374
+$POI	'Alla-Aamin_Mini_Market'	Alla-Aamin Mini Market
+$POI	'Schellingstraße'	Schellingstraße
+$POI	'Beech_Avenue'	Beech Avenue
+$POI	'C_com_JM'	C com JM
+$POI	'Rue_du_Progrès'	Rue du Progrès
+$POI	'La_Coulée'	La Coulée
+$POI	'Parkhaus_Schillerplatz'	Parkhaus Schillerplatz
+$POI	'Wingate_Close'	Wingate Close
+$POI	'Reitweg'	Reitweg
+$POI	'Rue_des_Seringats'	Rue des Seringats
+$POI	'Kaufhof_Dinea'	Kaufhof Dinea
+$POI	'Linton_Walk'	Linton Walk
+$POI	'E.F_Edwards_Funeral_Directors'	E.F Edwards Funeral Directors
+$POI	'objectz'	objectz
+$POI	'Cours_du_Champ_de_Mars'	Cours du Champ de Mars
+$POI	'Birmingham_Road'	Birmingham Road
+$POI	'Willy_Wiedmann'	Willy Wiedmann
+$POI	'Spielfeld'	Spielfeld
+$POI	'Sara_Katz'	Sara Katz
+$POI	'Rue_du_Brouillard'	Rue du Brouillard
+$POI	'Rue_Paul_Bellamy'	Rue Paul Bellamy
+$POI	'Mermaid'	Mermaid
+$POI	'Rats_Apotheke'	Rats Apotheke
+$POI	'Boot_Inn'	Boot Inn
+$POI	'Polizeirevier_4_Balinger_Straße'	Polizeirevier 4 Balinger Straße
+$POI	'Alligator_Storage'	Alligator Storage
+$POI	'Reinhold-Brändle-Weg'	Reinhold-Brändle-Weg
+$POI	'Swale_Road'	Swale Road
+$POI	'Rue_de_l'Ouest'	Rue de l'Ouest
+$POI	'Resource'	Resource
+$POI	'Great_Brook_Street'	Great Brook Street
+$POI	'Beratgerstraße'	Beratgerstraße
+$POI	'Canclaux'	Canclaux
+$POI	'Rue_des_États'	Rue des États
+$POI	'Ch'ti_Breizh'	Ch'ti Breizh
+$POI	'Mairie_de_Chantenay'	Mairie de Chantenay
+$POI	'Ainsty_Grove'	Ainsty Grove
+$POI	'Filderbahn-Apotheke'	Filderbahn-Apotheke
+$POI	'Vincent_Auriol'	Vincent Auriol
+$POI	'Eckerle_Herrenmoden'	Eckerle Herrenmoden
+$POI	'Zebra_Worldwide_Machinery'	Zebra Worldwide Machinery
+$POI	'Paget_Primary_School'	Paget Primary School
+$POI	'Auf_dem_Feldgraben'	Auf dem Feldgraben
+$POI	'Heimbaustraße'	Heimbaustraße
+$POI	'Ligne_2_-_Ligne_3'	Ligne 2 - Ligne 3
+$POI	'School_Road'	School Road
+$POI	'Auf_der_Kiste'	Auf der Kiste
+$POI	'Westfalenhallen'	Westfalenhallen
+$POI	'Riedenberger_Straße'	Riedenberger Straße
+$POI	'Vanguard_Close'	Vanguard Close
+$POI	'Collège_et_Lycée_Saint-Félix'	Collège et Lycée Saint-Félix
+$POI	'Zuffenhausen-Mitte'	Zuffenhausen-Mitte
+$POI	'Rue_du_Fresche_Blanc'	Rue du Fresche Blanc
+$POI	'Costa'	Costa
+$POI	'Rue_de_Clermont'	Rue de Clermont
+$POI	'Route_de_Vertou'	Route de Vertou
+$POI	'Avenue_Jules_Bécigneul'	Avenue Jules Bécigneul
+$POI	'Le_Ruisseau'	Le Ruisseau
+$POI	'Lzm_Coiffer'	Lzm Coiffer
+$POI	'Commerce'	Commerce
+$POI	'Am_Haspel'	Am Haspel
+$POI	'Italie'	Italie
+$POI	'Asia_Laden'	Asia Laden
+$POI	'De_S_VVS_U9_01'	De S VVS U9 01
+$POI	'Bussteig_3/4'	Bussteig 3 4
+$POI	'Kneippbecken'	Kneippbecken
+$POI	'Hagenauweg'	Hagenauweg
+$POI	'Il_Terrazzino'	Il Terrazzino
+$POI	'Umweltzone_Stuttgart'	Umweltzone Stuttgart
+$POI	'Hospitalstraße'	Hospitalstraße
+$POI	'Wiedehopfweg'	Wiedehopfweg
+$POI	'Mellinet'	Mellinet
+$POI	'An_den_Bräukerhöfen'	An den Bräukerhöfen
+$POI	'Schwarze-Ewald-Straße'	Schwarze-Ewald-Straße
+$POI	'Schalkenbergsiepen'	Schalkenbergsiepen
+$POI	'Willy-Brandt-Straße'	Willy-Brandt-Straße
+$POI	'Siamangs'	Siamangs
+$POI	'Kik'	Kik
+$POI	'Abbotsford_Road'	Abbotsford Road
+$POI	'Deckerstraße'	Deckerstraße
+$POI	'Schaperstraße'	Schaperstraße
+$POI	'Baackweg'	Baackweg
+$POI	'Hunton_Hill'	Hunton Hill
+$POI	'Firstpress_Plastic_Moulders_Ltd'	Firstpress Plastic Moulders Ltd
+$POI	'Chemin_de_la_Boisbonne'	Chemin de la Boisbonne
+$POI	'Vieux_Malakoff'	Vieux Malakoff
+$POI	'Jungferntal'	Jungferntal
+$POI	'Designer_Hair_&_Beauty'	Designer Hair & Beauty
+$POI	'Universitätsstraße'	Universitätsstraße
+$POI	'Gare_SNCF_nord'	Gare SNCF nord
+$POI	'Roncalli-Haus'	Roncalli-Haus
+$POI	'Rue_Lucien_Bagrin'	Rue Lucien Bagrin
+$POI	'U42;_U46'	U42; U46
+$POI	'Henrys'	Henrys

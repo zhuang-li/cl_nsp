@@ -1,0 +1,577 @@
+$LOC	'Sachsen'	Sachsen
+$LOC	'Fountainbridge'	Fountainbridge
+$LOC	'Altstadt'	Altstadt
+$LOC	'Stockbridge'	Stockbridge
+$LOC	'Languedoc-Roussillon'	Languedoc-Roussillon
+$LOC	'Strasbourg'	Strasbourg
+$LOC	'Lyon'	Lyon
+$LOC	'Bremen'	Bremen
+$LOC	'Bretagne'	Bretagne
+$LOC	'Nice'	Nice
+$POI	'St_Vincent_Street'	St Vincent Street
+$POI	'Delfin_Apotheke'	Delfin Apotheke
+$POI	'Avenue_Monplaisir'	Avenue Monplaisir
+$POI	'Fitzmauricestraße'	Fitzmauricestraße
+$POI	'Albert-Schweitzer-Apotheke'	Albert-Schweitzer-Apotheke
+$POI	'Le_Dauphin'	Le Dauphin
+$POI	'Bauer-Mecke-Weg'	Bauer-Mecke-Weg
+$POI	'Rue_de_Bergbieten'	Rue de Bergbieten
+$POI	'Gustav-Erikson-Ufer'	Gustav-Erikson-Ufer
+$POI	'Hautbahnhof_Nordseite'	Hautbahnhof Nordseite
+$POI	'Allée_René_Cassin'	Allée René Cassin
+$POI	'École_Risso'	École Risso
+$POI	'Leeskampsfleet'	Leeskampsfleet
+$POI	'Petunienweg'	Petunienweg
+$POI	'Schongauer_Straße'	Schongauer Straße
+$POI	'Quai_du_Docteur_Gailleton'	Quai du Docteur Gailleton
+$POI	'Heinrich-Garrn-Weg'	Heinrich-Garrn-Weg
+$POI	'Kanu_Club_Hanseat_e.V.'	Kanu Club Hanseat e.V.
+$POI	'Sushi-Ono'	Sushi-Ono
+$POI	'Rue_de_l'Épargne'	Rue de l'Épargne
+$POI	'Escalier_Fodéré-Lavagna'	Escalier Fodéré-Lavagna
+$POI	'Place_Saint-Antoine'	Place Saint-Antoine
+$POI	'Grange_Blanche'	Grange Blanche
+$POI	'Hélistation_NHC'	Hélistation NHC
+$POI	'Friedrichsdorfer_Bahnweg'	Friedrichsdorfer Bahnweg
+$POI	'Hemelinger_Hafendamm'	Hemelinger Hafendamm
+$POI	'Hasenbüren/Hagens'	Hasenbüren Hagens
+$POI	'St._Paul's_Church'	St. Paul's Church
+$POI	'Les_Apprentis'	Les Apprentis
+$POI	'Hillmannplatz'	Hillmannplatz
+$POI	'Rue_Marc_Bloch'	Rue Marc Bloch
+$POI	'Chargement'	Chargement
+$POI	'Rue_Smith'	Rue Smith
+$POI	'Rue_Duquesne'	Rue Duquesne
+$POI	'Beckedorfer_Beeke'	Beckedorfer Beeke
+$POI	'Cafe_Einhorn'	Cafe Einhorn
+$POI	'Fournil_Opéra'	Fournil Opéra
+$POI	'Avenue_du_Rhin'	Avenue du Rhin
+$POI	'Rue_de_Saint-Nazaire'	Rue de Saint-Nazaire
+$POI	'Rue_Alexandre_Mari'	Rue Alexandre Mari
+$POI	'Gare_routière_Vauban'	Gare routière Vauban
+$POI	'Hemmstr._(Einkaufszentrum)'	Hemmstr. (Einkaufszentrum)
+$POI	'Rispengrasweg'	Rispengrasweg
+$POI	'Au_Petit_Gari'	Au Petit Gari
+$POI	'Le_Manet'	Le Manet
+$POI	'Baby'sTroc'	Baby'sTroc
+$POI	'Route_de_l'Hôpital'	Route de l'Hôpital
+$POI	'Institut_de_formation_de_la_Croix-Rouge_française'	Institut de formation de la Croix-Rouge française
+$POI	'Les_Sagnes'	Les Sagnes
+$POI	'Rue_Bellecordière'	Rue Bellecordière
+$POI	'Rue_Livio'	Rue Livio
+$POI	'Dovemoorstraße'	Dovemoorstraße
+$POI	'Rue_du_Docteur_Horand'	Rue du Docteur Horand
+$POI	'Consulat_de_Chine'	Consulat de Chine
+$POI	'Austermeier_GmbH_&_Co._KG'	Austermeier GmbH & Co. KG
+$POI	'Route_de_Bellet'	Route de Bellet
+$POI	'Camping_de_la_Montagne_Verte'	Camping de la Montagne Verte
+$POI	'Police_municipale'	Police municipale
+$POI	'Agence_Robertsau_Transaction_Immobilière_(ARTI)'	Agence Robertsau Transaction Immobilière (ARTI)
+$POI	'Rue_de_Rumersheim'	Rue de Rumersheim
+$POI	'Résidence_de_l'Abbaye_de_Roseland'	Résidence de l'Abbaye de Roseland
+$POI	'Square_de_Saint-Quentin'	Square de Saint-Quentin
+$POI	'Rue_Saint-Pierre_de_Vaise'	Rue Saint-Pierre de Vaise
+$POI	'Bionature'	Bionature
+$POI	'Place_André_Latarjet'	Place André Latarjet
+$POI	'Altenwall'	Altenwall
+$POI	'Avenue_Louis_Cochois'	Avenue Louis Cochois
+$POI	'Citadines_Buffa'	Citadines Buffa
+$POI	'Parc_de_la_Citadelle'	Parc de la Citadelle
+$POI	'Soultz'	Soultz
+$POI	'Rue_Claude-Joseph_Bonnet'	Rue Claude-Joseph Bonnet
+$POI	'Boulevard_de_Balmont'	Boulevard de Balmont
+$POI	'T4'	T4
+$POI	'Stiller_Weg'	Stiller Weg
+$POI	'Lyon_Perrache'	Lyon Perrache
+$POI	'Rue_de_la_Krutenau'	Rue de la Krutenau
+$POI	'Rue_Auguste_Maicon'	Rue Auguste Maicon
+$POI	'Square_du_Général_Berthelot'	Square du Général Berthelot
+$POI	'Somada_Coiffure'	Somada Coiffure
+$POI	'Rue_Gréco'	Rue Gréco
+$POI	'Rue_Jean-Henri_Schnitzler'	Rue Jean-Henri Schnitzler
+$POI	'Rue_Vernier'	Rue Vernier
+$POI	'Rue_Saint-Florent'	Rue Saint-Florent
+$POI	'Rue_Jean-Baptiste_Pigalle'	Rue Jean-Baptiste Pigalle
+$POI	'Nice-XIV'	Nice-XIV
+$POI	'Avenue_Desambrois'	Avenue Desambrois
+$POI	'Boulevard_René_Cassin'	Boulevard René Cassin
+$POI	'Autobahnzubringer_Arsten'	Autobahnzubringer Arsten
+$POI	'Nedderland'	Nedderland
+$POI	'Rue_Louise_Scheppler'	Rue Louise Scheppler
+$POI	'Place_de_la_Grande_Boucherie'	Place de la Grande Boucherie
+$POI	'Rue_du_Ziegelfeld'	Rue du Ziegelfeld
+$POI	'Angle_des_avenues_Racine_et_Dante_/_Tram_/_2_(Hautepierre)'	Angle des avenues Racine et Dante   Tram   2 (Hautepierre)
+$POI	'Rue_Thiergarten'	Rue Thiergarten
+$POI	'Rue_Pierre_Valdo'	Rue Pierre Valdo
+$POI	'Rue_de_Singrist'	Rue de Singrist
+$POI	'Traverse_Giacobi'	Traverse Giacobi
+$POI	'Rue_Jacques-Louis_Hénon'	Rue Jacques-Louis Hénon
+$POI	'École_primaire_publique_Antonin_Laborde'	École primaire publique Antonin Laborde
+$POI	'Rue_Arbry_Lecompte'	Rue Arbry Lecompte
+$POI	'Déchèterie_de_Schiltigheim'	Déchèterie de Schiltigheim
+$POI	'Collège_Bellecombe'	Collège Bellecombe
+$POI	'Lilienthaler_Heerstraße'	Lilienthaler Heerstraße
+$POI	'Habillez_Moi'	Habillez Moi
+$POI	'Rue_Jules_Verne'	Rue Jules Verne
+$POI	'Tour_Swiss_Life'	Tour Swiss Life
+$POI	'Postbank_Finanzcenter'	Postbank Finanzcenter
+$POI	'Cimetière_Israelite'	Cimetière Israelite
+$POI	'AV_Lab'	AV Lab
+$POI	'Horn'	Horn
+$POI	'Arsterdamm'	Arsterdamm
+$POI	'Rue_du_Général_de_Miribel'	Rue du Général de Miribel
+$POI	'Crédit_du_Nord'	Crédit du Nord
+$POI	'Lyon-XIV'	Lyon-XIV
+$POI	'Brasserie_3_Rivières'	Brasserie 3 Rivières
+$POI	'La_Socca_d'Or'	La Socca d'Or
+$POI	'Piste_Maurice_Garin'	Piste Maurice Garin
+$POI	'Place_Danton'	Place Danton
+$POI	'Marcusallee'	Marcusallee
+$POI	'Istanbul_Express'	Istanbul Express
+$POI	'Rue_Vauban'	Rue Vauban
+$POI	'Banque_De_France'	Banque De France
+$POI	'Stresemannstraße'	Stresemannstraße
+$POI	'Rue_Saint-Dié'	Rue Saint-Dié
+$POI	'Canal_d'Alsace'	Canal d'Alsace
+$POI	'Station_J.C._Bermond'	Station J.C. Bermond
+$POI	'Rue_d'Alembert'	Rue d'Alembert
+$POI	'Intermarché'	Intermarché
+$POI	'Place_des_Meuniers'	Place des Meuniers
+$POI	'o2'	o2
+$POI	'Riedemannstraße'	Riedemannstraße
+$POI	'Amplia'	Amplia
+$POI	'Lingostière'	Lingostière
+$POI	'Carl-Schurz-Straße'	Carl-Schurz-Straße
+$POI	'Église_Saint-Bonaventure'	Église Saint-Bonaventure
+$POI	'Haferwende'	Haferwende
+$POI	'Rue_Jules_Bessi'	Rue Jules Bessi
+$POI	'Cyclable'	Cyclable
+$POI	'An_der_Lehmkuhle'	An der Lehmkuhle
+$POI	'Les_Jardins_Du_Mont-Gros_-_Bat._A'	Les Jardins Du Mont-Gros - Bat. A
+$POI	'Boulevard_du_Mercantour'	Boulevard du Mercantour
+$POI	'Basketball'	Basketball
+$POI	'Résidence_Bon_Voyage'	Résidence Bon Voyage
+$POI	'Linie_4'	Linie 4
+$POI	'Palais_Tanagra'	Palais Tanagra
+$POI	'Habenhauser_Landstraße'	Habenhauser Landstraße
+$POI	'Gare_de_Vaise'	Gare de Vaise
+$POI	'Fabrikweg'	Fabrikweg
+$POI	'Groupe_Scolaire_Les_Fougères'	Groupe Scolaire Les Fougères
+$POI	'SCOTY'	SCOTY
+$POI	'Kontorhaus'	Kontorhaus
+$POI	'Jardin_Félix_Rainaud'	Jardin Félix Rainaud
+$POI	'Nice_Riquier'	Nice Riquier
+$POI	'Avenue_Berthelot'	Avenue Berthelot
+$POI	'Dr._med._Michael_Stern'	Dr. med. Michael Stern
+$POI	'Rue_André_Bollier'	Rue André Bollier
+$POI	'Au_Sans_Chiquet'	Au Sans Chiquet
+$POI	'Traboule'	Traboule
+$POI	'Place_des_Cordeliers'	Place des Cordeliers
+$POI	'Dierksgraben'	Dierksgraben
+$POI	'Eickedorfer_Straße'	Eickedorfer Straße
+$POI	'WallerRing'	WallerRing
+$POI	'Nice_-_Las_Planas'	Nice - Las Planas
+$POI	'Rue_Silbermann'	Rue Silbermann
+$POI	'Agip'	Agip
+$POI	'Place_Alfred_Dachert'	Place Alfred Dachert
+$POI	'Gorge_de_Loup'	Gorge de Loup
+$POI	'Benoît_Bernard'	Benoît Bernard
+$POI	'Villa_Saint-Joseph'	Villa Saint-Joseph
+$POI	'Pharmacie_de_la_Fleur'	Pharmacie de la Fleur
+$POI	'L'Est-_Brasserie_Paul_Bocuse'	L'Est- Brasserie Paul Bocuse
+$POI	'Rue_Catherine_Favre'	Rue Catherine Favre
+$POI	'Weserblick'	Weserblick
+$POI	'Fuchskuhle'	Fuchskuhle
+$POI	'Avenue_du_XVème_Corps'	Avenue du XVème Corps
+$POI	'Haarstrangweg'	Haarstrangweg
+$POI	'Route_du_Kuhnensand'	Route du Kuhnensand
+$POI	'Neukirchstraße'	Neukirchstraße
+$POI	'voie_2'	voie 2
+$POI	'Gare_Part-Dieu_-_Vivier_Merle'	Gare Part-Dieu - Vivier Merle
+$POI	'Rue_Caffarelli'	Rue Caffarelli
+$POI	'Rue_Fritz_Kiener'	Rue Fritz Kiener
+$POI	'Rue_Philippe_Thys'	Rue Philippe Thys
+$POI	'Pharmacie_Borriglione'	Pharmacie Borriglione
+$POI	'Saint-Antoine'	Saint-Antoine
+$POI	'Au_Coucou_des_Bois'	Au Coucou des Bois
+$POI	'Chemin_de_Halage'	Chemin de Halage
+$POI	'Kirchweg'	Kirchweg
+$POI	'Docteur_Moriez'	Docteur Moriez
+$POI	'Käthe-Kollwitz-Straße'	Käthe-Kollwitz-Straße
+$POI	'Pont_de_la_Porte_de_Saverne'	Pont de la Porte de Saverne
+$POI	'Passage_de_la_Cathédrale'	Passage de la Cathédrale
+$POI	'Lieu_d'Europe'	Lieu d'Europe
+$POI	'Autobahnzubringer_Horn-Lehe'	Autobahnzubringer Horn-Lehe
+$POI	'Crédit_Mutuel'	Crédit Mutuel
+$POI	'Neuhof_Rodolphe_Reuss'	Neuhof Rodolphe Reuss
+$POI	'Avenue_Jeanne_Marlin'	Avenue Jeanne Marlin
+$POI	'Colette'	Colette
+$POI	'N3_Bf_Mahndorf'	N3 Bf Mahndorf
+$POI	'Boucherie_Menut'	Boucherie Menut
+$POI	'Graudenzer_Straße'	Graudenzer Straße
+$POI	'Archives_départementales'	Archives départementales
+$POI	'Quai_Claude_Bernard'	Quai Claude Bernard
+$POI	'Rue_Stéphanie'	Rue Stéphanie
+$POI	'Vieux_Lyon_-_Cathédrale_Saint-Jean'	Vieux Lyon - Cathédrale Saint-Jean
+$POI	'Rue_de_Molsheim'	Rue de Molsheim
+$POI	'Heinisch'	Heinisch
+$POI	'Johann-Janssen-Straße'	Johann-Janssen-Straße
+$POI	'Pont_Saint-Guillaume'	Pont Saint-Guillaume
+$POI	'Rue_Saint-Materne'	Rue Saint-Materne
+$POI	'chemin_de_de_chapelle_Saint-Sauveur'	chemin de de chapelle Saint-Sauveur
+$POI	'Dina_Boutique'	Dina Boutique
+$POI	'Rue_du_Birkenfels'	Rue du Birkenfels
+$POI	'Rue_Baden_Powell'	Rue Baden Powell
+$POI	'19A'	19A
+$POI	'Avenue_Cyrille_Besset'	Avenue Cyrille Besset
+$POI	'Rue_Saïda'	Rue Saïda
+$POI	'Rue_Schrag'	Rue Schrag
+$POI	'Rue_de_la_Côte_d'Azur'	Rue de la Côte d'Azur
+$POI	'Alberti_/_Hôtel_des_Postes'	Alberti   Hôtel des Postes
+$POI	'Rue_Gabriel_Hanotaux'	Rue Gabriel Hanotaux
+$POI	'Frankenhauser_Straße'	Frankenhauser Straße
+$POI	'Allée_du_Bois_Dormant'	Allée du Bois Dormant
+$POI	'Ruelle_Pairoliere'	Ruelle Pairoliere
+$POI	'Route_du_Rhin'	Route du Rhin
+$POI	'Allée_du_Fleuriste'	Allée du Fleuriste
+$POI	'Rue_Vendôme'	Rue Vendôme
+$POI	'Institut_d'étiopathie_de_Lyon'	Institut d'étiopathie de Lyon
+$POI	'Avenue_de_Colmar'	Avenue de Colmar
+$POI	'Gartensängerweg'	Gartensängerweg
+$POI	'Kuhgraben'	Kuhgraben
+$POI	'Route_de_Saint-Antoine'	Route de Saint-Antoine
+$POI	'Ruelle_de_la_Bruche'	Ruelle de la Bruche
+$POI	'Molière'	Molière
+$POI	'Place_Grimaldi'	Place Grimaldi
+$POI	'Ligne_Lyon_-_Marseille'	Ligne Lyon - Marseille
+$POI	'Collège_La_Tourette'	Collège La Tourette
+$POI	'Rue_Pierre_Corneille'	Rue Pierre Corneille
+$POI	'Angle_de_la_route_d'Altenheim_et_de_la_rue_de_la_Ganzau_(Neudorf)'	Angle de la route d'Altenheim et de la rue de la Ganzau (Neudorf)
+$POI	'École_primaire_Saint-Charles'	École primaire Saint-Charles
+$POI	'Jean_XXIII_-_Maryse_Bastié'	Jean XXIII - Maryse Bastié
+$POI	'L'Heure_Creuse'	L'Heure Creuse
+$POI	'Archives_Départementales'	Archives Départementales
+$POI	'yourfashionstore'	yourfashionstore
+$POI	'Asia_Imbiss'	Asia Imbiss
+$POI	'Contre-Canal_de_Drainage'	Contre-Canal de Drainage
+$POI	'Ferienwohnungen_Wilkening'	Ferienwohnungen Wilkening
+$POI	'Place_Mathias_Mérian'	Place Mathias Mérian
+$POI	'Sainte-Geneviève'	Sainte-Geneviève
+$POI	'Saxe_-_Gambetta‎'	Saxe - Gambetta‎
+$POI	'Rue_du_César_Julien'	Rue du César Julien
+$POI	'Avenue_Valentiny'	Avenue Valentiny
+$POI	'Neuenlander_Straße'	Neuenlander Straße
+$POI	'Arènes_-_Musée_Matisse'	Arènes - Musée Matisse
+$POI	'Café_de_la_place'	Café de la place
+$POI	'Artist'_Coiffures'	Artist' Coiffures
+$POI	'Résidence_Azuréva'	Résidence Azuréva
+$POI	'Kahlenstraße'	Kahlenstraße
+$POI	'Rue_de_la_Ziegelau'	Rue de la Ziegelau
+$POI	'Original_Berliner_Mauerteil'	Original Berliner Mauerteil
+$POI	'Erich-Kühlmann-Straße'	Erich-Kühlmann-Straße
+$POI	'Siège_social_de_Kronenbourg'	Siège social de Kronenbourg
+$POI	'Centre_Administratif'	Centre Administratif
+$POI	'Rue_du_Vieux_Marché_aux_Poissons'	Rue du Vieux Marché aux Poissons
+$POI	'Koggenstraße'	Koggenstraße
+$POI	'Avenue_des_Poilus'	Avenue des Poilus
+$POI	'Ecole_Claudius_Berthelier'	Ecole Claudius Berthelier
+$POI	'Place_Alexandre_Medecin'	Place Alexandre Medecin
+$POI	'Pharmacie_de_la_Gare'	Pharmacie de la Gare
+$POI	'Chapelle_Sainte-Croix'	Chapelle Sainte-Croix
+$POI	'Europole'	Europole
+$POI	'Avenue_Paul_Santy'	Avenue Paul Santy
+$POI	'Rue_Marietton'	Rue Marietton
+$POI	'Ulla_Popken'	Ulla Popken
+$POI	'Musée_Terra_Amata'	Musée Terra Amata
+$POI	'Bâtiment_B'	Bâtiment B
+$POI	'Livres_d'Art'	Livres d'Art
+$POI	'Rue_Rachais'	Rue Rachais
+$POI	'Avenue_de_Birmingham'	Avenue de Birmingham
+$POI	'St.-Pauli-Deich'	St.-Pauli-Deich
+$POI	'Rue_Pierre_Baizet'	Rue Pierre Baizet
+$POI	'Rue_de_Rosheim'	Rue de Rosheim
+$POI	'Rue_Mélanie'	Rue Mélanie
+$POI	'Hôtel_Saint-Paul'	Hôtel Saint-Paul
+$POI	'Les_bosquets'	Les bosquets
+$POI	'Casa_viny'	Casa viny
+$POI	'Collège_privé_Stanislas'	Collège privé Stanislas
+$POI	'Brinkmannstraße'	Brinkmannstraße
+$POI	'Rue_de_l'Esturgeon'	Rue de l'Esturgeon
+$POI	'Théâtre_National_de_Strasbourg'	Théâtre National de Strasbourg
+$POI	'Place_du_Frère_Médard'	Place du Frère Médard
+$POI	'Oberste_Kämpe'	Oberste Kämpe
+$POI	'Pharmacie_Jean_Macé'	Pharmacie Jean Macé
+$POI	'Rue_Jean_Hoepffner'	Rue Jean Hoepffner
+$POI	'Rue_Salluste'	Rue Salluste
+$POI	'Bella_Vita'	Bella Vita
+$POI	'Colshornstraße'	Colshornstraße
+$POI	'Haase_&_Knels'	Haase & Knels
+$POI	'Grand_Séminaire_Catholique'	Grand Séminaire Catholique
+$POI	'Fischerhuder_Wümmeniederung'	Fischerhuder Wümmeniederung
+$POI	'Park_Links_der_Weser'	Park Links der Weser
+$POI	'Square_Paul_Gordeaux'	Square Paul Gordeaux
+$POI	'Restaurant_Inter-Administratif'	Restaurant Inter-Administratif
+$POI	'Rue_du_Dauphiné'	Rue du Dauphiné
+$POI	'Wilhelm-Kaisen-Brücke'	Wilhelm-Kaisen-Brücke
+$POI	'Las_Planas_/_Sappia'	Las Planas   Sappia
+$POI	'Fuhrleutehof'	Fuhrleutehof
+$POI	'31A'	31A
+$POI	'New_Look'	New Look
+$POI	'Station_Bluely'	Station Bluely
+$POI	'Chemin_du_Grand_Beltzwoerth'	Chemin du Grand Beltzwoerth
+$POI	'Avenue_des_Chênes'	Avenue des Chênes
+$POI	'Kurfürstenallee'	Kurfürstenallee
+$POI	'Paul'	Paul
+$POI	'Rue_Miron'	Rue Miron
+$POI	'Odalys_Appart'Hôtel_Green_Marsh'	Odalys Appart'Hôtel Green Marsh
+$POI	'Jardin_Cardinal_Clément_Ferrero'	Jardin Cardinal Clément Ferrero
+$POI	'Boulevard_des_États-Unis'	Boulevard des États-Unis
+$POI	'Jardin_Gabriel_Rosset'	Jardin Gabriel Rosset
+$POI	'Minelli'	Minelli
+$POI	'Lignes_B_&_F'	Lignes B & F
+$POI	'Mit_Jan_Reiners_unterwegs'	Mit Jan Reiners unterwegs
+$POI	'Rue_Baldner'	Rue Baldner
+$POI	'Rue_Kurnagel'	Rue Kurnagel
+$POI	'Thermes_de_l'Ouest'	Thermes de l'Ouest
+$POI	'Lamothe_-_Madeleine'	Lamothe - Madeleine
+$POI	'Rue_Louis_Carrand'	Rue Louis Carrand
+$POI	'HFV'	HFV
+$POI	'Rue_de_Trion'	Rue de Trion
+$POI	'Loft_Club'	Loft Club
+$POI	'Lampehof'	Lampehof
+$POI	'Hollerfleet'	Hollerfleet
+$POI	'Burgdammer_Ring'	Burgdammer Ring
+$POI	'Zur_Wollkämmerei'	Zur Wollkämmerei
+$POI	'Cité_du_Soleil'	Cité du Soleil
+$POI	'Ligusterweg'	Ligusterweg
+$POI	'Rue_du_Lazaret'	Rue du Lazaret
+$POI	'Rue_du_Gazon'	Rue du Gazon
+$POI	'Pharmacie_du_Square'	Pharmacie du Square
+$POI	'Avenue_du_Plateau'	Avenue du Plateau
+$POI	'Ligne_Dijon_-_Lyon'	Ligne Dijon - Lyon
+$POI	'Coté_Particuliers'	Coté Particuliers
+$POI	'SPAR'	SPAR
+$POI	'Rue_de_Berstett'	Rue de Berstett
+$POI	'Avenue_Dante'	Avenue Dante
+$POI	'Boulevard_des_Jardiniers'	Boulevard des Jardiniers
+$POI	'Boulevard_Jean-Baptiste_Vérany'	Boulevard Jean-Baptiste Vérany
+$POI	'Rue_de_Crimée'	Rue de Crimée
+$POI	'Rue_de_l'Église'	Rue de l'Église
+$POI	'Raccordement_de_Part-Dieu_vers_Marseille_et_Grenoble'	Raccordement de Part-Dieu vers Marseille et Grenoble
+$POI	'La_pétrie_de_la_gare'	La pétrie de la gare
+$POI	'Les_Résidences_du_Belvédère'	Les Résidences du Belvédère
+$POI	'Heinrich-Oebker-Straße'	Heinrich-Oebker-Straße
+$POI	'Foncia_Transaction_Location'	Foncia Transaction Location
+$POI	'Route_de_Schirmeck'	Route de Schirmeck
+$POI	'Boulevard_Jean_XXIII'	Boulevard Jean XXIII
+$POI	'Bremen-Hamburg'	Bremen-Hamburg
+$POI	'Place_du_Temple_Neuf'	Place du Temple Neuf
+$POI	'Place_Marc_Sangnier'	Place Marc Sangnier
+$POI	'Georges_Pompidou'	Georges Pompidou
+$POI	'École_élémentaire_et_maternelle_du_Righi'	École élémentaire et maternelle du Righi
+$POI	'Halle_des_sports'	Halle des sports
+$POI	'Sengstackeplatz'	Sengstackeplatz
+$POI	'Hagstraße'	Hagstraße
+$POI	'Bodega_del_Puerto'	Bodega del Puerto
+$POI	'Geschäftsstelle'	Geschäftsstelle
+$POI	'Emmentaler_Straße'	Emmentaler Straße
+$POI	'Habenhauser_Brückenstraße'	Habenhauser Brückenstraße
+$POI	'Impasse_du_Châtelet_de_la_Forêt'	Impasse du Châtelet de la Forêt
+$POI	'La_Lanterne'	La Lanterne
+$POI	'August-Dubbers-Straße'	August-Dubbers-Straße
+$POI	'Rue_Georges_Wodli'	Rue Georges Wodli
+$POI	'Bus_7'	Bus 7
+$POI	'Pharmacie_des_Collines'	Pharmacie des Collines
+$POI	'Gottfried-Menken-Straße'	Gottfried-Menken-Straße
+$POI	'Le_Rhin_/_Rhein'	Le Rhin   Rhein
+$POI	'Mostar_Grill'	Mostar Grill
+$POI	'Institut_de_Science_et_d'Ingénierie_Supramoléculaires'	Institut de Science et d'Ingénierie Supramoléculaires
+$POI	'Montée_du_Grand_Palais'	Montée du Grand Palais
+$POI	'Warm_up'	Warm up
+$POI	'Stadtgrün'	Stadtgrün
+$POI	'Rue_du_Miroir'	Rue du Miroir
+$POI	'Caisse_d'Épargne'	Caisse d'Épargne
+$POI	'Jeux_d'enfants'	Jeux d'enfants
+$POI	'Avenue_Georges_Pompidou'	Avenue Georges Pompidou
+$POI	'Bois_de_Boulogne'	Bois de Boulogne
+$POI	'École_Privée_Sainte-Thérèse'	École Privée Sainte-Thérèse
+$POI	'L'Amandine'	L'Amandine
+$POI	'C'est_2_euros'	C'est 2 euros
+$POI	'Le_29'	Le 29
+$POI	'La_Billebaude'	La Billebaude
+$POI	'Route_des_Chasseurs'	Route des Chasseurs
+$POI	'Gröpelingen'	Gröpelingen
+$POI	'Le_Ramsès'	Le Ramsès
+$POI	'Rue_Grognard'	Rue Grognard
+$POI	'Ets._Camille_Obrecht'	Ets. Camille Obrecht
+$POI	'N94_Bf_Blumenthal'	N94 Bf Blumenthal
+$POI	'Kinder-_und_Familienzentrum_Kornstraße'	Kinder- und Familienzentrum Kornstraße
+$POI	'Veolia_[98]'	Veolia [98]
+$POI	'Boulangerie_Marcel_Bas'	Boulangerie Marcel Bas
+$POI	'Auel'	Auel
+$POI	'Rue_de_Lièpvre'	Rue de Lièpvre
+$POI	'Passage_Malausséna'	Passage Malausséna
+$POI	'Tango_Steakhouse'	Tango Steakhouse
+$POI	'Quai_du_Bruckhof'	Quai du Bruckhof
+$POI	'Huchtinger_Fleet'	Huchtinger Fleet
+$POI	'Utile'	Utile
+$POI	'Pryzmat'	Pryzmat
+$POI	'Département_Informatique'	Département Informatique
+$POI	'L'Esprit_Bistrot'	L'Esprit Bistrot
+$POI	'Abrapa'	Abrapa
+$POI	'Auf_der_Hohen_Heide'	Auf der Hohen Heide
+$POI	'Senator-Borttscheller-Straße'	Senator-Borttscheller-Straße
+$POI	'Le_Paillon'	Le Paillon
+$POI	'L'Ill'	L'Ill
+$POI	'al_dente'	al dente
+$POI	'Rue_Charles_Spindler'	Rue Charles Spindler
+$POI	'Bremerhavener_Heerstraße'	Bremerhavener Heerstraße
+$POI	'Paddy's_Irish_Pub'	Paddy's Irish Pub
+$POI	'BWG_Reimer'	BWG Reimer
+$POI	'Rudolf-Schulze-Weg'	Rudolf-Schulze-Weg
+$POI	'Rue_Alberti'	Rue Alberti
+$POI	'Résidence_Les_Roses'	Résidence Les Roses
+$POI	'Ultima_bis'	Ultima bis
+$POI	'Cour_du_Brochet'	Cour du Brochet
+$POI	'trendy'	trendy
+$POI	'Place_Gourjus'	Place Gourjus
+$POI	'Lyon-Perrache'	Lyon-Perrache
+$POI	'Gleis_23'	Gleis 23
+$POI	'Rue_Finkmatt'	Rue Finkmatt
+$POI	'Rue_Alfred_de_Vigny'	Rue Alfred de Vigny
+$POI	'Pharmacie_Thiers'	Pharmacie Thiers
+$POI	'Hamburger_Straße'	Hamburger Straße
+$POI	'Brasserie_La_Rive_Gauche'	Brasserie La Rive Gauche
+$POI	'La_ferme_fromagère'	La ferme fromagère
+$POI	'Rue_de_Dettwiller'	Rue de Dettwiller
+$POI	'École_maternelle_Bois_de_Boulogne_1'	École maternelle Bois de Boulogne 1
+$POI	'École_Maternelle_Léon_Jouhaux'	École Maternelle Léon Jouhaux
+$POI	'Rossmann'	Rossmann
+$POI	'Bluely'	Bluely
+$POI	'Doobi's_Falafel'	Doobi's Falafel
+$POI	'Blocklander_Straße'	Blocklander Straße
+$POI	'Kirche_Jesu_Christi_der_Heiligen_der_Letzten_Tage'	Kirche Jesu Christi der Heiligen der Letzten Tage
+$POI	'Am_Heidbergbad'	Am Heidbergbad
+$POI	'Rue_de_Villandry'	Rue de Villandry
+$POI	'Avenue_Jean_Jaurès_/_Tram_Landsberg_(Neudorf)'	Avenue Jean Jaurès   Tram Landsberg (Neudorf)
+$POI	'Hainich'	Hainich
+$POI	'Ascheplatz'	Ascheplatz
+$POI	'Boulevard_Pasteur'	Boulevard Pasteur
+$POI	'Rue_Jean_Marcuit'	Rue Jean Marcuit
+$POI	'Boulevard_du_Président_Wilson'	Boulevard du Président Wilson
+$POI	'Route_de_Saint-Fortunat'	Route de Saint-Fortunat
+$POI	'Brunnenstraße'	Brunnenstraße
+$POI	'Résidence_La_Major'	Résidence La Major
+$POI	'Schule_Arsten'	Schule Arsten
+$POI	'Corniche_du_Frère_Marc'	Corniche du Frère Marc
+$POI	'Mermoz_Californie'	Mermoz Californie
+$POI	'Heckenrosenweg'	Heckenrosenweg
+$POI	'Bello_Sguardo'	Bello Sguardo
+$POI	'Avenue_Pierre_Corneille'	Avenue Pierre Corneille
+$POI	'Rue_Joseph_Brès'	Rue Joseph Brès
+$POI	'Avenue_de_Fabron'	Avenue de Fabron
+$POI	'Duchère_les_Érables'	Duchère les Érables
+$POI	'Rue_du_Rhin_Tortu'	Rue du Rhin Tortu
+$POI	'Ristorante_Francesca'	Ristorante Francesca
+$POI	'Institut_de_Biologie_Moléculaire_et_Cellulaire'	Institut de Biologie Moléculaire et Cellulaire
+$POI	'Kletterschiff'	Kletterschiff
+$POI	'Boulevard_du_Souvenir_Français'	Boulevard du Souvenir Français
+$POI	'Rue_de_Roquebillière'	Rue de Roquebillière
+$POI	'43-2'	43-2
+$POI	'Les_Crêtes_/_Carnot'	Les Crêtes   Carnot
+$POI	'Rue_de_la_Porte_de_L'Hôpital'	Rue de la Porte de L'Hôpital
+$POI	'Arndtstraße'	Arndtstraße
+$POI	'Impasse_Brachet'	Impasse Brachet
+$POI	'Krabbenweg'	Krabbenweg
+$POI	'Pavillon_Schutzenberger'	Pavillon Schutzenberger
+$POI	'L'Alexandra-Hespérides'	L'Alexandra-Hespérides
+$POI	'Caisse_Nationale_des_Allocations_Familiales'	Caisse Nationale des Allocations Familiales
+$POI	'École_Supérieure_du_Professorat_et_de_l’Education_(ESPE)'	École Supérieure du Professorat et de l’Education (ESPE)
+$POI	'Sortie_Parking_Austerlitz'	Sortie Parking Austerlitz
+$POI	'Rue_du_Mont_Blanc'	Rue du Mont Blanc
+$POI	'VeloRoute_Rhein_Rhin'	VeloRoute Rhein Rhin
+$POI	'Riespot'	Riespot
+$POI	'Rond-Point_du_Voyageur'	Rond-Point du Voyageur
+$POI	'Rue_Wencker'	Rue Wencker
+$POI	'Brigitte_Moden'	Brigitte Moden
+$POI	'Pharmacie_Limonne'	Pharmacie Limonne
+$POI	'Boulevard_Pierre_Sola'	Boulevard Pierre Sola
+$POI	'Ritterhude_1'	Ritterhude 1
+$POI	'BNP_Paribas'	BNP Paribas
+$POI	'Rue_du_Général_Leclerc'	Rue du Général Leclerc
+$POI	'Pusdorfer_Tabak_Shop'	Pusdorfer Tabak Shop
+$POI	'8_à_huit'	8 à huit
+$POI	'Thomas_Cook_Reisebüro'	Thomas Cook Reisebüro
+$POI	'Avenue_Félix_Faure'	Avenue Félix Faure
+$POI	'Carla_B'	Carla B
+$POI	'Institut_Jeanne_de_France'	Institut Jeanne de France
+$POI	'Rue_Marie-Madeleine_Fourcade'	Rue Marie-Madeleine Fourcade
+$POI	'Rue_de_la_Croix'	Rue de la Croix
+$POI	'Rue_de_Stockholm'	Rue de Stockholm
+$POI	'Rue_Ernest_Rickert'	Rue Ernest Rickert
+$POI	'Le_Wagon_Restaurant'	Le Wagon Restaurant
+$POI	'Martine_B.'	Martine B.
+$POI	'Fellendsweg'	Fellendsweg
+$POI	'Rue_de_Jéricho'	Rue de Jéricho
+$POI	'Smarties'	Smarties
+$POI	'Rue_de_Chalampé'	Rue de Chalampé
+$POI	'Rue_Meyerbeer'	Rue Meyerbeer
+$POI	'ISI_Restaurant'	ISI Restaurant
+$POI	'Rue_de_Pfettisheim'	Rue de Pfettisheim
+$POI	'Vereinsheim_Marienblume'	Vereinsheim Marienblume
+$POI	'Rue_Paul_Valéry'	Rue Paul Valéry
+$POI	'Nice_Saint-Augustin'	Nice Saint-Augustin
+$POI	'Nice_Lympia'	Nice Lympia
+$POI	'Sankt-Pauli-Deich'	Sankt-Pauli-Deich
+$POI	'Mairie_de_quartier'	Mairie de quartier
+$POI	'Rue_Louise_Ackermann'	Rue Louise Ackermann
+$POI	'Boulevard_Ohmacht'	Boulevard Ohmacht
+$POI	'Saint-Aignan'	Saint-Aignan
+$POI	'Le_133'	Le 133
+$POI	'Villa_Bacarat'	Villa Bacarat
+$POI	'Glockenstraße/Bf_Hemelingen'	Glockenstraße Bf Hemelingen
+$POI	'Vallon_Barla_Bus_stop'	Vallon Barla Bus stop
+$POI	'Burger_City'	Burger City
+$POI	'Au_Lion_Rouge'	Au Lion Rouge
+$POI	'22_:_Gare_de_Vaise_⇔_Saint-Fortunat'	22 : Gare de Vaise ⇔ Saint-Fortunat
+$POI	'Impasse_Catelin'	Impasse Catelin
+$POI	'Cours_Albert_Thomas'	Cours Albert Thomas
+$POI	'Cour_de_Mutzig'	Cour de Mutzig
+$POI	'Rue_des_Cèdres'	Rue des Cèdres
+$POI	'Optic_2000'	Optic 2000
+$POI	'Rolf'	Rolf
+$POI	'Santoline_Bus_Stop'	Santoline Bus Stop
+$POI	'engbers/emino_adani'	engbers emino adani
+$POI	'Zwinglistraße'	Zwinglistraße
+$POI	'L'Alsace_à_Table'	L'Alsace à Table
+$POI	'Rue_Rosset'	Rue Rosset
+$POI	'Pauloz'	Pauloz
+$POI	'Niedervielander_Straße'	Niedervielander Straße
+$POI	'Karl-Ferdinand-Braun-Straße'	Karl-Ferdinand-Braun-Straße
+$POI	'Muhles_Park'	Muhles Park
+$POI	'Zeidlerweg'	Zeidlerweg
+$POI	'Rue_Joseph_Weydmann'	Rue Joseph Weydmann
+$POI	'Rue_des_Gardes-Forestiers'	Rue des Gardes-Forestiers
+$POI	'Wulsbütteler_Straße'	Wulsbütteler Straße
+$POI	'Chemin_de_la_Ginestière'	Chemin de la Ginestière
+$POI	'Caisse_d'Epargne'	Caisse d'Epargne
+$POI	'Holy_Trinity_Anglican_Church'	Holy Trinity Anglican Church
+$POI	'Chez_Chacha'	Chez Chacha
+$POI	'Grande_Pharmacie_Niçoise'	Grande Pharmacie Niçoise
+$POI	'Rue_du_Docteur_Bouchut_(mall)'	Rue du Docteur Bouchut (mall)
+$POI	'Borgfelder_Deich'	Borgfelder Deich
+$POI	'Rue_de_Kirchheim'	Rue de Kirchheim
+$POI	'Mairie_de_Saint-Rambert'	Mairie de Saint-Rambert
+$POI	'Boulanger_des_Chartreux'	Boulanger des Chartreux
+$POI	'Ligne_Dépôt'	Ligne Dépôt
+$POI	'Pavillon_I'	Pavillon I
+$POI	'Zitronenfalterweg'	Zitronenfalterweg
+$POI	'Hôtel_de_Ville_-_Louis_Pradel‎'	Hôtel de Ville - Louis Pradel‎
+$POI	'Esplanade'	Esplanade
+$POI	'Rue_Charles_Péguy'	Rue Charles Péguy
+$POI	'Allée_des_Villas'	Allée des Villas
+$POI	'Rue_des_Sarcelles'	Rue des Sarcelles
+$POI	'InIIs'	InIIs
+$POI	'Exils'	Exils
+$POI	'Pharmacie_LE_NIGER_DUITTOZ'	Pharmacie LE NIGER DUITTOZ
+$POI	'Voie_C'	Voie C

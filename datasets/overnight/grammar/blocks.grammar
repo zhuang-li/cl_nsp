@@ -1,0 +1,15 @@
+$TypeNP	en.block	block
+$EntityNP1	en.block.block1	block 1	brick 1	1	block one	block 1s
+$EntityNP2	en.block.block2	block 2	brick 2	2	block two
+$RelNP	( string shape )	shape
+$EntityNP1	en.shape.pyramid	a pyramid	pyramid	pyramidshaped	pyramidshape
+$EntityNP2	en.shape.cube	a cube	cube	cube shaped
+$RelNP	( string color )	color
+$RelNP	( string width )	width
+$EntityNP1	( number 3 en.inch )	3 inches	3	3 inch
+$EntityNP2	( number 6 en.inch )	6 inches	6	6 inch
+$VP	( string left )	is left of
+$VP	( string right )	is right of
+$VP	( string above )	is above
+$VP	( string below )	is below
+$VP	( string is_special )	is special

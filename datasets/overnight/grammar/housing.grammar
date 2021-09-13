@@ -1,0 +1,18 @@
+$TypeNP	en.housing_unit	housing unit
+$EntityNP1	en.housing_unit.123_sesame_street	123 sesame street	123 sesame st
+$EntityNP2	en.housing_unit.900_mission_ave	900 mission ave	900 mission avenue
+$RelNP	( string rent )	monthly rent
+$EntityNP1	( number 1500 en.dollar )	1500 dollars	1500
+$EntityNP2	( number 2000 en.dollar )	2000 dollars	2000
+$RelNP	( string size )	size
+$EntityNP1	( number 800 en.square_feet )	800 square feet	800
+$EntityNP2	( number 1000 en.square_feet )	1000 square feet	1000
+$EntityNP2	( date 2015 2 3 )	feb 3
+$RelNP	( string housing_type )	housing type
+$TypeNP	en.housing	housing type
+$EntityNP1	en.housing.apartment	apartment	aprtment	apartments
+$EntityNP2	en.housing.condo	condo	condos
+$VP	( string allows_cats )	allows cats
+$VP	( string allows_dogs )	allows dogs
+$VP	( string has_private_bath )	has a private bath
+$VP	( string has_private_room )	has a private room

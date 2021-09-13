@@ -1,0 +1,829 @@
+$LOC	'Dresden'	Dresden
+$LOC	'Düsseldorf'	Düsseldorf
+$LOC	'Bielefeld'	Bielefeld
+$LOC	'Hamburg'	Hamburg
+$LOC	'Neuenheim'	Neuenheim
+$LOC	'Rennes'	Rennes
+$LOC	'Grenoble'	Grenoble
+$LOC	'Toulouse'	Toulouse
+$LOC	'Lüneburg'	Lüneburg
+$POI	'Rue_Jules_Horowitz'	Rue Jules Horowitz
+$POI	'Place_des_Géants'	Place des Géants
+$POI	'Impasse_Jean_Cruppi'	Impasse Jean Cruppi
+$POI	'Cours_Berriat'	Cours Berriat
+$POI	'Rennes_Saint-Cyr'	Rennes Saint-Cyr
+$POI	'Hildegard_Michelson_geb._Michelson'	Hildegard Michelson geb. Michelson
+$POI	'HdJ_Steilshoop'	HdJ Steilshoop
+$POI	'Ferdinand_Hertz'	Ferdinand Hertz
+$POI	'PRES_Université_de_Toulouse'	PRES Université de Toulouse
+$POI	'Chemin_de_Gabardie'	Chemin de Gabardie
+$POI	'Impasse_Pierre_Magi'	Impasse Pierre Magi
+$POI	'Boulevard_Griffoul-Dorval'	Boulevard Griffoul-Dorval
+$POI	'C1_:_Grenoble_=>_Meylan'	C1 : Grenoble => Meylan
+$POI	'Marler_Straße'	Marler Straße
+$POI	'Parkhaus_4'	Parkhaus 4
+$POI	'Rue_Capitaine_Maignan'	Rue Capitaine Maignan
+$POI	'Tattoo_Shop'	Tattoo Shop
+$POI	'KFZ_Sachverständiger_Elmers'	KFZ Sachverständiger Elmers
+$POI	'Eppendorfer_Park_(UKE)'	Eppendorfer Park (UKE)
+$POI	'School'	School
+$POI	'Ligne_B_du_métro_-_station_Mabilais'	Ligne B du métro - station Mabilais
+$POI	'Minimes_-_Marche_Au_Cochons'	Minimes - Marche Au Cochons
+$POI	'Friedenseiche_Lemsahl'	Friedenseiche Lemsahl
+$POI	'15_:_Verdun_=>_Chenevières'	15 : Verdun => Chenevières
+$POI	'Allée_du_Danemark'	Allée du Danemark
+$POI	'Avenue_Yves_Brunaud'	Avenue Yves Brunaud
+$POI	'Rue_Louis_Aragon'	Rue Louis Aragon
+$POI	'Schuh_Kay'	Schuh Kay
+$POI	'Le_fournil_de_Féwen'	Le fournil de Féwen
+$POI	'Knöpfchen_&_Anton_Second_Hand_für_Kinder'	Knöpfchen & Anton Second Hand für Kinder
+$POI	'Bus_Rennes_Ligne_215'	Bus Rennes Ligne 215
+$POI	'Pharmacie_Saint-Simon'	Pharmacie Saint-Simon
+$POI	'Walter_Joachim_Hirsch'	Walter Joachim Hirsch
+$POI	'Terre_Cyclée'	Terre Cyclée
+$POI	'Gare_Sud_Féval'	Gare Sud Féval
+$POI	'Luisenstraße'	Luisenstraße
+$POI	'Groupe_scolaire_Porte_Saint-Laurent'	Groupe scolaire Porte Saint-Laurent
+$POI	'Friedenseiche'	Friedenseiche
+$POI	'Docteur_Martin_-_Lesdiguières'	Docteur Martin - Lesdiguières
+$POI	'Tabac_Presse'	Tabac Presse
+$POI	'Pizza_on_time'	Pizza on time
+$POI	'Emil-Barth-Straße'	Emil-Barth-Straße
+$POI	'Blume_Jodeit-Loewe'	Blume Jodeit-Loewe
+$POI	'Paula_Danziger'	Paula Danziger
+$POI	'Rue_Henri_Pédrico'	Rue Henri Pédrico
+$POI	'Bus_Ligne_29_Direction_La_Vache'	Bus Ligne 29 Direction La Vache
+$POI	'Rue_Victor_Schoelcher'	Rue Victor Schoelcher
+$POI	'Mairie_Annexe_des_3_Cocus'	Mairie Annexe des 3 Cocus
+$POI	'Scheffelstraße'	Scheffelstraße
+$POI	'Rue_de_la_Gravette'	Rue de la Gravette
+$POI	'Rue_Florian'	Rue Florian
+$POI	'Église_Christ_pour_Tous'	Église Christ pour Tous
+$POI	'Mounier'	Mounier
+$POI	'Jean-Michel_Sauvage'	Jean-Michel Sauvage
+$POI	'Rolander_Weg'	Rolander Weg
+$POI	'La_Glacière'	La Glacière
+$POI	'In_den_Kötten'	In den Kötten
+$POI	'Square_de_Champagne'	Square de Champagne
+$POI	'Dormagener_Straße'	Dormagener Straße
+$POI	'Flugbörse'	Flugbörse
+$POI	'Boucherie_Chevaline'	Boucherie Chevaline
+$POI	'Boulevard_Armand_Duportal'	Boulevard Armand Duportal
+$POI	'Gandy'	Gandy
+$POI	'Henry_Steinberg'	Henry Steinberg
+$POI	'Donna_Piu''	Donna Piu'
+$POI	'Chemin_des_Écoliers'	Chemin des Écoliers
+$POI	'Rue_Irvoy'	Rue Irvoy
+$POI	'110kV_Hassels_Nord'	110kV Hassels Nord
+$POI	'Aborigin'	Aborigin
+$POI	'Side'	Side
+$POI	'École_primaire_privée_Saint-François_de_Sales'	École primaire privée Saint-François de Sales
+$POI	'Armorique'	Armorique
+$POI	'Berriat_-_Le_Magasin'	Berriat - Le Magasin
+$POI	'Bâtiment_K'	Bâtiment K
+$POI	'Bus_Rennes_Ligne_9_Direction_Cleunay'	Bus Rennes Ligne 9 Direction Cleunay
+$POI	'Tribunal_d'Instance'	Tribunal d'Instance
+$POI	'Rue_Georges_Vedel'	Rue Georges Vedel
+$POI	'Franziska_Müller_geb._Oppenheimer'	Franziska Müller geb. Oppenheimer
+$POI	'Malherbe_Immobilier'	Malherbe Immobilier
+$POI	'Sonnenstraße'	Sonnenstraße
+$POI	'Square_Silvestri'	Square Silvestri
+$POI	'Rue_Moyrand'	Rue Moyrand
+$POI	'Renault'	Renault
+$POI	'Grand'Place'	Grand'Place
+$POI	'Intemporelle'	Intemporelle
+$POI	'ZZZ_Bus_64:_République_Pré_Botté_=>_Saint-Étienne'	ZZZ Bus 64: République Pré Botté => Saint-Étienne
+$POI	'Kebab_Jean_Perrot'	Kebab Jean Perrot
+$POI	'Rue_de_la_Beauce'	Rue de la Beauce
+$POI	'Mutuelle_Myriade'	Mutuelle Myriade
+$POI	'The_Kooples'	The Kooples
+$POI	'Crédit_Mutuel_de_Bretagne'	Crédit Mutuel de Bretagne
+$POI	'Kirchenheerweg'	Kirchenheerweg
+$POI	'Klever_Straße'	Klever Straße
+$POI	'Collège_La_Tour_d'Auvergne'	Collège La Tour d'Auvergne
+$POI	'Kaiserstraße'	Kaiserstraße
+$POI	'Le_Brassilia'	Le Brassilia
+$POI	'Julie_Koppel_geb._Neuwahl'	Julie Koppel geb. Neuwahl
+$POI	'CARLS_an_der_Elbphilharmonie'	CARLS an der Elbphilharmonie
+$POI	'Rue_Frédéric_Mistral'	Rue Frédéric Mistral
+$POI	'Wietersheim'	Wietersheim
+$POI	'Mr._Wash'	Mr. Wash
+$POI	'Karl-Jaspers-Straße'	Karl-Jaspers-Straße
+$POI	'Le_Guillaume_Tell'	Le Guillaume Tell
+$POI	'Mermoz'	Mermoz
+$POI	'Rue_Labat_de_Savignac'	Rue Labat de Savignac
+$POI	'Tapis_Norbert'	Tapis Norbert
+$POI	'Allée_Henri_Poincaré'	Allée Henri Poincaré
+$POI	'Schüttfort'	Schüttfort
+$POI	'Porte_de_Lorient'	Porte de Lorient
+$POI	'Brillkamp'	Brillkamp
+$POI	'Opernhaus_Düsseldorf'	Opernhaus Düsseldorf
+$POI	'Le_55'	Le 55
+$POI	'Cabinet_Dalas'	Cabinet Dalas
+$POI	'Plaka'	Plaka
+$POI	'Rue_Henri_Duhamel'	Rue Henri Duhamel
+$POI	'Bus_Rennes_Ligne_65_Direction_Villejean-Université'	Bus Rennes Ligne 65 Direction Villejean-Université
+$POI	'O_Saj'	O Saj
+$POI	'Rue_André_Etcheverlepo'	Rue André Etcheverlepo
+$POI	'Sequoia_cité_2'	Sequoia cité 2
+$POI	'Am_Kapeller_Feld_7-11'	Am Kapeller Feld 7-11
+$POI	'Avenue_de_Castres'	Avenue de Castres
+$POI	'Regina_Mendelsohn_geb._Jaffe'	Regina Mendelsohn geb. Jaffe
+$POI	'Magellan-Terrassen'	Magellan-Terrassen
+$POI	'Quai_Stéphane_Jay'	Quai Stéphane Jay
+$POI	'Ker_Soazig'	Ker Soazig
+$POI	'Bus_Ligne_57_Direction_Basso_Cambo_(via_Berdeil)'	Bus Ligne 57 Direction Basso Cambo (via Berdeil)
+$POI	'Sainte-Anne'	Sainte-Anne
+$POI	'Belvédère_Vauban'	Belvédère Vauban
+$POI	'Rue_du_Palais'	Rue du Palais
+$POI	'L'Adresse'	L'Adresse
+$POI	'Natur-_und_Geschichtspfad_Bergedorf_-_Börnsen'	Natur- und Geschichtspfad Bergedorf - Börnsen
+$POI	'Côte_Ouest'	Côte Ouest
+$POI	'Pavillon_G._Moreau_(B)'	Pavillon G. Moreau (B)
+$POI	'Herzogstraße'	Herzogstraße
+$POI	'Ratinger_Weg'	Ratinger Weg
+$POI	'Roazhon'	Roazhon
+$POI	'Impasse_de_l'Azur'	Impasse de l'Azur
+$POI	'Rue_du_Commandant_Charcot'	Rue du Commandant Charcot
+$POI	'Francais'	Francais
+$POI	'Erna_Baruch_geb._Heilbronn'	Erna Baruch geb. Heilbronn
+$POI	'ARAG-Platz'	ARAG-Platz
+$POI	'Staufenplatz'	Staufenplatz
+$POI	'Chemin_de_la_Capuche'	Chemin de la Capuche
+$POI	'Alter_Markt'	Alter Markt
+$POI	'James-von-Moltke-Platz'	James-von-Moltke-Platz
+$POI	'Lycée_Vaucanson'	Lycée Vaucanson
+$POI	'Fanny-Lewald-Ring'	Fanny-Lewald-Ring
+$POI	'Boulevard_Maréchal_Foch'	Boulevard Maréchal Foch
+$POI	'Peter_Polzer'	Peter Polzer
+$POI	'Birken'	Birken
+$POI	'Holterweg'	Holterweg
+$POI	'Kläranlage_Lörick'	Kläranlage Lörick
+$POI	'Boulevard_Maréchal_Joffre'	Boulevard Maréchal Joffre
+$POI	'Roques'	Roques
+$POI	'Änderungsatelier'	Änderungsatelier
+$POI	'Louise_Michel'	Louise Michel
+$POI	'Placis_de_l'Orléanais'	Placis de l'Orléanais
+$POI	'Rue_Armand_Rebillon'	Rue Armand Rebillon
+$POI	'Rue_La_Fayette'	Rue La Fayette
+$POI	'ZZZ_Bus_51:_Sainte-Anne_=>_Champ_Devant'	ZZZ Bus 51: Sainte-Anne => Champ Devant
+$POI	'Happy'	Happy
+$POI	'Schweinske'	Schweinske
+$POI	'TGV_Atlantique_308_Paris_Montparnasse_-_Brest'	TGV Atlantique 308 Paris Montparnasse - Brest
+$POI	'Rue_du_Breil'	Rue du Breil
+$POI	'Théâtre_le_Fil_à_Plomb'	Théâtre le Fil à Plomb
+$POI	'Münchener_Straße'	Münchener Straße
+$POI	'Rue_Lucien_Cassagne'	Rue Lucien Cassagne
+$POI	'Allée_de_Lituanie'	Allée de Lituanie
+$POI	'RW-Sportartikel'	RW-Sportartikel
+$POI	'U_Hagenbecks_Tierpark'	U Hagenbecks Tierpark
+$POI	'Metro_Hauptverwaltung'	Metro Hauptverwaltung
+$POI	'Himmelgeister_Straße'	Himmelgeister Straße
+$POI	'Plöck'	Plöck
+$POI	'a_la_Casa_del_Fiore'	a la Casa del Fiore
+$POI	'XL_Cut'	XL Cut
+$POI	'Square_de_Galicie'	Square de Galicie
+$POI	'Chemin_de_l'Église'	Chemin de l'Église
+$POI	'Vival'	Vival
+$POI	'Koblenzer_Straße'	Koblenzer Straße
+$POI	'Yves_Rocher'	Yves Rocher
+$POI	'Besucherparkplatz'	Besucherparkplatz
+$POI	'U_S_Sternschanze_(Kehre)'	U S Sternschanze (Kehre)
+$POI	'Place_de_la_Patte_d'Oie'	Place de la Patte d'Oie
+$POI	'Ernst_August_Gottschalk'	Ernst August Gottschalk
+$POI	'Rond-Point_des_Époux_Mongelard'	Rond-Point des Époux Mongelard
+$POI	'Südring'	Südring
+$POI	'Boulevard_Volney'	Boulevard Volney
+$POI	'Wuchercaphé'	Wuchercaphé
+$POI	'Neuhaus'	Neuhaus
+$POI	'Schumacher'	Schumacher
+$POI	'Allée_de_Beaulieu'	Allée de Beaulieu
+$POI	'Hansebäcker_Junge'	Hansebäcker Junge
+$POI	'Rue_Charles_Géniaux'	Rue Charles Géniaux
+$POI	'Ferré_Musique'	Ferré Musique
+$POI	'Place_JOB'	Place JOB
+$POI	'Cornehlsweg'	Cornehlsweg
+$POI	'Darbovenstieg'	Darbovenstieg
+$POI	'5Secrets'	5Secrets
+$POI	'Rue_Saint-Joseph'	Rue Saint-Joseph
+$POI	'Rue_Marc_Miguet'	Rue Marc Miguet
+$POI	'Chemin_de_Papus'	Chemin de Papus
+$POI	'eat_sushi'	eat sushi
+$POI	'Bir_Hakeim'	Bir Hakeim
+$POI	'Pharmacie_Wilson'	Pharmacie Wilson
+$POI	'Chemin_de_Torigné'	Chemin de Torigné
+$POI	'Place_des_Mélèzes'	Place des Mélèzes
+$POI	'Chemin_de_l'Hers'	Chemin de l'Hers
+$POI	'Impasse_Palayré'	Impasse Palayré
+$POI	'Block_House'	Block House
+$POI	'Rue_Édouard_Le_Deuff'	Rue Édouard Le Deuff
+$POI	'Pôle_Accueil_Petite_Enfance'	Pôle Accueil Petite Enfance
+$POI	'Résidence_Belval_III'	Résidence Belval III
+$POI	'Rue_Jean_Veyrat'	Rue Jean Veyrat
+$POI	'Atelier_de_la_ligne_B_du_métro_de_Rennes'	Atelier de la ligne B du métro de Rennes
+$POI	'GV_2_GV_232'	GV 2 GV 232
+$POI	'Rue_des_Bons_Enfants'	Rue des Bons Enfants
+$POI	'Piscine_municipale_Iris'	Piscine municipale Iris
+$POI	'Nöggerathweg'	Nöggerathweg
+$POI	'Rue_Louis_Vitet'	Rue Louis Vitet
+$POI	'Auberge_de_Jeunesse'	Auberge de Jeunesse
+$POI	'Uhlandstraße'	Uhlandstraße
+$POI	'Chemin_du_Chapitre'	Chemin du Chapitre
+$POI	'Boulevard_Voltaire'	Boulevard Voltaire
+$POI	'Edelcurry'	Edelcurry
+$POI	'Rue_Claude_Bourgelat'	Rue Claude Bourgelat
+$POI	'Boulevard_Léon_Bourgeois'	Boulevard Léon Bourgeois
+$POI	'Rue_François_Longaud'	Rue François Longaud
+$POI	'Beaulieu_Cité_U'	Beaulieu Cité U
+$POI	'Gut_Rothenberg'	Gut Rothenberg
+$POI	'Molly_Malone'	Molly Malone
+$POI	'Bus_749:_Kaiserswerth_=>_Mettmann'	Bus 749: Kaiserswerth => Mettmann
+$POI	'Elbpiraten_Hamburg'	Elbpiraten Hamburg
+$POI	'Levante_Café'	Levante Café
+$POI	'Rue_du_Général_de_Castelnau'	Rue du Général de Castelnau
+$POI	'Allée_Sainte-Marie'	Allée Sainte-Marie
+$POI	'Vallon_Jules_Verne'	Vallon Jules Verne
+$POI	'Rue_Aurélie_Nemours'	Rue Aurélie Nemours
+$POI	'Place_Jean_Gouriou'	Place Jean Gouriou
+$POI	'Les_Sept_Royaumes'	Les Sept Royaumes
+$POI	'Wacholderweg'	Wacholderweg
+$POI	'Duisburger_Straße'	Duisburger Straße
+$POI	'Rue_du_Doyen_Gabriel_Marty'	Rue du Doyen Gabriel Marty
+$POI	'Die_bessere_Hälfte'	Die bessere Hälfte
+$POI	'Avenue_Gaston_Berger'	Avenue Gaston Berger
+$POI	'Dat_Backhus'	Dat Backhus
+$POI	'McDonald's'	McDonald's
+$POI	'4500_:_Monestier_=>_Grenoble_Via_St_Martin'	4500 : Monestier => Grenoble Via St Martin
+$POI	'Rampe_West-Tunnel'	Rampe West-Tunnel
+$POI	'Ludwigstraße'	Ludwigstraße
+$POI	'Passage_République'	Passage République
+$POI	'Claire's'	Claire's
+$POI	'Cepya'	Cepya
+$POI	'Carl-Bremer-Ring'	Carl-Bremer-Ring
+$POI	'Heinrich-Heine-Allee'	Heinrich-Heine-Allee
+$POI	'Der_Blumenladen'	Der Blumenladen
+$POI	'Rue_Henriette'	Rue Henriette
+$POI	'Albers_Bar'	Albers Bar
+$POI	'Nevigesstraße'	Nevigesstraße
+$POI	'Pôle_Saint-Hélier'	Pôle Saint-Hélier
+$POI	'Chemin_des_Côtes_de_Pech_David'	Chemin des Côtes de Pech David
+$POI	'Graf-Adolf-Platz'	Graf-Adolf-Platz
+$POI	'Giant_Rennes'	Giant Rennes
+$POI	'Beim_Hammer_Marktplatz'	Beim Hammer Marktplatz
+$POI	'Allée_Henri_Guérin'	Allée Henri Guérin
+$POI	'Esplanade_Andry-Farcy'	Esplanade Andry-Farcy
+$POI	'Salengro'	Salengro
+$POI	'Rosa_Keibel_geb._Heine'	Rosa Keibel geb. Heine
+$POI	'Renatec'	Renatec
+$POI	'Mirjam_Schenkolewski'	Mirjam Schenkolewski
+$POI	'Rue_de_Sevailles'	Rue de Sevailles
+$POI	'Europarc_Saint-Martin_du_Touch'	Europarc Saint-Martin du Touch
+$POI	'Heltorfer_Schloßallee'	Heltorfer Schloßallee
+$POI	'Segro_Rheinpark'	Segro Rheinpark
+$POI	'Wördenmoorweg'	Wördenmoorweg
+$POI	'Via_Ferrata_-_Les_Prises_de_la_Bastille'	Via Ferrata - Les Prises de la Bastille
+$POI	'Elf_Buchen'	Elf Buchen
+$POI	'Quai_de_la_Daurade'	Quai de la Daurade
+$POI	'Route_de_Launaguet'	Route de Launaguet
+$POI	'Rue_de_Saint-Malo'	Rue de Saint-Malo
+$POI	'Danyberd'	Danyberd
+$POI	'Rue_Dominique_Clos'	Rue Dominique Clos
+$POI	'Erich-Klausener-Straße'	Erich-Klausener-Straße
+$POI	'Annette_Görtz'	Annette Görtz
+$POI	'Ring_Apotheke'	Ring Apotheke
+$POI	'Avenue_des_Gayeulles'	Avenue des Gayeulles
+$POI	'Toilettenhaus'	Toilettenhaus
+$POI	'Mindel_Saalfeld'	Mindel Saalfeld
+$POI	'Bistro'	Bistro
+$POI	'Boulevard_d'Atlanta'	Boulevard d'Atlanta
+$POI	'Rue_Durand-Savoyat'	Rue Durand-Savoyat
+$POI	'Rue_Alain_Gerbault'	Rue Alain Gerbault
+$POI	'Brassertweg'	Brassertweg
+$POI	'Levi's'	Levi's
+$POI	'Rue_Henri_Mayer'	Rue Henri Mayer
+$POI	'Allée_Rimbaud'	Allée Rimbaud
+$POI	'ZZZ_Bus_77:_Maison_Neuve_=>_Villejean-Université'	ZZZ Bus 77: Maison Neuve => Villejean-Université
+$POI	'Tappendorf's_Frisurenmode'	Tappendorf's Frisurenmode
+$POI	'Am_Schönenkamp'	Am Schönenkamp
+$POI	'Seeheimer_Weg'	Seeheimer Weg
+$POI	'Rue_des_Saules'	Rue des Saules
+$POI	'Cecilienallee'	Cecilienallee
+$POI	'Rue_Nationale'	Rue Nationale
+$POI	'Rather_Straße'	Rather Straße
+$POI	'Condorcet'	Condorcet
+$POI	'Champollion'	Champollion
+$POI	'Kirchlinden'	Kirchlinden
+$POI	'PACT_de_l'Isère'	PACT de l'Isère
+$POI	'Karl_Steffen'	Karl Steffen
+$POI	'Avenue_Charles_Tillon'	Avenue Charles Tillon
+$POI	'T95'	T95
+$POI	'Heinrich-Könn-Straße'	Heinrich-Könn-Straße
+$POI	'Ratinger_Landstraße'	Ratinger Landstraße
+$POI	'La_Barigoude'	La Barigoude
+$POI	'Katholische_Gemeinde_St._Paulus'	Katholische Gemeinde St. Paulus
+$POI	'Aldi'	Aldi
+$POI	'Rue_Django_Reinhardt'	Rue Django Reinhardt
+$POI	'Franz_Daus'	Franz Daus
+$POI	'Place_Vaucanson'	Place Vaucanson
+$POI	'Université_Toulouse_1_Capitole'	Université Toulouse 1 Capitole
+$POI	'Rio_-_The_Grillbar'	Rio - The Grillbar
+$POI	'Crêperie_Saint-Georges'	Crêperie Saint-Georges
+$POI	'Impasse_de_Varsovie'	Impasse de Varsovie
+$POI	'MACSF'	MACSF
+$POI	'Mondial_Moquette'	Mondial Moquette
+$POI	'Rue_Lafayette'	Rue Lafayette
+$POI	'Miamiam'	Miamiam
+$POI	'Dahlienweg'	Dahlienweg
+$POI	'Le_Dix_Vins'	Le Dix Vins
+$POI	'Rue_Mably'	Rue Mably
+$POI	'Collège_privé_Notre-Dame_de_Sion'	Collège privé Notre-Dame de Sion
+$POI	'Niederkassel'	Niederkassel
+$POI	'Blütezeit'	Blütezeit
+$POI	'Hamburger_Sparkasse'	Hamburger Sparkasse
+$POI	'Mare_pédagogique'	Mare pédagogique
+$POI	'R4'	R4
+$POI	'Saling'	Saling
+$POI	'Leray'	Leray
+$POI	'Locapart'	Locapart
+$POI	'Adlerstraße'	Adlerstraße
+$POI	'Les_Petites'	Les Petites
+$POI	'Rue_Massenet'	Rue Massenet
+$POI	'Stylbain'	Stylbain
+$POI	'Kurt_Oldenburg'	Kurt Oldenburg
+$POI	'Rue_de_Turenne'	Rue de Turenne
+$POI	'Max_Bernstein'	Max Bernstein
+$POI	'Rue_Adolphe_Leray'	Rue Adolphe Leray
+$POI	'Rue_du_Sergent_Bobillot'	Rue du Sergent Bobillot
+$POI	'Twietenkoppel'	Twietenkoppel
+$POI	'Place_Claveyson'	Place Claveyson
+$POI	'Rue_de_l'Alma'	Rue de l'Alma
+$POI	'Mamma_mia'	Mamma mia
+$POI	'Schlesische_Straße'	Schlesische Straße
+$POI	'Square_Ludovic_Trarieux'	Square Ludovic Trarieux
+$POI	'Wolfgang_Borchert'	Wolfgang Borchert
+$POI	'Anatole_France'	Anatole France
+$POI	'Sieversstücken'	Sieversstücken
+$POI	'Rue_de_Châteaugiron'	Rue de Châteaugiron
+$POI	'Les_Préales'	Les Préales
+$POI	'Avenue_de_Guyenne'	Avenue de Guyenne
+$POI	'Eiszeit'	Eiszeit
+$POI	'Roßstraße'	Roßstraße
+$POI	'Crédit_Foncier'	Crédit Foncier
+$POI	'Rue_de_Mens'	Rue de Mens
+$POI	'Ursula_Bade'	Ursula Bade
+$POI	'École_élémentaire_publique_Fabre'	École élémentaire publique Fabre
+$POI	'Impasse_André_Dandine'	Impasse André Dandine
+$POI	'Rue_de_l'Aveyron'	Rue de l'Aveyron
+$POI	'Multi-accueil_Rosa_Parks'	Multi-accueil Rosa Parks
+$POI	'Steinwerder'	Steinwerder
+$POI	'Beutnerring'	Beutnerring
+$POI	'Kennedydamm'	Kennedydamm
+$POI	'Place_Paul_Huillier'	Place Paul Huillier
+$POI	'Pizzeria_La_Royale'	Pizzeria La Royale
+$POI	'Nils_Nissen'	Nils Nissen
+$POI	'Averhoffstraße'	Averhoffstraße
+$POI	'Zauberhaft'	Zauberhaft
+$POI	'Place_Paul_Vallier'	Place Paul Vallier
+$POI	'Le_Fleuriste'	Le Fleuriste
+$POI	'Le_Knock'	Le Knock
+$POI	'TNB_Salle_Guy_Ropartz'	TNB Salle Guy Ropartz
+$POI	'Düsseldorfer_Sportverein_04_Lierenfeld_e.V.'	Düsseldorfer Sportverein 04 Lierenfeld e.V.
+$POI	'Werrgasse'	Werrgasse
+$POI	'Rue_Jules_Léotard'	Rue Jules Léotard
+$POI	'Place_Saint-Bruno'	Place Saint-Bruno
+$POI	'Chemin_du_Roussimort'	Chemin du Roussimort
+$POI	'Bertha_Solymos_geb._Haagen'	Bertha Solymos geb. Haagen
+$POI	'Gymnase_des_Gantelles'	Gymnase des Gantelles
+$POI	'Rotthäuser_Bach'	Rotthäuser Bach
+$POI	'Hogrevestraße'	Hogrevestraße
+$POI	'Impasse_Bourtholle'	Impasse Bourtholle
+$POI	'Rue_Ferdinand_Buisson'	Rue Ferdinand Buisson
+$POI	'Rue_Jean_Perrin'	Rue Jean Perrin
+$POI	'Cabinet_Besson'	Cabinet Besson
+$POI	'Otto-Hahn-Schule_Jenfeld'	Otto-Hahn-Schule Jenfeld
+$POI	'Ville_de_Rennes'	Ville de Rennes
+$POI	'Luchet'	Luchet
+$POI	'Family_Tacos'	Family Tacos
+$POI	'Postbank'	Postbank
+$POI	'Résidence_Vivaldi'	Résidence Vivaldi
+$POI	'Rue_des_Professeurs_Alphonse_et_Abel_Pellé'	Rue des Professeurs Alphonse et Abel Pellé
+$POI	'Zin_Coiffure'	Zin Coiffure
+$POI	'Chemin_de_la_Prévalaye'	Chemin de la Prévalaye
+$POI	'Bus_Rennes_Ligne_168_Direction_Cheval_Blanc'	Bus Rennes Ligne 168 Direction Cheval Blanc
+$POI	'Karlshöhe'	Karlshöhe
+$POI	'Kindergarten_Falkennest'	Kindergarten Falkennest
+$POI	'Cheminement_du_Général_Charles-François_Dugua'	Cheminement du Général Charles-François Dugua
+$POI	'Auf'm_Hennekamp'	Auf'm Hennekamp
+$POI	'Rue_Georges_Lafourcade'	Rue Georges Lafourcade
+$POI	'Burgberg'	Burgberg
+$POI	'Ikenstraße'	Ikenstraße
+$POI	'Rue_Guétal'	Rue Guétal
+$POI	'Marengo_SNCF'	Marengo SNCF
+$POI	'Marché_Landrel'	Marché Landrel
+$POI	'Rue_de_la_Blanchisserie'	Rue de la Blanchisserie
+$POI	'4_(Fontenay)'	4 (Fontenay)
+$POI	'Deutsche_Bank'	Deutsche Bank
+$POI	'Johannes-Radke-Straße'	Johannes-Radke-Straße
+$POI	'Pont_de_la_Porte_de_France'	Pont de la Porte de France
+$POI	'Bâtiment_A'	Bâtiment A
+$POI	'Rue_Hoche'	Rue Hoche
+$POI	'La_Brasserie_de_Jean'	La Brasserie de Jean
+$POI	'Place_Lionel_Terray'	Place Lionel Terray
+$POI	'Basler_Fashion'	Basler Fashion
+$POI	'Hubert_Dubedout_-_Maison_du_tourisme'	Hubert Dubedout - Maison du tourisme
+$POI	'Wokwaï'	Wokwaï
+$POI	'Aux_Fiancés'	Aux Fiancés
+$POI	'Boulevard_Albert_1er'	Boulevard Albert 1er
+$POI	'Impasse_Vitry'	Impasse Vitry
+$POI	'Rue_Vestrepain'	Rue Vestrepain
+$POI	'Gräber_Räder'	Gräber Räder
+$POI	'Am_Born'	Am Born
+$POI	'Turlu'	Turlu
+$POI	'Rennes_Oberthur'	Rennes Oberthur
+$POI	'Recklinghauser_Straße'	Recklinghauser Straße
+$POI	'Impasse_François_Boutaric'	Impasse François Boutaric
+$POI	'Bei_Kosta'	Bei Kosta
+$POI	'Impasse_Moyrand'	Impasse Moyrand
+$POI	'Pont_de_Bretagne'	Pont de Bretagne
+$POI	'Rue_Gouverneur_Général_Félix_Éboué'	Rue Gouverneur Général Félix Éboué
+$POI	'Bar_du_Soleil'	Bar du Soleil
+$POI	'Rue_de_l'Abbé_Naudin'	Rue de l'Abbé Naudin
+$POI	'Hasseler_Forst'	Hasseler Forst
+$POI	'Riesen-Kängurus'	Riesen-Kängurus
+$POI	'Gaz_Électricité_de_Grenoble'	Gaz Électricité de Grenoble
+$POI	'Schadowstraße'	Schadowstraße
+$POI	'Groupe_scolaire_Saint-Laurent'	Groupe scolaire Saint-Laurent
+$POI	'Magda_Thürey_geb._Bär'	Magda Thürey geb. Bär
+$POI	'Fahrschule_Peters'	Fahrschule Peters
+$POI	'Allée_Verlaine'	Allée Verlaine
+$POI	'Courrier_standard'	Courrier standard
+$POI	'Alt-Niederkassel'	Alt-Niederkassel
+$POI	'Lidl'	Lidl
+$POI	'Carré_Duguesclin'	Carré Duguesclin
+$POI	'Croix-Daurade'	Croix-Daurade
+$POI	'Le_Sextant'	Le Sextant
+$POI	'Oberkasseler_Straße'	Oberkasseler Straße
+$POI	'Rue_des_Ormeaux'	Rue des Ormeaux
+$POI	'Rosa_Müllner'	Rosa Müllner
+$POI	'Garleff-Bindt-Weg'	Garleff-Bindt-Weg
+$POI	'China_Snack'	China Snack
+$POI	'Île_du_Ramier'	Île du Ramier
+$POI	'Service_social_personnes_âgées'	Service social personnes âgées
+$POI	'Allée_de_la_Garaye'	Allée de la Garaye
+$POI	'Berliner_Allee'	Berliner Allee
+$POI	'LCL'	LCL
+$POI	'Berriat_Coiffure'	Berriat Coiffure
+$POI	'Lycée_Zola'	Lycée Zola
+$POI	'Hair_Pur'	Hair Pur
+$POI	'Boulevard_Villebois-Mareuil'	Boulevard Villebois-Mareuil
+$POI	'Boulevard_Léon_Grimault'	Boulevard Léon Grimault
+$POI	'Eulerstraße'	Eulerstraße
+$POI	'Allée_de_Pontivy'	Allée de Pontivy
+$POI	'Avenue_de_Lombez'	Avenue de Lombez
+$POI	'Rue_Dessalles'	Rue Dessalles
+$POI	'Rissener_Dorfstraße'	Rissener Dorfstraße
+$POI	'Les_Bains'	Les Bains
+$POI	'Beedstraße'	Beedstraße
+$POI	'Bergische_Landstraße'	Bergische Landstraße
+$POI	'Büttgenweg'	Büttgenweg
+$POI	'Weinhaus_Machmer'	Weinhaus Machmer
+$POI	'SPIEGEL-Verlag'	SPIEGEL-Verlag
+$POI	'Maison_E._Portes_Crustacés'	Maison E. Portes Crustacés
+$POI	'Flandrin_-_Valmy'	Flandrin - Valmy
+$POI	'Hans-Albers-Denkmal'	Hans-Albers-Denkmal
+$POI	'Hasseler_Richtweg'	Hasseler Richtweg
+$POI	'Chemin_Thiers'	Chemin Thiers
+$POI	'Avenue_du_Général_Leclerc'	Avenue du Général Leclerc
+$POI	'Rue_de_Vern'	Rue de Vern
+$POI	'Rue_Léon_Jouhaux'	Rue Léon Jouhaux
+$POI	'Square_du_Roi_Arthur'	Square du Roi Arthur
+$POI	'Peach_Up'	Peach Up
+$POI	'Ickerswarder_Straße'	Ickerswarder Straße
+$POI	'Rue_Lavoisier'	Rue Lavoisier
+$POI	'Rue_du_Cartage'	Rue du Cartage
+$POI	'Bus_Rennes_Ligne_202'	Bus Rennes Ligne 202
+$POI	'SØR'	SØR
+$POI	'Rue_du_Cardinal_Le_Camus'	Rue du Cardinal Le Camus
+$POI	'Black_Bird'	Black Bird
+$POI	'Juli'	Juli
+$POI	'Jeans_Fritz'	Jeans Fritz
+$POI	'Allée_de_l'Ancien_Bastion'	Allée de l'Ancien Bastion
+$POI	'TCSP_Axe_Bus_Métro_Basso_Cambo_-_Cugnaux'	TCSP Axe Bus Métro Basso Cambo - Cugnaux
+$POI	'9_à_Sec'	9 à Sec
+$POI	'Hotel_Rolandsburg'	Hotel Rolandsburg
+$POI	'Geutensweg'	Geutensweg
+$POI	'Sarrin_Markt'	Sarrin Markt
+$POI	'Terminus_bar'	Terminus bar
+$POI	'Adria'	Adria
+$POI	'Chemin_de_la_Saudrune'	Chemin de la Saudrune
+$POI	'Oxxy'	Oxxy
+$POI	'Mail_François_Mitterrand'	Mail François Mitterrand
+$POI	'ZAC_Baud/Chardonnet'	ZAC Baud Chardonnet
+$POI	'Eller'	Eller
+$POI	'MGAS'	MGAS
+$POI	'Rue_de_la_Charité'	Rue de la Charité
+$POI	'Rostocker_Straße'	Rostocker Straße
+$POI	'École_Maternelle_Diderot'	École Maternelle Diderot
+$POI	'Le_Régional'	Le Régional
+$POI	'Nathan_Hersch_Bernstein'	Nathan Hersch Bernstein
+$POI	'Chemin_Villebois'	Chemin Villebois
+$POI	'Roc-Eclerc'	Roc-Eclerc
+$POI	'Güstrower_Straße'	Güstrower Straße
+$POI	'17'	17
+$POI	'Bains_publics'	Bains publics
+$POI	'Rond-Point_Léon_Lajaunie'	Rond-Point Léon Lajaunie
+$POI	'Boulevard_de_Vitré'	Boulevard de Vitré
+$POI	'Raj_Mahal'	Raj Mahal
+$POI	'Recyclage_verre'	Recyclage verre
+$POI	'Apotheke_am_Binnenfeldredder'	Apotheke am Binnenfeldredder
+$POI	'Route_de_Blagnac'	Route de Blagnac
+$POI	'Franck_Provost'	Franck Provost
+$POI	'Jettchen_Heilbut'	Jettchen Heilbut
+$POI	'ADPC'	ADPC
+$POI	'Rue_de_Brest'	Rue de Brest
+$POI	'Gare_Europole'	Gare Europole
+$POI	'Rue_des_Francs-Bourgeois'	Rue des Francs-Bourgeois
+$POI	'Rue_de_la_Volga'	Rue de la Volga
+$POI	'Ida_Meyer'	Ida Meyer
+$POI	'Rue_des_Eaux_Claires'	Rue des Eaux Claires
+$POI	'Havas_Voyages'	Havas Voyages
+$POI	'Rue_Ferdinand_de_Lesseps'	Rue Ferdinand de Lesseps
+$POI	'Glockenturm_St._Rochus'	Glockenturm St. Rochus
+$POI	'K1'	K1
+$POI	'Armentières'	Armentières
+$POI	'Sora_Sonja_Littmann_geb._Tschertaryski'	Sora Sonja Littmann geb. Tschertaryski
+$POI	'Renault_Toulouse_Rocade_Ouest'	Renault Toulouse Rocade Ouest
+$POI	'Absperrstation_MS21_Garather_Bach'	Absperrstation MS21 Garather Bach
+$POI	'Jardin_des_cairns'	Jardin des cairns
+$POI	'Roubichou'	Roubichou
+$POI	'Benninghauser_Straße'	Benninghauser Straße
+$POI	'Allée_des_Grands_Chênes'	Allée des Grands Chênes
+$POI	'Escott_Coiffure'	Escott Coiffure
+$POI	'Rue_de_Sarzeau'	Rue de Sarzeau
+$POI	'Rue_François-Charles_Oberthur'	Rue François-Charles Oberthur
+$POI	'Rue_du_8_Mai_1945'	Rue du 8 Mai 1945
+$POI	'Sandwicherie_du_Palais'	Sandwicherie du Palais
+$POI	'Levis'	Levis
+$POI	'Rue_Jules_Flandrin'	Rue Jules Flandrin
+$POI	'Caulet'	Caulet
+$POI	'Avenue_Jean_Perrot'	Avenue Jean Perrot
+$POI	'Bus_733:_Ludenberg?_=>_Derendorf?'	Bus 733: Ludenberg? => Derendorf?
+$POI	'Esquirol'	Esquirol
+$POI	'Avenue_Fénelon'	Avenue Fénelon
+$POI	'Rue_du_Moulin_du_Château'	Rue du Moulin du Château
+$POI	'Celio_Club'	Celio Club
+$POI	'Victor_Hugo'	Victor Hugo
+$POI	'Zum_Wattkorn'	Zum Wattkorn
+$POI	'Gustav_Heinemann'	Gustav Heinemann
+$POI	'Müllverwertung'	Müllverwertung
+$POI	'Eden_Literie'	Eden Literie
+$POI	'Croix_Daurade'	Croix Daurade
+$POI	'Holzstraße'	Holzstraße
+$POI	'Internity'	Internity
+$POI	'L'Eau_Vive'	L'Eau Vive
+$POI	'Iserbrook'	Iserbrook
+$POI	'Benetton'	Benetton
+$POI	'Lancel'	Lancel
+$POI	'Rue_de_Lorient'	Rue de Lorient
+$POI	'NH_Düsseldorf_City_Nord'	NH Düsseldorf City Nord
+$POI	'Thesing_Frische-Bäcker'	Thesing Frische-Bäcker
+$POI	'Sésam'	Sésam
+$POI	'Point.P'	Point.P
+$POI	'17_:_Grenoble_=>_Le_Gua_Direct'	17 : Grenoble => Le Gua Direct
+$POI	'Rue_Porte_Sardane'	Rue Porte Sardane
+$POI	'Rue_Delphine_Seyrig'	Rue Delphine Seyrig
+$POI	'Cutman_Friseur'	Cutman Friseur
+$POI	'L'auberge_du_Chat-Pitre'	L'auberge du Chat-Pitre
+$POI	'Kopernikusstraße'	Kopernikusstraße
+$POI	'15'	15
+$POI	'Vallier_-_Catane'	Vallier - Catane
+$POI	'Gymnase_Bertrand_Soncourt'	Gymnase Bertrand Soncourt
+$POI	'Allemand'	Allemand
+$POI	'Hôtel_de_Cintré'	Hôtel de Cintré
+$POI	'Hirschberger_/_Reischmann'	Hirschberger   Reischmann
+$POI	'Rue_d'Antrain'	Rue d'Antrain
+$POI	'Masmeier'	Masmeier
+$POI	'Rue_Paul_Merlin'	Rue Paul Merlin
+$POI	'Ligne_de_Toulouse_à_Bayonne'	Ligne de Toulouse à Bayonne
+$POI	'Stadttor'	Stadttor
+$POI	'Unter_den_Eichen'	Unter den Eichen
+$POI	'Sanna_Rauhala-Parrey'	Sanna Rauhala-Parrey
+$POI	'PasSage_Obligé'	PasSage Obligé
+$POI	'Périphérique_Intérieur'	Périphérique Intérieur
+$POI	'Société_Générale'	Société Générale
+$POI	'Festenbergstraße'	Festenbergstraße
+$POI	'Pharmacie_115'	Pharmacie 115
+$POI	'Music_Action'	Music Action
+$POI	'Mali_Appermann'	Mali Appermann
+$POI	'Elfgenweg'	Elfgenweg
+$POI	'Pavillon_Faustino_Malagutti_(D)'	Pavillon Faustino Malagutti (D)
+$POI	'Impasse_Gilles_Thau'	Impasse Gilles Thau
+$POI	'Galerie_des_Trois_Quartiers'	Galerie des Trois Quartiers
+$POI	'La_Frise'	La Frise
+$POI	'Virginia_Woolf'	Virginia Woolf
+$POI	'Allée_de_Brienne'	Allée de Brienne
+$POI	'Théâtre_de_Création'	Théâtre de Création
+$POI	'Marina_Düsseldorf'	Marina Düsseldorf
+$POI	'Avenue_Salvador_Allende'	Avenue Salvador Allende
+$POI	'Rue_Émile_Zola'	Rue Émile Zola
+$POI	'Prehnsweg'	Prehnsweg
+$POI	'Recup'Verre'	Recup'Verre
+$POI	'Sandkamp'	Sandkamp
+$POI	'Fleher_Deich'	Fleher Deich
+$POI	'Rue_Auguste_Pavie'	Rue Auguste Pavie
+$POI	'Grindhouse_−_Homemade_Burgers'	Grindhouse − Homemade Burgers
+$POI	'Place_du_Président_Wilson'	Place du Président Wilson
+$POI	'Mergenthalerweg'	Mergenthalerweg
+$POI	'Avenue_Saint-Granier'	Avenue Saint-Granier
+$POI	'Lammenais'	Lammenais
+$POI	'Am_Gehöckel'	Am Gehöckel
+$POI	'Passage_d'Ille_et_Rance'	Passage d'Ille et Rance
+$POI	'Hôtel_de_Blossac'	Hôtel de Blossac
+$POI	'Airbus_Gift_Shop'	Airbus Gift Shop
+$POI	'Garigliano'	Garigliano
+$POI	'Gare_Routière_de_Grenoble'	Gare Routière de Grenoble
+$POI	'Aurelia'	Aurelia
+$POI	'Magali_Saraglia_Coiffure'	Magali Saraglia Coiffure
+$POI	'Hauptzollamt_Düsseldorf'	Hauptzollamt Düsseldorf
+$POI	'Galerie_de_l'Arlequin'	Galerie de l'Arlequin
+$POI	'Rue_Jonquières'	Rue Jonquières
+$POI	'Heinefeldplatz'	Heinefeldplatz
+$POI	'Klein_Finances'	Klein Finances
+$POI	'Hans-Sachs-Straße'	Hans-Sachs-Straße
+$POI	'Métro_Ligne_a'	Métro Ligne a
+$POI	'Square_d'Estonie'	Square d'Estonie
+$POI	'Orcanta'	Orcanta
+$POI	'Danziger_Straße'	Danziger Straße
+$POI	'Eisenstraße'	Eisenstraße
+$POI	'Ferrazi'	Ferrazi
+$POI	'La_Gazzetta'	La Gazzetta
+$POI	'Pavie'	Pavie
+$POI	'Wetterstraße'	Wetterstraße
+$POI	'Lerchenberg'	Lerchenberg
+$POI	'Autohaus_Michael'	Autohaus Michael
+$POI	'Ma_Petite_Agence'	Ma Petite Agence
+$POI	'Place_Armand_Faillères'	Place Armand Faillères
+$POI	'Pharmacie_du_raisin'	Pharmacie du raisin
+$POI	'Schloßufer'	Schloßufer
+$POI	'Sushi_Shop'	Sushi Shop
+$POI	'Abaton_Bistro'	Abaton Bistro
+$POI	'Schanzenbäckerei'	Schanzenbäckerei
+$POI	'Fehmarnstraße'	Fehmarnstraße
+$POI	'Falkenstein'	Falkenstein
+$POI	'Chemin_de_Limayrac'	Chemin de Limayrac
+$POI	'Axel-Springer-Platz_/_Wexstraße'	Axel-Springer-Platz   Wexstraße
+$POI	'Seeweg'	Seeweg
+$POI	'Résidence_des_Tilleuls'	Résidence des Tilleuls
+$POI	'Papeteries'	Papeteries
+$POI	'Kettwiger_Straße'	Kettwiger Straße
+$POI	'Square_Marcel_Bouget'	Square Marcel Bouget
+$POI	'Bus_Rennes_Ligne_C3_Direction_Saint-Laurent'	Bus Rennes Ligne C3 Direction Saint-Laurent
+$POI	'Avenue_du_Général_George_S._Patton'	Avenue du Général George S. Patton
+$POI	'GIGA_Informationszentrum_-_Fachbibliothek_Nahost'	GIGA Informationszentrum - Fachbibliothek Nahost
+$POI	'Shopi'	Shopi
+$POI	'Tony_Lippmann_geb._Cohn'	Tony Lippmann geb. Cohn
+$POI	'Neuer_Friedhof'	Neuer Friedhof
+$POI	'Rue_Robert_Bajac'	Rue Robert Bajac
+$POI	'Eis-Café-Höft'	Eis-Café-Höft
+$POI	'Chemin_de_Turlu'	Chemin de Turlu
+$POI	'Marktstraße'	Marktstraße
+$POI	'Nouveau_bâtiment'	Nouveau bâtiment
+$POI	'Autoroute_des_Deux_Mers'	Autoroute des Deux Mers
+$POI	'Avenue_La_Bruyère'	Avenue La Bruyère
+$POI	'Quai_de_la_Prévalaye'	Quai de la Prévalaye
+$POI	'École_primaire_Houille_Blanche'	École primaire Houille Blanche
+$POI	'Rue_Surcouf'	Rue Surcouf
+$POI	'Bassin_de_la_cité_admnistrative'	Bassin de la cité admnistrative
+$POI	'Maison_de_la_Clé'	Maison de la Clé
+$POI	'Rue_Pierre_Bayle'	Rue Pierre Bayle
+$POI	'Guzzi'	Guzzi
+$POI	'Dr._Max_Besser'	Dr. Max Besser
+$POI	'Christophorus_Grundschule_–_Ganztag'	Christophorus Grundschule – Ganztag
+$POI	'Dorfplatz-Apotheke'	Dorfplatz-Apotheke
+$POI	'Sator_Arepo_Tenet_Opera_Rotas'	Sator Arepo Tenet Opera Rotas
+$POI	'Avenue_Frédéric_Estèbe'	Avenue Frédéric Estèbe
+$POI	'Passage_Guy_Serra'	Passage Guy Serra
+$POI	'Marie_van_Biema_geb._Wassertrüdinger'	Marie van Biema geb. Wassertrüdinger
+$POI	'PEP_35'	PEP 35
+$POI	'Ming_Sen-Hsi_Lin'	Ming Sen-Hsi Lin
+$POI	'Allée_Auguste_Louis_Jobbé_Duval'	Allée Auguste Louis Jobbé Duval
+$POI	'Luigi's'	Luigi's
+$POI	'Kapelle_9'	Kapelle 9
+$POI	'Johannes_Prassek'	Johannes Prassek
+$POI	'Crédit_Agricole'	Crédit Agricole
+$POI	'Pizza_Le_Napoli'	Pizza Le Napoli
+$POI	'Agence_de_Mobilité_Centre_Ville'	Agence de Mobilité Centre Ville
+$POI	'ZZZ_Bus_72:_République_=>_Bois_Esnault'	ZZZ Bus 72: République => Bois Esnault
+$POI	'Parc_de_la_flèche'	Parc de la flèche
+$POI	'Avenue_de_l'Aéropostale'	Avenue de l'Aéropostale
+$POI	'Rennes_E'	Rennes E
+$POI	'Montand'	Montand
+$POI	'UM_1_&_2'	UM 1 & 2
+$POI	'Bruno_Kempe'	Bruno Kempe
+$POI	'Bolkerstraße'	Bolkerstraße
+$POI	'Rue_Velasquez'	Rue Velasquez
+$POI	'Lukas_Suchthilfezentrum_Hamburg-West'	Lukas Suchthilfezentrum Hamburg-West
+$POI	'Mekan'	Mekan
+$POI	'Montée_Chalemont'	Montée Chalemont
+$POI	'Parc_de_Sibiu'	Parc de Sibiu
+$POI	'Königsbusch'	Königsbusch
+$POI	'Celio'	Celio
+$POI	'Marion_Birmann'	Marion Birmann
+$POI	'LIDL_Angermund'	LIDL Angermund
+$POI	'Edeka'	Edeka
+$POI	'Matratzen_Concord'	Matratzen Concord
+$POI	'Square_du_Docteur_Hippolyte_Dayot'	Square du Docteur Hippolyte Dayot
+$POI	'Karl-Geusen-Straße'	Karl-Geusen-Straße
+$POI	'Square_Commandant_Christian_Dutertre'	Square Commandant Christian Dutertre
+$POI	'Rue_d'Espagne'	Rue d'Espagne
+$POI	'Wilhelm-Busch-Straße'	Wilhelm-Busch-Straße
+$POI	'Impasse_Bellerive'	Impasse Bellerive
+$POI	'Rue_Denfert-Rochereau'	Rue Denfert-Rochereau
+$POI	'Jenfelder_Straße'	Jenfelder Straße
+$POI	'Kriegerdenkmal'	Kriegerdenkmal
+$POI	'Hippodrome'	Hippodrome
+$POI	'Volksbank_Nordheide'	Volksbank Nordheide
+$POI	'Rue_de_la_Magnanerie'	Rue de la Magnanerie
+$POI	'Grenoble_Stalingrad'	Grenoble Stalingrad
+$POI	'Hochschulbibliothek_der_Fachhochschule_Düsseldorf'	Hochschulbibliothek der Fachhochschule Düsseldorf
+$POI	'Rochusclub_-_Tennisclub_e._V.'	Rochusclub - Tennisclub e. V.
+$POI	'Ohlstedt'	Ohlstedt
+$POI	'Collège_Montbarrot'	Collège Montbarrot
+$POI	'Subway'	Subway
+$POI	'Place_de_la_République'	Place de la République
+$POI	'Quai_Lamennais'	Quai Lamennais
+$POI	'Rue_de_la_Néva'	Rue de la Néva
+$POI	'Avenue_Sir_Winston_Churchill'	Avenue Sir Winston Churchill
+$POI	'Century_21'	Century 21
+$POI	'GEG'	GEG
+$POI	'Bâtiment_L'	Bâtiment L
+$POI	'Cours_Kennedy'	Cours Kennedy
+$POI	'association_des_petits_débrouillards_de_Rennes'	association des petits débrouillards de Rennes
+$POI	'Allée_du_Doyen_Alexandre_Lamache'	Allée du Doyen Alexandre Lamache
+$POI	'Schwarzenbergbrunnen'	Schwarzenbergbrunnen
+$POI	'Stadtbücherei'	Stadtbücherei
+$POI	'Ibis_Budget'	Ibis Budget
+$POI	'Rue_Michel_Colomb'	Rue Michel Colomb
+$POI	'denn's_Biomarkt'	denn's Biomarkt
+$POI	'Rue_Lucien_Nonorgues'	Rue Lucien Nonorgues
+$POI	'Feuerwehr_Düsseldorf_-_Rettungswache_23'	Feuerwehr Düsseldorf - Rettungswache 23
+$POI	'Tang_Wang'	Tang Wang
+$POI	'Dubrownik'	Dubrownik
+$POI	'Rheinpark'	Rheinpark
+$POI	'Ronsdorfer_Straße'	Ronsdorfer Straße
+$POI	'Le_P'tit_Félix'	Le P'tit Félix
+$POI	'Nördliche_Düssel'	Nördliche Düssel
+$POI	'Horner_Brückenweg'	Horner Brückenweg
+$POI	'Avenue_Jean_Moulin'	Avenue Jean Moulin
+$POI	'Garage_Grassi'	Garage Grassi
+$POI	'Rue_du_Lot'	Rue du Lot
+$POI	'Rue_Clément'	Rue Clément
+$POI	'Xtra_Art'	Xtra Art
+$POI	'das_Weltbouldercafé'	das Weltbouldercafé
+$POI	'U_30_(A_46)'	U 30 (A 46)
+$POI	'O'_Sushi'	O' Sushi
+$POI	'Rickelstraße'	Rickelstraße
+$POI	'Allée_de_Navarre'	Allée de Navarre
+$POI	'Alfred_Blumann'	Alfred Blumann
+$POI	'Rue_de_Brilhac'	Rue de Brilhac
+$POI	'Duisburger_Landstraße'	Duisburger Landstraße
+$POI	'SCOP_Alpine_de_Peinture'	SCOP Alpine de Peinture
+$POI	'Burgmüllerstraße'	Burgmüllerstraße
+$POI	'Avenue_de_Lasbordes'	Avenue de Lasbordes
+$POI	'Köppenstraße'	Köppenstraße
+$POI	'Centre_de_Soins'	Centre de Soins
+$POI	'Petit_Casino'	Petit Casino
+$POI	'La_Mounède'	La Mounède
+$POI	'Rue_de_Saint-Tropez'	Rue de Saint-Tropez
+$POI	'Polyclinique_du_Parc'	Polyclinique du Parc
+$POI	'Consulat_Belgique'	Consulat Belgique
+$POI	'Ibis_Styles'	Ibis Styles
+$POI	'Quai_Dujardin'	Quai Dujardin
+$POI	'Girardetbrücke'	Girardetbrücke
+$POI	'Fritz_Redlich'	Fritz Redlich
+$POI	'Am_Kämpchen'	Am Kämpchen
+$POI	'Kia'	Kia
+$POI	'Impasse_du_Pic_des_Trois_Seigneurs'	Impasse du Pic des Trois Seigneurs
+$POI	'Lycée_René_Descartes'	Lycée René Descartes
+$POI	'Pépinière_Basso_Cambo'	Pépinière Basso Cambo
+$POI	'Point_Phone'	Point Phone
+$POI	'Tchibo'	Tchibo
+$POI	'Quai_Lamartine'	Quai Lamartine
+$POI	'Rue_de_Crète'	Rue de Crète
+$POI	'Impasse_Henri_Ramet'	Impasse Henri Ramet
+$POI	'Ruscheweyhstraße'	Ruscheweyhstraße
+$POI	'Promenade_des_Bonnets_Rouges'	Promenade des Bonnets Rouges
+$POI	'Place_aux_Herbes'	Place aux Herbes
+$POI	'Rautendeleinweg'	Rautendeleinweg
+$POI	'Mag_Presse'	Mag Presse
+$POI	'ZZZ_Bus_68:_Villejean-Université_=>_Cheval_Blanc'	ZZZ Bus 68: Villejean-Université => Cheval Blanc
+$POI	'Mutualité'	Mutualité
+$POI	'Allée_du_Clos_Pilet'	Allée du Clos Pilet
+$POI	'Place_Pasteur'	Place Pasteur
+$POI	'Rue_du_Docteur_Mazet'	Rue du Docteur Mazet
+$POI	'Paul-Löbe-Straße'	Paul-Löbe-Straße
+$POI	'Am_Kaiserkai_/_Großer_Grasbrook'	Am Kaiserkai   Großer Grasbrook
+$POI	'Croix_de_Pierre'	Croix de Pierre
+$POI	'Mörsenbroicher_Ei'	Mörsenbroicher Ei
+$POI	'Pont_Pierre_de_Coubertin'	Pont Pierre de Coubertin
+$POI	'Boulevard_Maréchal_Leclerc'	Boulevard Maréchal Leclerc

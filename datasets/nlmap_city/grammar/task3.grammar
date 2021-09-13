@@ -1,0 +1,507 @@
+$LOC	'Pinneberg'	Pinneberg
+$LOC	'Adendorf'	Adendorf
+$LOC	'Witten'	Witten
+$LOC	'Glasgow'	Glasgow
+$LOC	'Bordeaux'	Bordeaux
+$LOC	'Montpellier'	Montpellier
+$LOC	'Leeds'	Leeds
+$LOC	'7e_Arrondissement'	7e Arrondissement
+$LOC	'San_Francisco'	San Francisco
+$LOC	'Manchester'	Manchester
+$POI	'West_Way'	West Way
+$POI	'Victoria_Avenue'	Victoria Avenue
+$POI	'Outrington_Drive'	Outrington Drive
+$POI	'Morley_Spring_Wood'	Morley Spring Wood
+$POI	'Crompton_Road'	Crompton Road
+$POI	'US_31E'	US 31E
+$POI	'Monument_aux_Morts_1870-71'	Monument aux Morts 1870-71
+$POI	'Marshall_Way'	Marshall Way
+$POI	'Sunnybrook_Street'	Sunnybrook Street
+$POI	'Beeton_Grove'	Beeton Grove
+$POI	'Rochdale_Canal'	Rochdale Canal
+$POI	'Kentucky_Street'	Kentucky Street
+$POI	'Rue_de_la_Tour_de_Gassies'	Rue de la Tour de Gassies
+$POI	'Worsley_Building'	Worsley Building
+$POI	'Steeplechase_Road'	Steeplechase Road
+$POI	'Moorby_Avenue'	Moorby Avenue
+$POI	'ICFT'	ICFT
+$POI	'Ruby_Street'	Ruby Street
+$POI	'The_New_Union'	The New Union
+$POI	'Seay_Street'	Seay Street
+$POI	'Leeds_Road_at_Roach_Grange_Avenue'	Leeds Road at Roach Grange Avenue
+$POI	'Darley_Avenue/Hardy_Lane'	Darley Avenue Hardy Lane
+$POI	'York_Road_Park_House_farm'	York Road Park House farm
+$POI	'Potternewton_Avenue'	Potternewton Avenue
+$POI	'Ballbrook_Avenue'	Ballbrook Avenue
+$POI	'Copperfield_Avenue'	Copperfield Avenue
+$POI	'Sudell_Street'	Sudell Street
+$POI	'Twin_Pines_Court'	Twin Pines Court
+$POI	'City_House'	City House
+$POI	'Micklethwaite_Stables'	Micklethwaite Stables
+$POI	'Epicerie'	Epicerie
+$POI	'Oxford_Road'	Oxford Road
+$POI	'Rue_des_Frères_Portmann'	Rue des Frères Portmann
+$POI	'Forest_Terrace'	Forest Terrace
+$POI	'Mayes_Street'	Mayes Street
+$POI	'Abbey_Street'	Abbey Street
+$POI	'Hummingbird_Lane'	Hummingbird Lane
+$POI	'Reynolds_Road'	Reynolds Road
+$POI	'Albert_Road/Levenshulme_Station'	Albert Road Levenshulme Station
+$POI	'Milton_Avenue'	Milton Avenue
+$POI	'The_Willows'	The Willows
+$POI	'Bramley_Clinic'	Bramley Clinic
+$POI	'Garnet_Crescent'	Garnet Crescent
+$POI	'Ash_Grove'	Ash Grove
+$POI	'Rue_Alphonse_de_Lamartine'	Rue Alphonse de Lamartine
+$POI	'Middleton_Old_Road'	Middleton Old Road
+$POI	'Rue_Marcel_Pagnol'	Rue Marcel Pagnol
+$POI	'Deauville'	Deauville
+$POI	'Calverley_Road'	Calverley Road
+$POI	'Cockshott_Lane'	Cockshott Lane
+$POI	'Rue_Gustave_Carde'	Rue Gustave Carde
+$POI	'Back_Woodlands_Grove'	Back Woodlands Grove
+$POI	'The_Waterhouse'	The Waterhouse
+$POI	'Rue_de_Strasbourg'	Rue de Strasbourg
+$POI	'The_Pen_Shop'	The Pen Shop
+$POI	'Place_Paul_Doumer'	Place Paul Doumer
+$POI	'Place_Camille_Pelletan'	Place Camille Pelletan
+$POI	'Tesco'	Tesco
+$POI	'Bassins_à_Flot'	Bassins à Flot
+$POI	'Rock_Lane'	Rock Lane
+$POI	'Lacanau'	Lacanau
+$POI	'Saint-Martial'	Saint-Martial
+$POI	'Grandview_Avenue'	Grandview Avenue
+$POI	'Metrolink'	Metrolink
+$POI	'Sherburn_Road_near_Sledmere_Place'	Sherburn Road near Sledmere Place
+$POI	'Liverpool_&_Manchester_Railway'	Liverpool & Manchester Railway
+$POI	'Cité_de_Caulet'	Cité de Caulet
+$POI	'Middleton_Park_Road'	Middleton Park Road
+$POI	'Altrincham_Road'	Altrincham Road
+$POI	'Westgate'	Westgate
+$POI	'Mauldeth_Road/Alan_Road'	Mauldeth Road Alan Road
+$POI	'Mr_T's_Traditional_Fish_&_Chips'	Mr T's Traditional Fish & Chips
+$POI	'Imli'	Imli
+$POI	'Librairie_Saint-James'	Librairie Saint-James
+$POI	'Tram_B_:_Bordeaux_Berges_de_la_Garonne_=>_Pessac_Centre'	Tram B : Bordeaux Berges de la Garonne => Pessac Centre
+$POI	'Collège_privé_Albert_Le_Grand'	Collège privé Albert Le Grand
+$POI	'Brock_Close'	Brock Close
+$POI	'Rue_Mandron'	Rue Mandron
+$POI	'Impasse_Barreyre'	Impasse Barreyre
+$POI	'Evans_Halshaw'	Evans Halshaw
+$POI	'UFO_Zone'	UFO Zone
+$POI	'Chapelle_de_l'Hôpital'	Chapelle de l'Hôpital
+$POI	'Impasse_Sainte-Catherine'	Impasse Sainte-Catherine
+$POI	'Minshull_Street_South'	Minshull Street South
+$POI	'Allée_des_Marronniers'	Allée des Marronniers
+$POI	'Rue_Léonie'	Rue Léonie
+$POI	'Tennis_Club_du_Parc'	Tennis Club du Parc
+$POI	'Killingbeck_Police_Station'	Killingbeck Police Station
+$POI	'Tiki_Lounge'	Tiki Lounge
+$POI	'West_Mosley_Street'	West Mosley Street
+$POI	'Simonsway/Co-op_Superstore'	Simonsway Co-op Superstore
+$POI	'Oak_Leaf_Street'	Oak Leaf Street
+$POI	'Princess_Road'	Princess Road
+$POI	'St_Mary's_Road/Dean_Brook_Inn'	St Mary's Road Dean Brook Inn
+$POI	'La_Pharmacie_Verte'	La Pharmacie Verte
+$POI	'Cawdor_Road'	Cawdor Road
+$POI	'Bordeaux_Soccer'	Bordeaux Soccer
+$POI	'Brookfield_Church'	Brookfield Church
+$POI	'Osborne_Street'	Osborne Street
+$POI	'WCLU-AM_(Glasgow)'	WCLU-AM (Glasgow)
+$POI	'Shayfield_Drive'	Shayfield Drive
+$POI	'Colebrook_Drive'	Colebrook Drive
+$POI	'Lowton_Avenue'	Lowton Avenue
+$POI	'Auchan_Drive'	Auchan Drive
+$POI	'Neville_Road_at_Cartmell_Drive'	Neville Road at Cartmell Drive
+$POI	'Avenue_de_Caudéran'	Avenue de Caudéran
+$POI	'Queen_Street'	Queen Street
+$POI	'Rue_du_Manège'	Rue du Manège
+$POI	'Town_Street'	Town Street
+$POI	'Great_Preston_Post_Office'	Great Preston Post Office
+$POI	'Lansdale_Gardens'	Lansdale Gardens
+$POI	'Beeston_Co-op'	Beeston Co-op
+$POI	'Boulevard_Roosevelt'	Boulevard Roosevelt
+$POI	'Allée_du_Colonel_Deschamps'	Allée du Colonel Deschamps
+$POI	'Forest_Hills_Drive'	Forest Hills Drive
+$POI	'Lidgett_Lane'	Lidgett Lane
+$POI	'Brookwood_Avenue'	Brookwood Avenue
+$POI	'The_Blue_Bell'	The Blue Bell
+$POI	'Boots_Beck'	Boots Beck
+$POI	'Platform_3'	Platform 3
+$POI	'Quai_de_Bacalan'	Quai de Bacalan
+$POI	'North_L_Rogers_Wells_Boulevard'	North L Rogers Wells Boulevard
+$POI	'Tripode'	Tripode
+$POI	'Karakal_Drive'	Karakal Drive
+$POI	'Liverpool_Road/Science_Museum'	Liverpool Road Science Museum
+$POI	'Nuffield_Hospital'	Nuffield Hospital
+$POI	'Hillcrest_Street'	Hillcrest Street
+$POI	'Egerton_Terrace'	Egerton Terrace
+$POI	'American_Avenue'	American Avenue
+$POI	'Park_View'	Park View
+$POI	'Rose_Avenue'	Rose Avenue
+$POI	'Saint-Michel'	Saint-Michel
+$POI	'Boulevard_Godard'	Boulevard Godard
+$POI	'Marion_Drive'	Marion Drive
+$POI	'Old_Jackson_Hwy_Loop_Road'	Old Jackson Hwy Loop Road
+$POI	'South_Franklin_Street'	South Franklin Street
+$POI	'Floyd_Street'	Floyd Street
+$POI	'Minshull_Street'	Minshull Street
+$POI	'Granada_Studios'	Granada Studios
+$POI	'Rue_Edmond_Michelet'	Rue Edmond Michelet
+$POI	'Avenue_Marcel_Dassault'	Avenue Marcel Dassault
+$POI	'Virginia_Avenue'	Virginia Avenue
+$POI	'Royal_Gardens'	Royal Gardens
+$POI	'Windsor_Avenue'	Windsor Avenue
+$POI	'Trigg_Court'	Trigg Court
+$POI	'Boulevard_du_Président_Roosevelt'	Boulevard du Président Roosevelt
+$POI	'South_Accommodation_Road_at_Bridgewater_Road'	South Accommodation Road at Bridgewater Road
+$POI	'Burnage'	Burnage
+$POI	'Reed_Avenue'	Reed Avenue
+$POI	'Radnor_Street'	Radnor Street
+$POI	'Oldfield_Lane_at_Elmfield_Road'	Oldfield Lane at Elmfield Road
+$POI	'Impasse_Maucouyade'	Impasse Maucouyade
+$POI	'Boulevard_du_Président_Franklin_Roosevelt'	Boulevard du Président Franklin Roosevelt
+$POI	'Ironwood_Approach'	Ironwood Approach
+$POI	'Primrose_Hill_Drive'	Primrose Hill Drive
+$POI	'Peel_Hall_Road/Coleby_Avenue'	Peel Hall Road Coleby Avenue
+$POI	'Rue_des_Vignerons'	Rue des Vignerons
+$POI	'Smithy_Lane_Fairleigh_Road'	Smithy Lane Fairleigh Road
+$POI	'Wilson's'	Wilson's
+$POI	'Holkham_Close'	Holkham Close
+$POI	'Pinfold_Lane'	Pinfold Lane
+$POI	'Tan_Bark_Street'	Tan Bark Street
+$POI	'Sheila_Drive'	Sheila Drive
+$POI	'Didsbury_-_Wilmslow_Road'	Didsbury - Wilmslow Road
+$POI	'Commercial_Drive'	Commercial Drive
+$POI	'Simmons_Street'	Simmons Street
+$POI	'Haigh_Moor_Way'	Haigh Moor Way
+$POI	'Huddersfield_Line'	Huddersfield Line
+$POI	'GIC_FO'	GIC FO
+$POI	'Bramhope_Medical_Centre'	Bramhope Medical Centre
+$POI	'Rue_des_Écoles'	Rue des Écoles
+$POI	'Briar_Cliff_Drive'	Briar Cliff Drive
+$POI	'Sunset_Avenue'	Sunset Avenue
+$POI	'Rue_Dubourdieu'	Rue Dubourdieu
+$POI	'Cascade_Court'	Cascade Court
+$POI	'Glasgow_Branch'	Glasgow Branch
+$POI	'Kirkstall_Road'	Kirkstall Road
+$POI	'Eskdale_Close'	Eskdale Close
+$POI	'Lower_Turk's_Head'	Lower Turk's Head
+$POI	'Rue_Clérambault'	Rue Clérambault
+$POI	'Maison'	Maison
+$POI	'East_End_Park_Richmond_Hill'	East End Park Richmond Hill
+$POI	'Essex_Street'	Essex Street
+$POI	'École_maternelle_Paix'	École maternelle Paix
+$POI	'Kenyon_Lane/Deanway'	Kenyon Lane Deanway
+$POI	'Construction'	Construction
+$POI	'Scottie_Drive'	Scottie Drive
+$POI	'Rue_Vieillard'	Rue Vieillard
+$POI	'Mancunian_Way'	Mancunian Way
+$POI	'Greengate/Gardener's_Arms_(Stop_A)'	Greengate Gardener's Arms (Stop A)
+$POI	'Leftbank'	Leftbank
+$POI	'Holt_View'	Holt View
+$POI	'Piperhill_Avenue'	Piperhill Avenue
+$POI	'Shorthorn_Street'	Shorthorn Street
+$POI	'Clayton_Street'	Clayton Street
+$POI	'Lycée_général_privé_Albert_Le_Grand'	Lycée général privé Albert Le Grand
+$POI	'Loxford_Street'	Loxford Street
+$POI	'Allée_du_Bois'	Allée du Bois
+$POI	'Église_Saint-Ferdinand'	Église Saint-Ferdinand
+$POI	'Rue_Eugène_Jacquet'	Rue Eugène Jacquet
+$POI	'Wood_Lane'	Wood Lane
+$POI	'High_Street'	High Street
+$POI	'Ormsgill_Street'	Ormsgill Street
+$POI	'Hunters_High_Road'	Hunters High Road
+$POI	'Thornton_Road'	Thornton Road
+$POI	'Avon_Road'	Avon Road
+$POI	'Richaud'	Richaud
+$POI	'Foundry_Lane'	Foundry Lane
+$POI	'Dob_Brook_Close'	Dob Brook Close
+$POI	'Labarde'	Labarde
+$POI	'Woodhall_Road'	Woodhall Road
+$POI	'Middleton_Park_Road_near_Bodmin_Approach'	Middleton Park Road near Bodmin Approach
+$POI	'St_Andrew's'	St Andrew's
+$POI	'Apsley_Grove'	Apsley Grove
+$POI	'Westway'	Westway
+$POI	'Colemore_Avenue'	Colemore Avenue
+$POI	'Barlow_Moor_Road/Aldermary_Road'	Barlow Moor Road Aldermary Road
+$POI	'Gaff's'	Gaff's
+$POI	'Bus_7_:_Ambarès_Parabelle_=>_Les_Aubiers'	Bus 7 : Ambarès Parabelle => Les Aubiers
+$POI	'Yates_Drive'	Yates Drive
+$POI	'Albemarle_Avenue'	Albemarle Avenue
+$POI	'Cheney_Close'	Cheney Close
+$POI	'South_Drive'	South Drive
+$POI	'Trafford_Avenue'	Trafford Avenue
+$POI	'New_Market_Street'	New Market Street
+$POI	'Prospect_Street'	Prospect Street
+$POI	'Upper_Brook_St/Grafton_St_(Stop_K)'	Upper Brook St Grafton St (Stop K)
+$POI	'Manston_St_James'_C_of_E_Primary_School'	Manston St James' C of E Primary School
+$POI	'La_Chiffone_Rit'	La Chiffone Rit
+$POI	'Manchester-Crewe_Line'	Manchester-Crewe Line
+$POI	'Dawsons_Corner'	Dawsons Corner
+$POI	'Parking_Zenpark_Bordeaux_-_Chartrons'	Parking Zenpark Bordeaux - Chartrons
+$POI	'Dickenson_Road/Birch_Polygon'	Dickenson Road Birch Polygon
+$POI	'Rue_Érik_Satie'	Rue Érik Satie
+$POI	'Albion_Street'	Albion Street
+$POI	'Elmete_Way'	Elmete Way
+$POI	'Strathmore_View'	Strathmore View
+$POI	'East_College_Street'	East College Street
+$POI	'Abbey_Hey_Lane/Lees_Street'	Abbey Hey Lane Lees Street
+$POI	'Laboratoire_d'analyses'	Laboratoire d'analyses
+$POI	'Bowker_Vale_Post_Office'	Bowker Vale Post Office
+$POI	'Burnham_Drive'	Burnham Drive
+$POI	'Highland_Park'	Highland Park
+$POI	'Sun_Valley_Drive'	Sun Valley Drive
+$POI	'North_Green_Street'	North Green Street
+$POI	'Dinsdale_Close'	Dinsdale Close
+$POI	'Impasse_Clemenceau'	Impasse Clemenceau
+$POI	'Wilmslow_Road/Grange_Lane_(Stop_D)'	Wilmslow Road Grange Lane (Stop D)
+$POI	'Amusements'	Amusements
+$POI	'Manchester_Student_Village_(South)'	Manchester Student Village (South)
+$POI	'Rue_de_la_Dauphine'	Rue de la Dauphine
+$POI	'Manchester_Business_Park'	Manchester Business Park
+$POI	'Manchester_Metropolitan_University_Students_Union'	Manchester Metropolitan University Students Union
+$POI	'Rue_Billaudel'	Rue Billaudel
+$POI	'Hillside_Close'	Hillside Close
+$POI	'Bunche_High_School'	Bunche High School
+$POI	'Rue_Lucien_Faure'	Rue Lucien Faure
+$POI	'Cours_Victor_Hugo'	Cours Victor Hugo
+$POI	'Railway_Street'	Railway Street
+$POI	'Venice_Street'	Venice Street
+$POI	'Edwards_of_Manchester'	Edwards of Manchester
+$POI	'The_Grafton_Arms'	The Grafton Arms
+$POI	'Place_Ravesies'	Place Ravesies
+$POI	'Western_Street'	Western Street
+$POI	'Woodbray_Avenue'	Woodbray Avenue
+$POI	'Oakwell_Avenue'	Oakwell Avenue
+$POI	'Ellison_Avenue'	Ellison Avenue
+$POI	'Sorenson_Drive'	Sorenson Drive
+$POI	'Ring_Road_Seacroft_near_Coal_Road_Junction'	Ring Road Seacroft near Coal Road Junction
+$POI	'Mc_Grah_Avenue'	Mc Grah Avenue
+$POI	'Longhorn_Street'	Longhorn Street
+$POI	'Moseley_Wood_Lane'	Moseley Wood Lane
+$POI	'Apex_Way'	Apex Way
+$POI	'Union_Saint-Bruno'	Union Saint-Bruno
+$POI	'Rue_Lhôte'	Rue Lhôte
+$POI	'Carrholm_View'	Carrholm View
+$POI	'Adams_Place'	Adams Place
+$POI	'Wakefield_Road_at_Stourton_Roundabout'	Wakefield Road at Stourton Roundabout
+$POI	'ASDA_Britannia_Road'	ASDA Britannia Road
+$POI	'Tongue_Lane_at_Cardinal_Heenan_School'	Tongue Lane at Cardinal Heenan School
+$POI	'Village_Circle'	Village Circle
+$POI	'amphitheatre'	amphitheatre
+$POI	'Merwood_Grove'	Merwood Grove
+$POI	'The_Place_Aparthotel'	The Place Aparthotel
+$POI	'A659_at_River_View'	A659 at River View
+$POI	'Rue_de_l'Ormeau_Mort'	Rue de l'Ormeau Mort
+$POI	'Hanover_Crescent'	Hanover Crescent
+$POI	'Back_Outwood_Lane'	Back Outwood Lane
+$POI	'Smiley_Court'	Smiley Court
+$POI	'Impasse_de_la_Fraternité'	Impasse de la Fraternité
+$POI	'Oak_Hill_Street'	Oak Hill Street
+$POI	'The_Craft_and_Design_Gallery'	The Craft and Design Gallery
+$POI	'Methley_Lane_Fleet_Lane'	Methley Lane Fleet Lane
+$POI	'Orton_Road/Moorcroft_Road'	Orton Road Moorcroft Road
+$POI	'Maréchal_Niel'	Maréchal Niel
+$POI	'Pont_Saint-Jean'	Pont Saint-Jean
+$POI	'Barlow_Road/Broom_Lane'	Barlow Road Broom Lane
+$POI	'Kelly_Services'	Kelly Services
+$POI	'Pocahontas_Trail'	Pocahontas Trail
+$POI	'Gounod'	Gounod
+$POI	'Valley_View_Drive'	Valley View Drive
+$POI	'Rue_Monsarrat'	Rue Monsarrat
+$POI	'Hillcrest_Rise'	Hillcrest Rise
+$POI	'Wilmslow_Road'	Wilmslow Road
+$POI	'King_Lane_at_Southlands_Avenue'	King Lane at Southlands Avenue
+$POI	'Pharmacie_Rive_Droite'	Pharmacie Rive Droite
+$POI	'Leeds_Road'	Leeds Road
+$POI	'Porte_de_Bourgogne'	Porte de Bourgogne
+$POI	'William_Lane'	William Lane
+$POI	'Travis_Street'	Travis Street
+$POI	'Holybourne_Walk'	Holybourne Walk
+$POI	'Keko_Moku'	Keko Moku
+$POI	'Professional_Park_Drive'	Professional Park Drive
+$POI	'Rushen_Street'	Rushen Street
+$POI	'South_Sun_Valley_Drive'	South Sun Valley Drive
+$POI	'Carter_Terrace'	Carter Terrace
+$POI	'Nicholas_Street'	Nicholas Street
+$POI	'Moss_Street'	Moss Street
+$POI	'Oatland_Road_Little_London'	Oatland Road Little London
+$POI	'Hanover_Mount'	Hanover Mount
+$POI	'Rue_des_Petits_Capérans'	Rue des Petits Capérans
+$POI	'Stubley_Farm_Mews'	Stubley Farm Mews
+$POI	'BORDEAUX_-_Bel_Air'	BORDEAUX - Bel Air
+$POI	'Helston_Road'	Helston Road
+$POI	'Leeds_and_Liverpool_Canal'	Leeds and Liverpool Canal
+$POI	'Rue_Minvielle'	Rue Minvielle
+$POI	'Whitehall_Road'	Whitehall Road
+$POI	'Appledore_Drive'	Appledore Drive
+$POI	'Golf_Lane'	Golf Lane
+$POI	'Terminals_1_and_3_Roundabout'	Terminals 1 and 3 Roundabout
+$POI	'S9_Leeds_Station_Interchange'	S9 Leeds Station Interchange
+$POI	'Hallfield_Lane_Ceres_Road'	Hallfield Lane Ceres Road
+$POI	'Welburn_Avenue'	Welburn Avenue
+$POI	'Incognito'	Incognito
+$POI	'Davenfield_Road'	Davenfield Road
+$POI	'Landrum_Street'	Landrum Street
+$POI	'Chesham_Avenue'	Chesham Avenue
+$POI	'Rue_du_Marais'	Rue du Marais
+$POI	'Colliery_Street'	Colliery Street
+$POI	'Daisy_Bank'	Daisy Bank
+$POI	'Commercial_Avenue'	Commercial Avenue
+$POI	'Briarwood_Avenue'	Briarwood Avenue
+$POI	'Lynn_Court'	Lynn Court
+$POI	'Anne_Nuttall_Road'	Anne Nuttall Road
+$POI	'Rue_du_Château_d'Eau'	Rue du Château d'Eau
+$POI	'Celtic_Circle'	Celtic Circle
+$POI	'Bayswater_Mount'	Bayswater Mount
+$POI	'Great_Dib'	Great Dib
+$POI	'Place_du_Champ_de_Mars'	Place du Champ de Mars
+$POI	'Penfold_Walk'	Penfold Walk
+$POI	'The_Britannia_Hotel'	The Britannia Hotel
+$POI	'Ardwick_Terrace'	Ardwick Terrace
+$POI	'Sugartree_Lane'	Sugartree Lane
+$POI	'Ukrainian_Centre'	Ukrainian Centre
+$POI	'Rue_Saint-Siméon'	Rue Saint-Siméon
+$POI	'Immeuble_(reste_du_Noviciat_des_Jésuites)'	Immeuble (reste du Noviciat des Jésuites)
+$POI	'Balmoral_Way'	Balmoral Way
+$POI	'Magnolia_Drive'	Magnolia Drive
+$POI	'Shannon_Street'	Shannon Street
+$POI	'Didley_Square'	Didley Square
+$POI	'Rue_Robert_d'Ennery'	Rue Robert d'Ennery
+$POI	'Shepherd_Street'	Shepherd Street
+$POI	'Moulin_Rouge'	Moulin Rouge
+$POI	'East_Cherry_Street'	East Cherry Street
+$POI	'Palais_des_Congrès'	Palais des Congrès
+$POI	'Uncle_Johns_Lane'	Uncle Johns Lane
+$POI	'Ring_Road_Beeston_Park_Shared_Use_Footway'	Ring Road Beeston Park Shared Use Footway
+$POI	'Glen_Garry_Road'	Glen Garry Road
+$POI	'New_Mount_Street'	New Mount Street
+$POI	'Lake_View'	Lake View
+$POI	'Impasse_Lacoste'	Impasse Lacoste
+$POI	'Victoire'	Victoire
+$POI	'Leeds_Potternewton_Lane'	Leeds Potternewton Lane
+$POI	'Beckenham_Road'	Beckenham Road
+$POI	'Thornton_Street_North/Lashbrook_Close'	Thornton Street North Lashbrook Close
+$POI	'Manchester_Superstores'	Manchester Superstores
+$POI	'Culmere_Road'	Culmere Road
+$POI	'Perkins_Road'	Perkins Road
+$POI	'Rue_de_la_Coquille'	Rue de la Coquille
+$POI	'Rue_Kléber'	Rue Kléber
+$POI	'Tartan_Way'	Tartan Way
+$POI	'Sandwood_Drive'	Sandwood Drive
+$POI	'Rue_de_Beïra'	Rue de Beïra
+$POI	'Wortley_Lane'	Wortley Lane
+$POI	'Stanley_Grove/Pink_bank_Lane'	Stanley Grove Pink bank Lane
+$POI	'Montcliffe_Crescent'	Montcliffe Crescent
+$POI	'Coupland_Street'	Coupland Street
+$POI	'Witten_Hbf'	Witten Hbf
+$POI	'Gildersome_Lane_New_Lane'	Gildersome Lane New Lane
+$POI	'Chez_Lam'	Chez Lam
+$POI	'Eyre_Street'	Eyre Street
+$POI	'Place_Croix_de_Lestonnat'	Place Croix de Lestonnat
+$POI	'Physics_Research_Deck'	Physics Research Deck
+$POI	'Mac_Intosh_Way'	Mac Intosh Way
+$POI	'Westbury_Grove'	Westbury Grove
+$POI	'Wortley_Grove'	Wortley Grove
+$POI	'Hackleton_Close'	Hackleton Close
+$POI	'South_Race_Street'	South Race Street
+$POI	'Gorin_Park'	Gorin Park
+$POI	'Hill_Top_View'	Hill Top View
+$POI	'Victoria_Mews'	Victoria Mews
+$POI	'Amphithéâtre_1'	Amphithéâtre 1
+$POI	'Rue_du_Cellier'	Rue du Cellier
+$POI	'Rue_Léon_Aucoc'	Rue Léon Aucoc
+$POI	'Actonville_Avenue'	Actonville Avenue
+$POI	'Hoyle_Street'	Hoyle Street
+$POI	'Chain_Road'	Chain Road
+$POI	'Kirkstall_Health_Centre'	Kirkstall Health Centre
+$POI	'Henry_Terrace'	Henry Terrace
+$POI	'Rockdove_Avenue'	Rockdove Avenue
+$POI	'Glenthorpe_Crescent'	Glenthorpe Crescent
+$POI	'Sedgeford_Road'	Sedgeford Road
+$POI	'Batcliffe_Wood'	Batcliffe Wood
+$POI	'Quai_de_la_Monnaie'	Quai de la Monnaie
+$POI	'Place_de_Stalingrad'	Place de Stalingrad
+$POI	'Withington_Clinic'	Withington Clinic
+$POI	'Austin_Avenue'	Austin Avenue
+$POI	'The_Boulevard'	The Boulevard
+$POI	'Autumn_Ridge'	Autumn Ridge
+$POI	'Stanningley_By-Pass_Swinnow_Road'	Stanningley By-Pass Swinnow Road
+$POI	'Church_Farm_Close'	Church Farm Close
+$POI	'Wilson's_Plantation'	Wilson's Plantation
+$POI	'Cheetham_Hill_Rd/Huxley_Ave_(Stop_D)'	Cheetham Hill Rd Huxley Ave (Stop D)
+$POI	'Rue_de_Bethmann'	Rue de Bethmann
+$POI	'Morley_Health_Centre'	Morley Health Centre
+$POI	'Butt_Lane_at_Ring_Road_Farnley'	Butt Lane at Ring Road Farnley
+$POI	'Rue_Saint-Benoît'	Rue Saint-Benoît
+$POI	'Long_Millgate'	Long Millgate
+$POI	'Carsat'	Carsat
+$POI	'Ikea_Car_Park'	Ikea Car Park
+$POI	'Whack_House_Close'	Whack House Close
+$POI	'R3_The_Headrow'	R3 The Headrow
+$POI	'Maplewood_Place'	Maplewood Place
+$POI	'Rue_de_Châteaudun'	Rue de Châteaudun
+$POI	'Rue_Lefol'	Rue Lefol
+$POI	'River_Medlock'	River Medlock
+$POI	'The_Pasty_Shop'	The Pasty Shop
+$POI	'Manchester_Piccadilly'	Manchester Piccadilly
+$POI	'Terrace_Manor'	Terrace Manor
+$POI	'Autumn_Ridge_Road'	Autumn Ridge Road
+$POI	'Australasia'	Australasia
+$POI	'Petworth_Close'	Petworth Close
+$POI	'Rue_du_Lavoir'	Rue du Lavoir
+$POI	'Cragg_Road'	Cragg Road
+$POI	'Linnet_Close'	Linnet Close
+$POI	'Broadway_Feather_Bank_Lane'	Broadway Feather Bank Lane
+$POI	'Lamsholme_Close'	Lamsholme Close
+$POI	'Adexam'	Adexam
+$POI	'Wellington_Street'	Wellington Street
+$POI	'Corn_Mill_Lodge'	Corn Mill Lodge
+$POI	'Worrall_Street'	Worrall Street
+$POI	'Nassau_Place'	Nassau Place
+$POI	'Shamrock_Place'	Shamrock Place
+$POI	'Avenue_Charles_de_Gaulle'	Avenue Charles de Gaulle
+$POI	'Tram_C_:_Parc_des_Expositions_=>_Bègles_Terres_Neuves'	Tram C : Parc des Expositions => Bègles Terres Neuves
+$POI	'Cringle_Brook'	Cringle Brook
+$POI	'Pizza'	Pizza
+$POI	'Promenade_Sainte-Catherine'	Promenade Sainte-Catherine
+$POI	'FRAC_-_Collection_Aquitaine'	FRAC - Collection Aquitaine
+$POI	'Le_Bistrot_du_Musée'	Le Bistrot du Musée
+$POI	'Rue_du_Jardin_Public'	Rue du Jardin Public
+$POI	'Hobberley_Lane'	Hobberley Lane
+$POI	'Field_End_Grove'	Field End Grove
+$POI	'Copthall_Lane'	Copthall Lane
+$POI	'Rue_Carton'	Rue Carton
+$POI	'Jack_Lane'	Jack Lane
+$POI	'Gledhow_Valley_Road'	Gledhow Valley Road
+$POI	'Half_Mile_Green'	Half Mile Green
+$POI	'R4_The_Headrow'	R4 The Headrow
+$POI	'Stalingrad'	Stalingrad
+$POI	'Otley_Civic_Centre_(formerly_Mechanics_Institute)'	Otley Civic Centre (formerly Mechanics Institute)
+$POI	'Greenhill_Road/Cheetham_Hill_Road'	Greenhill Road Cheetham Hill Road
+$POI	'Green_Lane'	Green Lane
+$POI	'Middleton_Road'	Middleton Road
+$POI	'Watersole_Lane'	Watersole Lane
+$POI	'Clarence_Dock'	Clarence Dock
+$POI	'Princess_Road/Mauldeth_Road_West'	Princess Road Mauldeth Road West
+$POI	'Pasture_View_Road'	Pasture View Road
+$POI	'Impasse_Marion'	Impasse Marion
+$POI	'Cranmore_Green'	Cranmore Green
+$POI	'Sainsburys'	Sainsburys
+$POI	'Hall_Moss_Road/The_Clough'	Hall Moss Road The Clough
+$POI	'Eastview_Drive'	Eastview Drive
+$POI	'Rue_de_La_Boétie'	Rue de La Boétie
+$POI	'Newton_Street'	Newton Street
+$POI	'May_Street'	May Street
+$POI	'Centre_commercial_Mériadeck'	Centre commercial Mériadeck
+$POI	'Passage_Beaujau'	Passage Beaujau
+$POI	'Black_Moor_Road_Scotland_Wood_Road'	Black Moor Road Scotland Wood Road
+$POI	'Welcomb_Street'	Welcomb Street
+$POI	'Ledgard_Way'	Ledgard Way
+$POI	'Malton_Avenue'	Malton Avenue
+$POI	'Hatchett_Court'	Hatchett Court
+$POI	'Sony_Centre'	Sony Centre
+$POI	'Industrial_Drive'	Industrial Drive
+$POI	'Rue_Blanqui'	Rue Blanqui
+$POI	'Wilbraham_Road/Withington_Road'	Wilbraham Road Withington Road

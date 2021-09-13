@@ -1,0 +1,27 @@
+$EntityNP1	en.person.alice
+$EntityNP2	en.person.bob
+
+$TypeNP	en.person
+
+$EntityNP1	( date 2004 -1 -1 )
+$EntityNP2	( date 2010 -1 -1 )
+
+$Value	( number 10 en.minute )
+$Value	( number 300 en.minute )
+
+$EventNP	( call @getProperty ( call @singleton en.education ) ( string !type ) )
+
+$RelNP	( string cuisine )
+
+$RelNP	( string neighborhood )
+$TypeNP	en.neighborhood
+
+$EntityNP1	en.color.red
+$EntityNP2	en.color.green
+
+$RelNP	( string length )
+
+$RelNP	( string height )
+
+$EntityNP1	en.neighborhood.midtown_west
+$EntityNP2	en.neighborhood.chelsea

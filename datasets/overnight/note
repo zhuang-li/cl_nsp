@@ -1,0 +1,5 @@
+predicate transition probability not change, just the entity transition probability change
+1. P(A_p|X) does not change, P(A^i_p|A^j_p) does not change, P(A_e|entity_type) change, P(e_type|X) does not change
+2. part of P(A_p|X) does not change, part of P(A^i_p|A^j_p) does change, part of P(A_e|entity_type) change, P(e_type|X) does not change
+3. P(A_p|X) does not change, P(A^i_p|A^j_p) does not change? P(A_e|entity_type) change, P(e_type|X) does change
+to do: optimal transport or A-distance to verify the hypothesis
